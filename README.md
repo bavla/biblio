@@ -1,4 +1,4 @@
 # biblio
 Bibliographic network analysis
 
-[[Biblio wiki|wiki]]
+For details see the wiki.
