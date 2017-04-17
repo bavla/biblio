@@ -28,4 +28,4 @@ N 4 BATOESUM 3 (3994)
 N 5 MULLINVAL 4 by 0.5000 1 (3994)
 % Disposing Network...
 N 4 DN  (3994)
-N 5 NETNAME biCn
+N 5 NETNAME biCon
