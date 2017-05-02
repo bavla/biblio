@@ -10,3 +10,13 @@ The function description produces a csv file csvFile containing a table with col
 > T$code <- 1  
 > d <- description("mainpath.net","mainpath.csv",T)  
 > head(d)  
+
+## listSubNets
+
+We first prepare the right environment: load R functions description and listSubNets, set the working directory and read in a data frame T the information about works from the file titles.csv produced by WoS2Pajek:
+
+> source("C:/Users/batagelj/work/Python/WoS/peere1/description.R")
+> source("C:/Users/batagelj/work/Python/WoS/BM/listSubNets.R")
+> setwd("C:/Users/batagelj/work/Python/WoS/BM/results/jaccard")
+> T <- read.csv('../../titles.csv',sep=";",colClasses="character"); T$code <- 1
+> listSubNets("Jislands.net","Jislands.clu","/Jislands/",T)
