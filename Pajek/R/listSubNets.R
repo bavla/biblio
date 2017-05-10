@@ -1,10 +1,11 @@
-# Extracting subnetworks and listing their titles
+# WoS2Pajek - Extracting subnetworks and listing their titles
 # V. Batagelj, May 1st, 2017
 # ------------------------------------------------------
 
 listSubNets <- function(net,clu,subdir,T){
   cat("WoS2Pajek - Extracting subnetworks and listing their titles\n",
     "V. Batagelj, May 2017\n\n",date(),"\n",sep="")
+  dir.create(paste(".",subdir,sep=""),showWarnings=FALSE)
   t <- table(read.csv(clu,head=FALSE,skip=1)$V1)
   if(names(t)[1]=="0") t <- t[2:length(t)]
   cluA <- paste(getwd(),"/",clu,sep=""); netA <- paste(getwd(),"/",net,sep="")
