@@ -1,6 +1,8 @@
 # BibTeX2Pajek
 
 BiBTeX -> Pajek converter, programmed in Python 2 by Vladimir Batagelj, April 2006. Adapted for Python 3 by Vladimir Batagelj, July 2017.
+
+BibTeX2Pajek converts a given BibTeX bibliography into a collection of temporal Pajek's files.
 <pre><code>>>> wdir = r'C:\Users\batagelj\work\Python\BibTeX'
 >>> import os; os.chdir(wdir)
 >>> import BibTeX2Pajek
