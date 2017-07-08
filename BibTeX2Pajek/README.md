@@ -27,3 +27,5 @@ BibTeX2Pajek - done
 </code></pre>
 
 [Sredin seminar](http://vlado.fmf.uni-lj.si/seminar/05apr06/)
+
+[The Collection of Computer Science Bibliographies](https://liinwww.ira.uka.de/bibliography/index.html)
