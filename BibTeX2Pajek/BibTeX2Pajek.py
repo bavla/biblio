@@ -1,14 +1,18 @@
 #!/usr/bin/python
 #------------------------------------------------------------------------------
 #
-#   BiBTeX -> Pajek converter
+#   BiBTeX -> Pajek converter 
 #
-#   Vladimir Batagelj, April 2006
+#   Vladimir Batagelj, April 2006 (Python 2)
 #
 #   adapted for Python 3 by Vladimir Batagelj, July 2017
 #------------------------------------------------------------------------------
+#   >>> wdir = r'C:\Users\batagelj\work\Python\BibTeX'
+#   >>> import os; os.chdir(wdir)
+#   >>> import BibTeX2Pajek
+#   >>> BibTeX2Pajek.run('','intbib.bib',1)
+#------------------------------------------------------------------------------
 
-# from string import strip, split, replace, lower, index
 from sys import argv, exit, modules
 import re, time
 global  nam, numRec, links, aTab, wTab, yMax
@@ -69,15 +73,15 @@ def run(workdir,input,inst):
    print('bibFile   = ', workdir+input)
    net = open(workdir+'bib.net','w')
    print('networkFile = ', workdir+'bib.net')
-   nam = open(workdir+'bib.nam','w')
-   print('titleFile = ', workdir+'bib.nam')
+   nam = open(workdir+'bibWork.nam','w')
+   print('titleFile = ', workdir+'bibWork.nam')
    nam.write('*vertices\n')
-   vec = open(workdir+'bib.vec','w')
-   print('yearFile = ', workdir+'bib.vec')
+   pub = open(workdir+'bibYear.clu','w')
+   print('yearFile = ', workdir+'bibYear.clu')
    clu = open(workdir+'bib.clu','w')
    print('typeFile = ', workdir+'bib.clu')
-   aut = open(workdir+'bib.aut','w')
-   eqv = open(workdir+'bibeqv.clu','w')
+   aut = open(workdir+'bibAut.nam','w')
+   print('authorsFile = ', workdir+'bibAut.nam')
    links = {}; wTab = {'0':['0']}; aTab = {'0':['0']}
    numRec = 0; bibRec = ''; bibType = -1
    numLine = 0; last = 0; yMax = 0
@@ -109,7 +113,7 @@ def run(workdir,input,inst):
    if inst==0: net.write('% instantaneous\n')
    else: net.write('% cumulative\n')
    net.write('*vertices %s %s\n' % (numVer,numRec))
-   vec.write('*vertices %s \n' % numRec)
+   pub.write('*vertices %s \n' % numRec)
    clu.write('%  0 - author\n')
    for i in range(len(pubs)):
       clu.write('% '); clu.write('%2i - %s\n' % (i+1,pubs[i]))
@@ -119,13 +123,13 @@ def run(workdir,input,inst):
       if inst==0: net.write('%6i  \"%s\" [%i]\n' % (t[0],t[3],t[2]))
       else: net.write('%6i  \"%s\" [%i-%i]\n' % (t[0],t[3],t[2],yMax))
       clu.write('%s\n' % (1+t[1]))
-      vec.write('%s\n' % t[2])
+      pub.write('%s\n' % t[2])
    L=sorted(aTab.values())
    for t in L:
       if inst==0: net.write('%6i \"%s\" [%i-%i]\n' % (numRec+t[0],t[3],t[1],t[2]))
       else: net.write('%6i \"%s\" [%i-%i]\n' % (numRec+t[0],t[3],t[1],yMax))
       clu.write('%s\n' % 0)
-   nam.close(); vec.close(); clu.close();
+   nam.close(); pub.close(); clu.close();
    net.write('*Edges\n')
    for w in links.keys():
       t = wTab[w]
@@ -134,20 +138,18 @@ def run(workdir,input,inst):
          else: net.write('%5i %5i 1 [%i-%i]\n' % (t[0],numRec+a,t[2],yMax))
    L = sorted(L, key=lambda x: x[3][x[3].rfind(' '):].lower())
    for t in L: aut.write('%6i \"%s\"\n' % (numRec+t[0],t[3]))
-   eqv.write('*vertices %s \n' % numVer)
-   for i in range(numVer): eqv.write('%s\n' % (i+1))
-   bib.close(); net.close();  aut.close(); eqv.close()
+   bib.close(); net.close();  aut.close() 
    print('BibTeX2Pajek - done')
 
 #
 # run BibTeX2Pajek
 #
-if __name__ == '__main__': # run it from command line
-   if len(argv) == 4:
+if __name__ == '__main__': 
+   if len(argv) == 4: # run it from command line
       run(argv[1],argv[2],argv[3])
-   else:
+   else: 
       print("Module BibTeX2Pajek")
-      if "idlelib" in modules:
+      if "idlelib" in modules: # Idle Run/Run Module
          wDir = input("Working directory = ")
          bibFile = input("BibTeX file = ")
          inst = int(input("0-instantaneous, 1-cumulative = "))
@@ -158,7 +160,7 @@ if __name__ == '__main__': # run it from command line
 else: # it is imported
    print("Module BibTeX2Pajek imported.")
    print("To run, type: BibTeX2pajek.run(WorkDir,BibTeXfile,instant)")
-   print("where bibFile is your input BibTeX file, and")
+   print("where BibTeXfile is your input BibTeX file, and")
    print("instant is a switch 0-instantaneous, 1-cumulative")
 #- End -------------------------------------------------------------------------------
 
