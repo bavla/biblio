@@ -1,6 +1,6 @@
 # BibTeX2Pajek
 
-
+<pre><code>
 >>> wdir = r'C:\Users\batagelj\work\Python\BibTeX'
 >>> import os; os.chdir(wdir)
 >>> import BibTeX2Pajek
@@ -22,3 +22,4 @@ Unknown head, line= 11914
  
 BibTeX2Pajek - done
 >>>
+</code></pre>
