@@ -1,7 +1,7 @@
 # BibTeX2Pajek
 
-<pre><code>
->>> wdir = r'C:\Users\batagelj\work\Python\BibTeX'
+BiBTeX -> Pajek converter, programmed in Python 2 by Vladimir Batagelj, April 2006. Adapted for Python 3 by Vladimir Batagelj, July 2017.
+<pre><code>>>> wdir = r'C:\Users\batagelj\work\Python\BibTeX'
 >>> import os; os.chdir(wdir)
 >>> import BibTeX2Pajek
 Module BibTeX2Pajek imported.
