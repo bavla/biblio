@@ -23,3 +23,5 @@ Unknown head, line= 11914
 BibTeX2Pajek - done
 >>>
 </code></pre>
+
+[Sredin seminar](http://vlado.fmf.uni-lj.si/seminar/05apr06/)
