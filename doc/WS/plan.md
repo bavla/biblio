@@ -79,6 +79,11 @@ Derived networks
 
 Temporal bibliographic networks
 
+Tools
+- Pajek
+  - macros
+- R
+- VOS
 
 
 
