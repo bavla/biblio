@@ -52,6 +52,7 @@ Problem 3: entity identification/resolution
     - [ISBN](https://isbnsearch.org/)
     - [ISSN](http://www.issn.org/) standard abreviations: [LTWA](http://www.issn.org/services/online-services/access-to-the-ltwa/), [WoS](https://images.webofknowledge.com/images/help/WOS/A_abrvjt.html),[Caltech](https://www.library.caltech.edu/journal-title-abbreviations),    
   - "dictionaries"
+    - [keywords](https://www.wordstream.com/keywords)
 
 Problem 4: non- Latin alphabets
 
