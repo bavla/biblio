@@ -56,7 +56,8 @@ Problem 3: entity identification/resolution
   - "dictionaries"
     - [keywords](https://www.wordstream.com/keywords)
 
-Problem 4: non- Latin alphabets
+Problem 4: non-Latin alphabets
+- Russian (Unicode, automatic transcription)
 
 Boundary problem when extracting subset of data
 - preliminary citation network analysis; manually completing the important data 
@@ -65,6 +66,7 @@ Tools for collection and mantainance of bibliographic data
 
 Conversion to networks
 
+**Note:** examples from WoS and eLibrary.
 
 ### 2. Analyzing bibliographic networks
 
