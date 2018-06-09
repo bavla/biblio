@@ -48,8 +48,8 @@ Problem 3: entity identification/resolution
   - normalization - at data entry
   - standardization use standards whenever possible
     - [ORCID](https://orcid.org/)
-    - DOI
-    - ISBN
+    - [DOI](https://www.doi.org/)
+    - [ISBN](https://isbnsearch.org/)
     -standard abreviations
   - "dictionaries"
 
