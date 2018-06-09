@@ -28,6 +28,8 @@ institutions, countries, etc.).
 
 ## Outline
 
+See the Upsala slides - bibnet.pdf.
+
 ### 1. Transforming bibliographic data into networks
 
 Goals, research questions, theory
