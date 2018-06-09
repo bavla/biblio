@@ -28,7 +28,7 @@ institutions, countries, etc.).
 
 ## Outline
 
-### TRANSFORMING BIBLIOGRAPHIC DATA INTO NETWORKS
+### Transforming bibliographic data into networks
 
 
 
@@ -59,7 +59,7 @@ when extracting subset of data
 Conversion to networks
 
 
-### ANALYZING BIBLIOGRAPHIC NETWORKS
+### Analyzing bibliographic networks
 
 Goals, questions
 
