@@ -9,7 +9,9 @@ Netglow [programme](http://ngw.spbu.ru/programme)
 **Analysis of bibliographic networks**
 
 **Teachers:**
-*Vladimir Batagelj*, IMFM Ljubljana and AMI UP Koper\\
+
+*Vladimir Batagelj*, IMFM Ljubljana and AMI UP Koper
+
 *Daria Maltseva*, International laboratory for
 Applied Network Research, Moscow
 
