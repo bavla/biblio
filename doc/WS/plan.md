@@ -2,15 +2,15 @@
 
 ## Info
 
-http://ngw.spbu.ru/programme
+Netglow [programme](http://ngw.spbu.ru/programme)
 
 4.7.2018, 10:00-12:00, 12:30-14:30
 
-Analysis of bibliographic networks
+**Analysis of bibliographic networks**
 
-Teachers:
-Vladimir Batagelj, IMFM Ljubljana and AMI UP Koper
-Daria Maltseva, International laboratory for
+**Teachers:**
+*Vladimir Batagelj*, IMFM Ljubljana and AMI UP Koper\\
+*Daria Maltseva*, International laboratory for
 Applied Network Research, Moscow
 
 
