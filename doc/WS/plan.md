@@ -71,7 +71,15 @@ Citation network analysis
 - main path analysis
 
 Derived networks
+- Co-authorship network and fractional approach
+- Author citations
+- Bibliographic coupling and co-citation
+- Author-keywords
+- Keywords-journals
 
-Co-authorship network
+Temporal bibliographic networks
+
+
+
 
 
