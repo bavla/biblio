@@ -57,6 +57,7 @@ Problem 3: entity identification/resolution
 Problem 4: non- Latin alphabets
 
 Boundary problem when extracting subset of data
+- preliminary citation network analysis; manually completing the important data 
 
 Tools for collection and mantainance of bibliographic data
 
