@@ -47,7 +47,7 @@ Problem 3: entity identification/resolution
 - synonyms, homonyms
   - normalization - at data entry
   - standardization use standards whenever possible
-    - ORCID
+    - [ORCID](https://orcid.org/)
     - DOI
     - ISBN
     -standard abreviations
