@@ -30,7 +30,9 @@ institutions, countries, etc.).
 
 ### 1. Transforming bibliographic data into networks
 
+Goals, research questions, theory
 
+Sources of data
 
 Typical data
 - (semi) structured from data bases
@@ -51,6 +53,8 @@ Problem 3: entity identification/resolution
     -standard abreviations
   - "dictionaries"
 
+Problem 4: non- Latin alphabets
+
 Boundary problem when extracting subset of data
 
 Tools for collection and mantainance of bibliographic data
@@ -60,11 +64,11 @@ Conversion to networks
 
 ### 2. Analyzing bibliographic networks
 
-Goals, questions
 
 Global properties, distributions
 
 Citation network analysis
+- main path analysis
 
 Derived networks
 
