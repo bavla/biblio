@@ -68,6 +68,7 @@ Conversion to networks
 
 ### 2. Analyzing bibliographic networks
 
+Methods for analysis of bibliographic networks
 
 Global properties, distributions
 
