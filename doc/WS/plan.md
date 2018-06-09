@@ -52,7 +52,7 @@ Problem 3: entity identification/resolution
     - [ORCID](https://orcid.org/)
     - [DOI](https://www.doi.org/)
     - [ISBN](https://isbnsearch.org/)
-    - [ISSN](http://www.issn.org/) standard abreviations: [LTWA](http://www.issn.org/services/online-services/access-to-the-ltwa/), [WoS](https://images.webofknowledge.com/images/help/WOS/A_abrvjt.html),[Caltech](https://www.library.caltech.edu/journal-title-abbreviations),    
+    - [ISSN](http://www.issn.org/) standard abreviations: [JAS](https://www.abbreviations.com/jas.php), [LTWA](http://www.issn.org/services/online-services/access-to-the-ltwa/), [WoS](https://images.webofknowledge.com/images/help/WOS/A_abrvjt.html),[Caltech](https://www.library.caltech.edu/journal-title-abbreviations),    
   - "dictionaries"
     - [keywords](https://www.wordstream.com/keywords)
 
