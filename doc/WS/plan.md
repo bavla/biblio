@@ -28,7 +28,7 @@ institutions, countries, etc.).
 
 ## Outline
 
-### Transforming bibliographic data into networks
+### 1. Transforming bibliographic data into networks
 
 
 
@@ -38,28 +38,27 @@ Typical data
 
 Problem 1: detail of description (list of attributes); completnes of description (all authors?)
 
-Problem 2: entity identification/resolution
+Problem 2: different cultures in different disciplines
+- examples of diverse citation practices
 
-Problem 3: different cultures in different disciplines
-   examples of diverse citation practices
-synonyms, homonyms
-normalization - at data entry
-standardization use standards whenever possible
+Problem 3: entity identification/resolution
+- synonyms, homonyms
+  - normalization - at data entry
+  - standardization use standards whenever possible
+    - ORCID
+    - DOI
+    - ISBN
+    -standard abreviations
+  - "dictionaries"
 
-"dictionaries"
+Boundary problem when extracting subset of data
 
-ORCID
-DOI
-ISBN
-standard abreviations
-
-Boundary problem
-when extracting subset of data
+Tools for collection and mantainance of bibliographic data
 
 Conversion to networks
 
 
-### Analyzing bibliographic networks
+### 2. Analyzing bibliographic networks
 
 Goals, questions
 
