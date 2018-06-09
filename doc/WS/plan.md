@@ -50,7 +50,7 @@ Problem 3: entity identification/resolution
     - [ORCID](https://orcid.org/)
     - [DOI](https://www.doi.org/)
     - [ISBN](https://isbnsearch.org/)
-    -standard abreviations
+    - standard abreviations
   - "dictionaries"
 
 Problem 4: non- Latin alphabets
