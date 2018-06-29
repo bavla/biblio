@@ -1,0 +1,1199 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Goremyko, M.V.
+   Pleve, I.R.
+   Makarov, V.V.
+   Hramov, A.E.
+Z2 Горемыко, М.В.
+   Плеве, И.Р.
+   Макаров, В.В.
+   Храмов, А.Е.
+TI THE MODEL OF THE SOCIAL SYSTEM "APPLICANTS OF THE TECHNICAL UNIVERSITY"
+   VIA COMPLEX NETWORK APPROACH
+FT МОДЕЛИРОВАНИЕ СОЦИАЛЬНОЙ СИСТЕМЫ "АБИТУРИЕНТЫ ТЕХНИЧЕСКОГО УНИВЕРСИТЕТА"
+   С ИСПОЛЬЗОВАНИЕМ АППАРАТА СЛОЖНЫХ СЕТЕЙ
+SO Mathematical Models and Computer Simulations
+S1 Математическое моделирование
+VL 30
+IS 1
+BP 63
+EP 75
+PY 2018
+LA Russian
+DT Article
+DE complex networks; social networks; mathematical model; high-level
+   education
+Y5 сложные сети; социальная система; математическая модель; высшее
+   образование
+AB The paper presents a mathematical model of the admission campaign of
+   technical university, based on a network representation of the
+   interaction of applicants with each other. The time evolution study of
+   the network structure revealed a process of its significant
+   restructuring, expressed in increasing of the number of connections
+   between the structural clusters associated with the faculties and
+   institutes, affiliated to the university. It has been found that such
+   reorganization is related to the switch in students preferences in
+   specialties selection, what can be practically used to increase the
+   effectiveness of the admission campaign and career guidance.
+Z4 Предложена математическая модель социальной системы «абитуриенты
+   технического университета», основанная на сетевом представлении
+   взаимодействия абитуриентов, поступающих на различные специальности и
+   направления. Исследование временной эволюции структуры социальной сети
+   абитуриентов выявило динамический процесс ее реорганизации, выраженной в
+   увеличении количества связей между структурными кластерами, которые были
+   ассоциированы с факультетами и институтами, входящими в состав
+   университета. Обнаружено, что такая реорганизация связана с изменением
+   предпочтений абитуриентов при выборе специальностей, что может быть в
+   дальнейшем использовано в практических целях увеличения эффективности
+   приемной кампании и профориентации.
+C1 [Goremyko, M.V.; Pleve, I.R.; Makarov, V.V.; Hramov, A.E.] aratov State Technical University. 
+C2 [Горемыко, М.В.; Плеве, И.Р.; Макаров, В.В.; Храмов, А.Е.] Саратовский государственный технический университет им. Ю. А. Гагарина. 
+Z7 vladmak404@gmail.com
+U1 0
+U2 0
+SN 0234-0879
+EC COMPUTER SCIENCE, CYBERNETICS; MATHEMATICS, APPLIED
+SC Computer Science; Mathematics (provided by Clarivate Analytics)
+FX Работа выполнена при поддержке Российского фонда фундаментальных исследований (проект 16-32-00334).
+PU Nauka Publishers
+PA 90, Profsoyuznaya street, Moscow, 117997
+CR Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   [Алешковский И.А. Aleshkovskii I.A.], 2010, [Modelirovanie nelineinoi
+   dinamiki global'nykh protsessov, Моделирование нелинейной динамики
+   глобальных процессов]
+   Bastian M, 2009, Gephi:An open source software for exploring and
+   manipulating networks
+   Boccaletti S, 2006, PHYS REP, V424, P175, DOI
+   10.1016/j.physrep.2005.10.009
+   Bullmore ET, 2009, NAT REV NEUROSCI, V10, P186, DOI 10.1038/nrn2575
+   [Гасников Александр Владимирович Gasnikov Alexander Vladimirovich],
+   2014, [Математическое моделирование, Mathematical Models and Computer
+   Simulations, Matematicheskoe modelirovanie], V26, P34
+   Goh KI, 2003, PHYS REV E, V67, DOI [10.1103/PhysRevE.67.017101,
+   10.1103/PhysRev.E.67.017101]
+   HUMMON NP, 1989, SOC NETWORKS, V11, P39, DOI
+   10.1016/0378-8733(89)90017-8
+   Makarov VV, 2016, CHAOS SOLITON FRACT, V84, P23, DOI
+   10.1016/j.chaos.2015.12.022
+   McPherson M, 2001, ANNU REV SOCIOL, V27, P415, DOI
+   10.1146/annurev.soc.27.1.415
+   Nishikawa T, 2006, PHYSICA D, V224, P77, DOI 10.1016/j.physd.2006.09.007
+   Onnela JP, 2007, P NATL ACAD SCI USA, V104, P7332, DOI
+   10.1073/pnas.0610245104
+   Onnela JP, 2007, NEW J PHYS, V9, DOI 10.1088/1367-2630/9/6/179
+   [Петров Александр Пхоун Чжо Petrov Alexander P], 2015, [Математическое
+   моделирование, Mathematical Models and Computer Simulations,
+   Matematicheskoe modelirovanie], V27, P137
+   [Плеве И.Р. Pleve I.R.], 2014, [Vysshee obrazovanie v Rossii, Высшее
+   образование в России], V5, P5
+   [Стриханов М.Н. Strikhanov M.N.], 2007, [Vysshaya shkola Rossii s
+   pozitsii nelineinoi dinamiki (problemy, otsenki, modeli), Высшая школа
+   России с позиций нелинейной динамики (проблемы, оценки, модели)], P0774
+   Teitelbaum T, 2008, CHAOS, V18, DOI 10.1063/1.2988285
+   Tero A, 2007, J THEOR BIOL, V244, P553, DOI 10.1016/j.jtbi.2006.07.015
+   Wasserman S, 1994, Social network analysis: Methods and applications
+   Watts DJ, 1998, NATURE, V393, P440, DOI 10.1038/30918
+   1989, Comb.&Graph Theory, V25, P57
+NR 21
+TC 0
+Z9 0
+UT RSCI:32289991
+DA 2018-06-29
+ER
+
+PT J
+AU Popov, Konstantin
+Z2 ПОПОВ, Константин Николаевич
+TI Network forums as a tool of self-organization of local communities
+FT СЕТЕВЫЕ ФОРУМЫ КАК ИНСТРУМЕНТ САМООРГАНИЗАЦИИ МЕСТНЫХ СООБЩЕСТВ
+SO Obshchestvennye nauki i sovremennost'
+S1 Общественные науки и современность
+IS 2
+BP 41
+EP 48
+PY 2018
+LA Russian
+DT Article
+DE online community; local government; network forums
+Y5 интернет-сообщество; местное самоуправление; сетевые форумы
+AB Intensive growth of the number of users of social networks and the
+   formation of a large number of online communities, what is happening in
+   our country in the last decade, creates a necessary information base for
+   sociological research of processes of communication in the Internet. A
+   sociological study of the new communication environment involves the
+   study of the regularities of its functioning, information and social
+   capital, etc. The goal of this study is to search and systematize
+   examples of the use of the Internet for self-organization of local
+   communities and maintain communications between members of these
+   communities.
+Z4 Интенсивный рост числа пользователей социальных сетей иобразование
+   большого количества интернет-сообществ, происходящие внашей стране
+   впоследнее десятилетие, создает необходимую информационную базу для
+   проведения социологических исследований процессов коммуникации
+   вИнтернете. Социологическое исследование новой коммуникативной среды
+   предполагает изучение закономерностей ее функционирования,
+   информационного исоциального потенциала ит.п. Задача настоящего
+   исследования - поиск исистематизация примеров использования Интернета
+   для самоорганизации местных сообществ иподдержания коммуникаций между
+   членами этих сообществ.
+C1 [Popov, Konstantin] Federal Research Center "Computer Science and Control" of Russian Academy of Sciences Institute for Systems Analysis, 9, 60-letija Octyabrya prosp., Russian Federation. Moscow, 117312. 
+C2 [ПОПОВ, Константин Николаевич] Институт системного анализа Федерального исследовательского центра "Информатика и управление" РАН, 60-летия Октября просп., д. 9, Москва, 117312. 
+Z7 kngs67@mail.ru
+U1 0
+U2 0
+SN 0869-0499
+EC SOCIAL SCIENCES, INTERDISCIPLINARY; HUMANITIES, MULTIDISCIPLINARY
+SC Social Sciences - Other Topics; Arts & Humanities - Other Topics
+   (provided by Clarivate Analytics)
+PU Nauka Publishers
+PA 90, Profsoyuznaya street, Moscow, 117997
+CR [Бондаренко С.В. Bondarenko S.V.], 2004, [Sotsial'naya struktura
+   virtual'nykh setevykh soobshchestv, Социальная структура виртуальных
+   сетевых сообществ]
+   Briggs X., 2003, de S. (2003) Community building
+   [Григоричев К.В. Grigorichev K.V.], 2013, [(2013) Konsolidatsiya
+   prigorodnykh soobshchestv v prostranstve kollektivnogo teksta
+   internet-forumov, (2013) Консолидация пригородных сообществ в
+   пространстве коллективного текста интернет-форумов], P292
+   [Лыска А.Г. Lyska A.G.], 2013, [(2013) Kontseptsiya stroitel'stva
+   mestnogo soobshchestva v rabotakh zarubezhnykh uchenykh, (2013)
+   Концепция строительства местного сообщества в работах зарубежных ученых]
+   [Мурунов С.А. Murunov S.A.], 2004, [No title captured]
+   [Нестеров В.Ю. Nesterov V.YU.], 2000, [No title captured]
+   [Песков Д.Н. Peskov D.N.], 2001, [(2001) Internet kak politicheskii
+   institut v Rossii, (2001) Интернет как политический институт в России]
+   [Скуратов А.Б. Skuratov A.B.], 2016, [Vestnik Yuzhno-Rossiiskogo
+   gosudarstvennogo tekhnicheskogo universiteta (Novocherkasskogo
+   politekhnicheskogo instituta). Seriya: Sotsial'no-ekonomicheskie nauki,
+   Вестник Южно-Российского государственного технического университета
+   (Новочеркасского политехнического института). Серия:
+   Социально-экономические науки], P75
+   [Тищенко В.И. Tishchenko V.I.], 2011, [(2012) Osobennosti stanovleniya
+   "informatsionnogo obshchestva" v Rossii, (2012) Особенности становления
+   "информационного общества" в России], P215
+   [Sotsiologicheskie issledovaniya. N 7., Социологические исследования. №
+   7.], P99
+NR 10
+TC 0
+Z9 0
+UT RSCI:32665110
+DA 2018-06-29
+ER
+
+PT J
+AU Chernozub, Svetlana
+Z2 Чернозуб, Светлана Петровна
+TI Blockchain and Social Networks of the New Generation: Utopia,
+   Revolution, Social Challenge
+FT БЛОКЧЕЙН ИСОЦИАЛЬНЫЕ СЕТИ НОВОГО ПОКОЛЕНИЯ: УТОПИЯ, РЕВОЛЮЦИЯ,
+   СОЦИАЛЬНЫЙ ВЫЗОВ*
+SO Obshchestvennye nauki i sovremennost'
+S1 Общественные науки и современность
+IS 1
+BP 134
+EP 142
+PY 2018
+LA Russian
+DT Article
+Y5 четвертая промышленная революция; блокчейн; инновационные тренды;
+   экономика доверия; социальные сети; технологическая утопия
+AB Blockchain is one of those innovative trends that are associated with
+   the most serious social challenges and implications of the fourth
+   industrial revolution. It is positioned as a tool for the development of
+   the economy of trust and as a new stage in the development of social
+   networks. It is also considered a means for democratizing society and
+   combating economic inequality. In the article, these features of the
+   blockchain are considered as elements of a new technological utopia,
+   which has special significance for Russia.
+Z4 Блокчейн - один из тех инновационных трендов, скоторыми связываются
+   наиболее серьезные социальные вызовы ипоследствия четвертой промышленной
+   революции. Он позицио- нируется как инструмент развития экономики
+   доверия икак новый этап вразвитии социальных сетей. Внем также видят
+   средство демократизации общества иборьбы сэкономическим неравенством.
+   Встатье эти возможности блокчейна рассматриваются как элементы новой
+   технологической утопии, что вРоссии, учитывая ее историю, обретает
+   особую окраску.
+C1 [Chernozub, Svetlana] Federal Research Center "Computer Science and Control" of Russian Academy of Sciences Institute for Systems Analysis. 
+C2 [Чернозуб, Светлана Петровна] Институт системного анализа Федерального исследовательского центра "Информатика и управление" РАН. 
+Z7 svetcher@yandex.ru
+U1 1
+U2 1
+SN 0869-0499
+EC SOCIAL SCIENCES, INTERDISCIPLINARY; HUMANITIES, MULTIDISCIPLINARY
+SC Social Sciences - Other Topics; Arts & Humanities - Other Topics
+   (provided by Clarivate Analytics)
+FX *?Статья подготовлена при поддержке Российского фонда фундаментальных исследований. Грант №?16-29-12922 “Разработка алгоритмов исредств мониторинга научно-технологических трендов развития экономики сиспользованием методов автоматической кластеризации возникающих технологий, инновационных тем исообществ вмасштабных коллекциях научно-технических документов”.
+PU Nauka Publishers
+PA 90, Profsoyuznaya street, Moscow, 117997
+CR [Баринов И. Barinov I.], 2017, [(2017) U blokcheina mnogo primenenii, no
+   bol'she vsego lyudyam nuzhna svoboda, (2017) У блокчейна много
+   применений, но больше всего людям нужна свобода]
+   [Бутерин В. Buterin V.], 2017, [No title captured]
+   Fukuyama F., 1995, [No title captured]
+   [Греф Г.О. Gref G.O.], 2017, [No title captured]
+   [Куракова Н.Г. Kurakova N.G.], 2014, [No title captured]
+   [Лукша П. Luksha P.], 2016, [No title captured]
+   [Морщихина Л.А. Morshchikhina L.A.], 2017, [Vestnik Severnogo
+   (Arkticheskogo) federal'nogo universiteta. Seriya: Gumanitarnye i
+   sotsial'nye nauki, Вестник Северного (Арктического) федерального
+   университета. Серия: Гуманитарные и социальные науки], P46
+   Putnam R., 1993, [No title captured]
+   Scott A., 2015, [No title captured]
+   [Шваб К. Shvab K.], 2016, [No title captured]
+   [Тапскотт А. Tapskott A.], 2017, [No title captured]
+   [Вахштайн В.С. Vakhshtain V.S.], 2014, [Sotsiologiya vlasti, Социология
+   власти]
+   2016, [Minfin predlozhil sazhat' za vypusk bitkoinov na srok do 7 let
+   (2016), Минфин предложил сажать за выпуск биткоинов на срок до 7 лет
+   (2016)], P10
+   [No title captured]
+   2015, [Pravitel'stvo vernulos' k idee ugolovnoi otvetstvennosti za
+   virtual'nye valyuty (2015), Правительство вернулось к идее уголовной
+   ответственности за виртуальные валюты (2015)], P22
+NR 15
+TC 0
+Z9 0
+UT RSCI:32278598
+DA 2018-06-29
+ER
+
+PT J
+AU Dmitriev, I.N.
+Z2 Дмитриев, Игорь Николаевич
+TI Fast algorithm of cluster analysis k-medoids
+FT Быстрый алгоритм кластерного анализа k-medoids
+SO Prikladnaya diskretnaya matematika
+S1 Прикладная дискретная математика
+IS 39
+BP 116
+EP 127
+DI 10.17223/20710410/39/11
+PY 2018
+LA Russian
+DT Article
+DE fast algorithm of cluster analysis; Pam; Clara; Local Graph
+   Sparsifi-cation
+Y5 быстрый алгоритм кластерного анализа; PAM-реализация k-medoids; методика
+   CLARA; прореживание L-SPAR
+AB The algorithm k-medoids (KM) is widely used for clustering graphs. The
+   following modifications of it by adding some procedures have been
+   researched in a computer experiments: CKM = KM + CLARA (Cluster LARge
+   Application), LSKM = KM + + L-SPAR (Local SPARsification), BKM = KM +
+   CLARA + L-SPAR, NKM = = KM + NH (New Heuristic choosing cluster center),
+   CNKM = NKM + CLARA, LSNKM = NKM + L-SPAR, FKM = NKM + CLARA + L-SPAR.
+   The experiment results show that L-SPAR procedure allows to decrease the
+   average running time for LSKM by 5.3%, BKM by 6.1%, LSNKM by 8.1%, FKM
+   by 8.3% and to improve the clustering quality by 2%, 2.1%, 3%, 3.3%
+   respectively. Besides, the number of iterations in NKM is twice more
+   than in KM, but the running time of NKM is an order less than of KM, the
+   running time of CKM is two thirds of the running time of KM, the
+   computer complexity of CNKM linearly depends on the graph size, and the
+   application of CLARA does not diminish it appreciably. NH allows 16
+   times decreasing the computer complexity of KM without loosing the
+   clustering quality. The experiments were conducted on data arrays that
+   represented graphs of social networks YouTube, Live Journal, and the
+   shop Amazon.
+Z4 Рассмотрена новая реализация FKM известного алгоритма k-medoids,
+   основанная на общеизвестной PAM-реализации и использующая новую
+   эвристику выбора центров кластеров, методику CLARA, а также
+   предварительное прореживание L-SPAR, что позволило перейти от
+   квадратичной вычислительной сложности реализации к линейной и снизить
+   временные затраты на обработку реальных данных в среднем в 16 раз.
+C1 [Dmitriev, I.N.] Federal Educational and Methodological Association in Information Security. 
+C2 [Дмитриев, Игорь Николаевич] Учебно-методическое объединение по образованию в области информационной безопасности. 
+Z7 i.n.dmitriev@mail.ru
+U1 0
+U2 0
+SN 2071-0410
+EC MATHEMATICS, APPLIED
+SC Mathematics (provided by Clarivate Analytics)
+PU Tomsk State University
+PA 634050 Lenina, 36, Tomsk, Russia
+CR Fortunato S, 2010, PHYS REP, V486, P75, DOI
+   10.1016/j.physrep.2009.11.002
+   Kaufman L, 2005, Finding groups in data: an introduction to cluster
+   analysis
+   Newman MEJ, 2006, P NATL ACAD SCI USA, V103, P8577, DOI
+   10.1073/pnas.0601602103
+   Ovelgonne M., 2011, Scalable Algorithms for Community Detection in Very
+   Large Graphs
+   Satuluri V.M., 2012, Scalable Clustering of Modern Networks. Ohio State
+   University Columbus
+   2017, [No title captured]
+NR 6
+TC 0
+Z9 0
+UT RSCI:32724381
+DA 2018-06-29
+ER
+
+PT J
+Z2 Грибанова, Екатерина Борисовна
+TI ALGORITHMS OF INFORMATION DIFFUSION MODELING IN MARKETING ACTIVITIES
+   WITHIN THE GROUPS OF ONLINE SOCIAL NETWORK
+FT Алгоритмы моделирования распространения информации при маркетинговых
+   мероприятиях в группах онлайновой социальной сети
+SO Problemy upravleniya
+S1 Проблемы управления
+IS 1
+BP 66
+EP 73
+PY 2018
+LA Russian
+DT Article
+DE social networks; marketing activities; cascade model; information
+   diffusion
+Y5 социальные сети; маркетинговые мероприятия; каскадная модель;
+   распространение информации
+AB The algorithms are presented of information diffusion modeling and of
+   estimating the probability of influence during marketing activities in
+   social network, based on the independent cascade model. The calculation
+   results are given of the probability of influence for randomly generated
+   network with the specified characteristics.
+Z4 Представлены алгоритмы моделирования распространения информации и оценки
+   вероятности влияния при реализации маркетинговых мероприятий в
+   социальной сети на основе независимой каскадной модели. Приведены
+   результаты расчета показателя вероятности влияния для сгенерированной
+   случайным образом сети с заданными характеристиками.
+C2 [Грибанова, Екатерина Борисовна] Томский государственный университет систем управления и радиоэлектроники. 
+Z7 katag@yandex.ru
+U1 0
+U2 0
+SN 1819-3161
+EC MANAGEMENT; PUBLIC ADMINISTRATION
+SC Business & Economics; Public Administration (provided by Clarivate
+   Analytics)
+PU Sensydat-Plus
+PA 65, Profsoyuznaya street, Moscow, 117997
+CR Albert R, 2002, REV MOD PHYS, V74, P47, DOI 10.1103/RevModPhys.74.47
+   Bakshy E., 2011, Everyone’s an Inﬂuencer: Quantifying Inﬂuence on
+   Twitter
+   Bhagat S., 2012, Maximizing Product Adoption in Social Networks, P603
+   Buckley PG, 2004, DISCRETE MATH, V282, P53, DOI
+   10.1016/j.disc.2003.10.020
+   Chen W., 2011, INFLUENCE MAXIMIZATI, P379
+   [Емельянов А.А. Emel'yanov A.A.], 2014, [Imitatsionnoe modelirovanie
+   ekonomicheskikh protsessov, Имитационное моделирование экономических
+   процессов], P416
+   Goyal Sanjeev, 2016, Rev. Adm. (São Paulo), V51, P240, DOI
+   10.5700/rausp1237
+   [Грибанова Е.Б. Gribanova E.B.], 2017, [Doklady Tomskogo
+   gosudarstvennogo universiteta sistem upravleniya i radioelektroniki,
+   Доклады Томского государственного университета систем управления и
+   радиоэлектроники], P68
+   [Грибанова Е.Б. Gribanova E.B.], 2017, [Prikladnaya informatika,
+   Прикладная информатика], P130
+   [Губанов Д.А. Gubanov D.A.], 2016, [Problemy upravleniya, Проблемы
+   управления], P12
+   Java A, 2006, Modeling the spread of influence on the blogosphere
+   Jin JM, 2012, PROCEDIA COMPUT SCI, V9, P292, DOI
+   10.1016/j.procs.2012.04.031
+   Raigorodskii A.M., 2010, TR MOST FIZ TEKH I, V2, P130
+   [Торопов Б.А. Toropov B.A.], 2016, [Kibernetika i programmirovanie,
+   Кибернетика и программирование], P61
+   Wang Q., 2013, Energy Saving Information Cascades In Online Social
+   Networks: An Agent-Based Simulation Study, P3042
+NR 15
+TC 0
+Z9 0
+UT RSCI:32433500
+DA 2018-06-29
+ER
+
+PT J
+AU VELIKIY, Petr P.
+   MOREKHANOVA, Marina Y.
+Z2 ВЕЛИКИЙ, Петр Панфилович
+   МОРЕХАНОВА, М.Ю.
+TI BEEKEEPERS: A GROUP OF NON-TYPICAL RURAL MOBILITY
+FT ПЧЕЛОВОДЫ: ГРУППА НЕТИПИЧНОЙ СЕЛЬСКОЙ МОБИЛЬНОСТИ
+SO Sotsiologicheskie issledovaniya
+S1 Социологические исследования
+IS 2
+BP 82
+EP 91
+DI 10.7868/S0132162518020095
+PY 2018
+LA Russian
+DT Article
+DE beekeepers; socio-role structure; mobility; technology; exchange;
+   reproduction; social environment; behavior
+Y5 пчеловоды; социально-ролевая структура; мобильность; обмен;
+   воспроизводство; социальная среда; поведение
+AB The paper is based on the results of sociological survey in 2015-2016 in
+   three regions of the Russian Federation (the Saratov oblast, the
+   Republic of Bashkortostan, the Republic of Tatarstan) and addresses the
+   activity of beekeepers in the socio-humanitarian context as a group
+   specializing in the professional approach to insect farming. It reveals
+   the peculiarities of such an activity in the Russian conditions, where
+   beekeepers, using the potential of melliferous resources of huge
+   territories, actively move within regions. This determines many sides of
+   their way of life. It has been found that among beekeepers there exists
+   a great differentiation in terms of the amounts of production, which
+   brings to the forefront the issue of their socio-cultural
+   interpretation. It is emphasized in the paper that the rational use of
+   even a small own production base by the beekeeper sharply changes his
+   mobility in the territorial, informational and communication spaces,
+   social networks, and allows him make independent decisions with regard
+   to production, sale and expansion of the range of contractors in the
+   rural-urban continuum. Comparing the studied group with peasants
+   employed in traditional spheres (field-crop cultivation and animal
+   farming) shows that beekeepers represent a group demonstrating a new,
+   non-typical for other categories of rural people, mobility, and more
+   effectively using their human capital in the market conditions. The
+   preconditions for this phenomenon reflect a vivid correlation of
+   executive and organizational functions, high level of self-organization
+   in achieving the goals, the impact of the education and professional
+   culture on the results, and the significance of socio-role statuses in
+   the local community.
+Z4 Встатье рассмотрены занятые впчеловодстве вконтексте осмысления их
+   деятельности имобильности. Делается сравнение данной группы, численно
+   достаточно крупной вмасштабе страны, смассовыми слоями современного
+   крестьянства по ряду социально значимых признаков. Хотя она не теряет
+   связи спринадлежностью кродовому слою - крестьянству, интеллигенции,
+   рабочим, но является автономной исамостоятельной по своим функциям:
+   экономическим, социально-ролевым, профессиональным. Технология данной
+   занятости предполагает обладание ее субъектами рядом качеств,
+   репрезентирующих их как группу избранных, знающих свое дело,
+   трудолюбивых, способных вусловиях риска организовать получение
+   востребованного продукта иего реализацию. Рассматривается специфика
+   мобильности пчеловодов, которая вотличие от крестьян, занятых
+   традиционными видами труда (полеводством иживотноводством),
+   характеризуется динамичностью территориальных перемещений, более
+   широкими экономическими связями, присутствием всоциальных сетях
+   всельско-городском континиуме. Сделан вывод, что пчеловоды являются
+   группой социальной мобильности нового типа, более эффективно, чем
+   субъекты других хозяйственных укладов использующей свой человеческий
+   капитал вусловиях рынка. Предпосылками этого являются четкое соотношение
+   исполнительских иорганизационных функций, высокий уровень
+   самоорганизации вдостижении целей, влияние на результаты труда
+   образования ипрофессиональной культуры, значимость его социально-ролевых
+   статусов влокальной общности.
+C1 [VELIKIY, Petr P.; MOREKHANOVA, Marina Y.] Institute of Agrarian Problems of the Russian Academy of Sciences, Saratov, Russia. 
+C2 [ВЕЛИКИЙ, Петр Панфилович; МОРЕХАНОВА, М.Ю.] Институт аграрных проблем РАН, Саратов, Россия. 
+Z7 iagpran@mail.ru; mayurm118@gmail.com
+U1 1
+U2 1
+SN 0132-1625
+EC SOCIOLOGY
+SC Sociology (provided by Clarivate Analytics)
+PU Nauka Publishers
+PA 90, Profsoyuznaya street, Moscow, 117997
+CR [Фадеева О.П. Fadeeva O.P.], 2015, [Sel'skie soobshchestva i
+   khozyaistvennye uklady: ot vyzhivaniya k razvitiyu, Сельские сообщества
+   и хозяйственные уклады: от выживания к развитию]
+   [Калугина З.И. Kalugina Z.I.], 2009, [Rossiiskaya derevnya v labirinte
+   reform: sotsiologicheskie zarisovki, Российская деревня в лабиринте
+   реформ: социологические зарисовки]
+   [Кривцов Н.И. Krivtsov N.I.], [Pchelovodstvo v Rossii: sostoyanie i
+   mesto v mire, Пчеловодство в России: состояние и место в мире]
+   [Квале С. Kvale S.], 2003, [Issledovatel'skoe interv'yu,
+   Исследовательское интервью]
+   [Нечипоренко О.В. Nechiporenko O.V.], 2015, [Krest'yanstvo sovremennoi
+   Rossii: zhiznennye miry i sotsial'nye praktiki, Крестьянство современной
+   России: жизненные миры и социальные практики]
+   [Шабаршов И.А. Shabarshov I.A.], 1996, [Istoriya russkogo pchelovodstva,
+   История русского пчеловодства]
+   [Шлюкич С. Shlyukich S.], 2017, [No title captured]
+   [Власова И.В. Vlasova I.V.], 1994, [Sel'skii mir. Al'manakh.
+   Entsiklopediya rossiiskikh dereven', Сельский мир. Альманах.
+   Энциклопедия российских деревень], P126
+   [Kommentarii. Paradoksy rossiiskogo pchelovodstva, Комментарий.
+   Парадоксы российского пчеловодства]
+NR 9
+TC 0
+Z9 0
+UT RSCI:32640148
+DA 2018-06-29
+ER
+
+PT J
+AU Lobanova, S.Y.
+   Chepovskiy, A.A.
+Z2 Лобанова, С.Ю.
+   Чеповский, А.А.
+TI Combined method to detect communities in graphs of interacting objects
+FT Комбинированный алгоритм выделения сообществ в графах взаимодействующих
+   объектов
+SO Biznes-informatika
+S1 Бизнес-информатика
+IS 4
+BP 64
+EP 73
+DI 10.17323/1998-0663.2017.4.64.73.
+PY 2017
+LA Russian
+DT Editorial
+DE graph; graph analysis; community detection; graph structure; social
+   network analysis; Big Data
+Y5 граф; анализ графа; выделение сообществ; структура графа; анализ
+   социальной сети; Большие Данные
+AB In this paper, we propose and implement a method for detecting
+   intersecting and nested communities in graphs of interacting objects of
+   different natures. For this, two classical algorithms are taken: a
+   hierarchical agglomerate and one based on the search for k-cliques. The
+   combined algorithm presented is based on their consistent application.
+   In addition, parametric options are developed that are responsible for
+   actions with communities whose sizes are smaller than the given k, and
+   also with single vertices. Varying these parameters allows us to take
+   into account differences in the topology of the original graph and thus
+   to correct the algorithm. The testing was carried out on real data,
+   including on a group of graphs of a social network, and the qualitative
+   content of the resulting partition was investigated. To assess the
+   differences between the integrated method and the classical algorithms
+   of community detections, a common measure of similarity was used. As a
+   result, it is clearly shown that the resulting partitions are
+   significantly different. We found that for the approach proposed in the
+   article the index of the numerical characteristic of the partitioning
+   accuracy, modularity, can be lower than the corresponding value for
+   other approaches. At the same time, the result of an integrated method
+   is often more informative due to intersections and nested community
+   structure. A visualization of the partition obtained for one of the
+   examples by an integrated method at the first and last steps is
+   presented. Along with the successfully found set of parameters of the
+   integrated method for small communities and cut off vertices in the case
+   of social networks, some shortcomings of the proposed model are noted.
+   Proposals are made to develop this approach by using a set of parametric
+   algorithms.
+Z4 В статье предложен и реализован алгоритм выделения пересекающихся и
+   вложенных сообществ в графах взаимодействующих объектов различной
+   природы. Для этого рассмотрены два классических алгоритма: иерархический
+   агломеративный и основанный на поиске k-клик. Представленный
+   комбинированный алгоритм основан на последовательном их применении.
+   Кроме того, разработаны параметрические опции, отвечающие за действия с
+   сообществами, размеры которых меньше заданного k, а также с единичными
+   вершинами. Варьирование этих параметров позволяет учитывать различия в
+   топологии исходного графа и корректировать тем самым алгоритм. Проведено
+   тестирование на реальных данных, в том числе на группе графов социальной
+   сети, исследовано качественное содержание полученного разбиения. Для
+   оценки различий, получаемых интегрированным методом и классическими
+   алгоритмами выделения сообществ, была использована общепринятая мера
+   подобия. В результате явно показано, что результирующие разбиения
+   значительно отличаются. Выявлено, что для предложенного в статье подхода
+   показатель числовой характеристики корректности разбиений, модулярности,
+   может быть ниже соответствующего значения при применении других
+   подходов. При этом содержательно результат интегрированного метода
+   зачастую более информативен в силу пересечений и вложенной структуры
+   сообществ. Представлена визуализация разбиения, получаемого для одного
+   из примеров интегрированным методом на первом и последнем шагах. Наряду
+   с успешно найденным набором параметров интегрированного метода для малых
+   сообществ и отсеченных вершин в случае социальных сетей отмечены
+   некоторые недостатки предложенной модели. Сделаны предложения по
+   развитию данного подхода в виде использования набора параметрических
+   алгоритмов.
+C1 [Lobanova, S.Y.; Chepovskiy, A.A.] Tikhonov Moscow Institute of Electronics and Mathematics, 20, Myasnitskaya Street, Moscow, 101000, Russian Federation. 
+   National Research University Higher School of Economics, 20, Myasnitskaya Street, Moscow, 101000, Russian Federation. 
+C2 [Лобанова, С.Ю.; Чеповский, А.А.] Московский институт электроники и математики им. А.Н. Тихонова, 101000, г. Москва, ул. Мясницкая, д. 20. 
+   Национальный исследовательский университет «Высшая школа экономики», 101000, г. Москва, ул. Мясницкая, д. 20. 
+Z7 s.lobanova@usabilitylab.net; aachepovsky@hse.ru
+U1 0
+U2 0
+SN 1998-0663
+EC COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS; MATHEMATICS,
+   INTERDISCIPLINARY APPLICATIONS; OPERATIONS RESEARCH & MANAGEMENT
+   SCIENCE; BUSINESS
+SC Computer Science; Mathematics; Operations Research & Management Science;
+   Business & Economics (provided by Clarivate Analytics)
+FX Работа выполнена при поддержке Российского фонда фундаментальных исследований (проекты №16-29-09546 и №16-07-00641)
+PU National Research University Higher School of Economics
+PA 20, Myasnitskaya str., Moscow, 101000
+CR Ahuja M. S., 2016, INT J ADV RES COMPUT, V6, P412
+   Blondel V D, 2008, Journal of Statistical Mechanics: Theory and
+   Experiment
+   Broder A, 2000, COMPUT NETW, V33, P309, DOI
+   10.1016/S1389-1286(00)00083-9
+   Clauset A., 2004, PHYS REV E, V70, P66111, DOI DOI
+   10.1103/PHYSREVE.70.066111
+   COLLINS LM, 1988, MULTIVAR BEHAV RES, V23, P231, DOI
+   10.1207/s15327906mbr2302_6
+   Fortunato S, 2007, P NATL ACAD SCI USA, V104, P36, DOI
+   10.1073/pnas.0605965104
+   Fortunato S, 2010, PHYS REP, V486, P75, DOI
+   10.1016/j.physrep.2009.11.002
+   Girvan M, 2002, P NATL ACAD SCI USA, V99, P7821, DOI
+   10.1073/pnas.122653799
+   Gregory S., 2011, J STAT MECH-THEORY E, V2011, P1
+   Gregory Steve, 2007, ALGORITHM FIND OVERL, P91
+   Guo Yingxin, 2007, Frontiers of Computer Science in China, V1, P459, DOI
+   10.1007/s11704-007-0045-9
+   Newman M, 2010, Networks: An Introduction
+   Newman MEJ, 2006, P NATL ACAD SCI USA, V103, P8577, DOI
+   10.1073/pnas.0601602103
+   Newman MEJ, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.026113
+   [Орлов А.О. Orlov A.O.], 2016, [Osobennosti algoritma Blondelya pri
+   vyyavlenii soobshchestv v grafe sotsial'noi seti, Особенности алгоритма
+   Блонделя при выявлении сообществ в графе социальной сети], P124
+   Palla G, 2005, NATURE, V435, P814, DOI 10.1038/nature03607
+   Palla G., 2009, Handbook of Large-scale Random Networks. Springer, V9,
+   P369
+   Pennacchioli D., 2014, Overlap versus partition: Marketing
+   classification and customer profiling in complex networks of products
+   Shen HW, 2009, PHYSICA A, V388, P1706, DOI 10.1016/j.physa.2008.12.021
+   WHITE HC, 1976, AM J SOCIOL, V81, P730, DOI 10.1086/226141
+   Wu F., 2014, BIOMED RES INT, V2014, P1
+   2014, March -4 April, P103
+NR 22
+TC 0
+Z9 0
+UT RSCI:32544892
+DA 2018-06-29
+ER
+
+PT J
+AU Ledovaya, Ya.A.
+   Panicheva, P.V.
+   Prichislenko, A.G.
+   Butakov, N.A.
+Z2 Ледовая, Янина Александровна
+   Паничева, Полина Вадимовна
+   Причисленко, Анастасия Геннадьевна
+   Бутаков, Николай Алексеевич
+TI The scientific component of psychological texts published in the
+   socialnetwork “Vkontakte”
+FT Научная составляющая текстов по психологии, публикующихся в социальной
+   сети "ВКонтакте"
+SO Voprosy psikhologii
+S1 Вопросы психологии
+IS 6
+BP 79
+EP 91
+PY 2017
+LA Russian
+DT Article
+DE science; psychology; social networks; crawler; lexical markers; word
+   frequency
+Y5 наука; психология; социальные сети; краулер; лексические маркеры;
+   частотность слов
+AB The past few years have witnessed an increase of, on one hand, interest
+   in popularized scientific knowledge, on the other hand, the number of
+   people who believe in homeopathy and are wary of genetically modified
+   products. It indicates a need for popularizing scientific knowledge
+   including information about scientific psychology and scientifically
+   developed practical methods which must be conveyed to the public at
+   large, to those who take great interest in psychology, but look for
+   information in the mass media rather than at school or university. In
+   the last decade the social networks have become an everyday source of
+   information for many people, especially young, and the quality of
+   information about psychology being spread through the networks is of
+   considerable interest to psychologists. The study described aimed to
+   assess academic quality of psychological texts in theme communities,
+   popular with users of the social network “Vkontakte”. Expert assessment
+   (by young academic psychologists working at research institutes and
+   universities of Moscow and St. Petersburg) helped to identify
+   communities broadcasting academically correct (scientifically proved)
+   and incorrect (not proved scientifically) information about psychology
+   in the network. Texts (news, posts) from the two types of communities
+   were identified with the help of the crawler, a system of collecting
+   data from social networks, and prevalent subjects and terminology were
+   identified with the help of computerized linguistic analysis. The terms
+   “synapse”, “learning”, “axon”, “mediator” could serve as indicators of
+   the academic nature of the texts, while “money”, “happiness”,
+   “introvert” are indicators of the opposite. The authors intend to use
+   the data obtained for developing recommendations for subscribers and
+   network administrators interested in spreading scientific information
+   about psychology.
+Z4 В течение последних нескольких лет в России наблюдается, с одной
+   стороны, увеличение интереса к популяризации научных знаний, а с другой
+   - рост числа людей, верящих в состоятельность гомеопатии и испытывающих
+   недоверие или даже страх по поводу генномодифицированных продуктов. Это
+   значит, что необходимость распространения научных знаний весьма
+   актуальна. Информация о психологии как науке и обоснованных методах
+   практики нуждается в корректных способах трансляции, потому что интерес
+   к психологии крайне велик среди непрофессионалов, а понятие о ней
+   закладывается зачастую с опорой на материалы в далеких от академизма
+   СМИ, а не в школе или университете. При этом социальные сети за
+   последние 10 лет превратились в ежедневный источник информации для
+   многих людей, особенно для молодежи, и качество распространяемой в
+   социальных сетях информации о психологии представляет интерес для
+   исследований психологов. Настоящее исследование посвящено проблеме
+   определения академического уровня текстов психологического содержания в
+   тематических сообществах, популярных среди пользователей социальной сети
+   «ВКонтакте». С помощью оценок экспертов - молодых академических
+   психологов, сотрудников НИИ и преподавателей вузов Москвы и Санкт-
+   Петербурга - были выделены сообщества, транслирующие академически
+   корректную (научно обоснованную) и академически некорректную (научно
+   необоснованную) информацию о психологии в этой социальной сети.
+   Применение системы сбора данных из социальных сетей - краулера -
+   позволило выделить текстовую информацию (новости, «посты») из этих двух
+   типов сообществ в социальной сети «ВКонтакте», а с помощью
+   компьютерно-лингвистических методов анализа в этих текстах были выделены
+   превалирующие тематика и термины. Показателями академичности текстов в
+   исследуемых сообществах могут считаться термины «синапс», «научение»,
+   «аксон», «медиатор», а показателями неакадемичности - термины «деньги»,
+   «счастье», «интроверт». Планируется использовать полученные данные для
+   создания рекомендаций подписчикам и администраторам социально-сетевых
+   сообществ, заинтересованных в распространении научно обоснованной
+   информации о психологии.
+C2 [Ледовая, Янина Александровна; Паничева, Полина Вадимовна] Санкт-Петербургский государственный университет. 
+   [Причисленко, Анастасия Геннадьевна; Бутаков, Николай Алексеевич] Санкт-Петербургский НИУ информационных технологий, механики и оптики. 
+Z7 y.ledovaya@spbu.ru; Ppolin86@gmail.com; aprichislenko@corp.ifmo.ru;
+   nb@gmail.com
+U1 0
+U2 0
+SN 0042-8841
+EC PSYCHOLOGY, MULTIDISCIPLINARY
+SC Psychology (provided by Clarivate Analytics)
+PU Общество с ограниченной ответственностью "Вопросы психологии"
+PA 125009, Москва, Моховая, 9, корп. В,к.35
+CR [Аммалайнен А.А. Ammalainen A.A.], 2017, [Poisk nauchnykh i nenauchnykh
+   psikhologicheskikh soobshchestv v sotsial'noi seti «VKontakte»: raznye
+   strategii i raznye rezul'taty, Поиск научных и ненаучных психологических
+   сообществ в социальной сети «ВКонтакте»: разные стратегии и разные
+   результаты], P152
+   Bartels JM, 2009, PSYCHOL REP, V105, P383, DOI 10.2466/PR0.105.2.383-388
+   Butakov N, 2016, PROCEDIA COMPUT SCI, V101, P115, DOI
+   10.1016/j.procs.2016.11.015
+   [Хохлова Д. Khokhlova D.], 2016, [Eto ne prosto priyatnoe zanyatie, my
+   zarabatyvaem den'gi., Это не просто приятное занятие, мы зарабатываем
+   деньги.]
+   Korobov M., 2015, Morphological Analyzer and Generator for Russian and
+   Ukrainian Languages, P320
+   Kostromina S.N., 2011, VESTN SPBGU 12, P309
+   [Лебедев С.А. Lebedev S.A.], 2004, [Filosofiya nauki. Slovar' osnovnykh
+   terminov, Философия науки. Словарь основных терминов]
+   [Ледовая Я.А. Ledovaya YA.A.], 2015, [Problema psikhologicheskogo
+   testirovaniya v Rossii: diskreditatsiya nauchnogo podkhoda k
+   psikhodiagnostike, Проблема психологического тестирования в России:
+   дискредитация научного подхода к психодиагностике], P110
+   [Ляшевская О.Н. Lyashevskaya O.N.], 2009, [Chastotnyi slovar'
+   sovremennogo russkogo yazyka na materialakh Natsional'nogo korpusa
+   russkogo yazyka, Частотный словарь современного русского языка на
+   материалах Национального корпуса русского языка]
+   [Мурзин Л.Н. Murzin L.N.], 1991, [Tekst i ego vospriyatie, Текст и его
+   восприятие]
+   Panicheva P., 2016, Lexical, morphological and semantic correlates of
+   the Dark Triad Personality Traits in Russian Facebook texts, P72
+   [Полани М. Polani M.], 1985, [No title captured]
+   [Поппер К. Popper K.], 1983, [No title captured]
+   [Потемкин С.Б. Potemkin S.B.], 2015, [Voprosy psikhologii, Вопросы
+   психологии], P95
+   Rainie L., 2015, How scientists engage the public
+   [Сахарный Л.В. Sakharnyi L.V.], 1988, [Nabor klyuchevykh slov kak tip
+   teksta, Набор ключевых слов как тип текста], P34
+   [Захаров В.П. Zakharov V.P.], 2015, [Otsenka kachestva Internet-korpusov
+   russkogo yazyka, Оценка качества Интернет-корпусов русского языка], P218
+   2016, [Sotsial'nye seti v Rossii, zima 2015-2016: tsifry, trendy,
+   prognozy, Социальные сети в России, зима 2015-2016: цифры, тренды,
+   прогнозы]
+   2017, [Memorandum, Меморандум]
+   2015, [Novosti Ministerstva obrazovaniya i nauki ot, Новости
+   Министерства образования и науки от]
+   2016, [Memorandum, Меморандум]
+NR 21
+TC 0
+Z9 0
+UT RSCI:32529724
+DA 2018-06-29
+ER
+
+PT J
+AU Kukulin, Ilya
+Z2 Кукулин, Илья
+TI “Pro-disciplinary” and “Anti-disciplinary” Networks in Late Soviet
+   Society
+FT Продисциплинарные и антидисциплинарные сети в позднесоветском обществе
+SO Sotsiologicheskoe obozrenie
+S1 Социологическое обозрение
+VL 16
+IS 3
+BP 136
+EP 173
+PY 2017
+LA Russian
+DT Article
+DE social networks; late Soviet society; blat; shady economy; Harrison
+   White; disciplinary state; conservative modernization
+Y5 социальные сети; позднесоветское общество; блат; теневая экономика;
+   Харрисон Уайт; дисциплинарное государство; консервативная модернизация
+AB This article is aimed at revealing a kind of methodological narrowness
+   in the descriptions of social networks in Soviet society. In
+   sociological research, the term “social network” usually refers to a
+   complex of close and distant acquaintances that connect people in a
+   certain geographical locality, and/or in a certain social cluster.
+   However, if regarding the studies of Soviet and post-Soviet society,
+   sociologists and political scientists usually use this term referring to
+   the networks of corruption, coat-tails, a shady economy, etc., that
+   “corrode” modern social and political institutes, hindering
+   modernization. These can also refer to the secret networks of samizdat
+   and dissidence in the 1960-70s. All of these networks can be defined as
+   “anti-disciplinary”. Apparently, in both the late Soviet and post-Soviet
+   societies, networks of different types existed, and examples of these
+   are described in the article. Nevertheless, all other networks aside
+   from the “anti-disciplinary” ones are studied significantly less, and
+   were never studied systematically. There are at least two types of
+   causes that have entailed this “blind spot”. The “hidden” networks in
+   the late Soviet and post-Soviet societies were and are of great
+   political significance and of a specific organization; thus, they are
+   considered as structures unavoidable for the understanding of Russia’s
+   social dynamics and power relations. Secondly, Soviet society was based
+   on a very complicated combination of modernizing and “archaizing”
+   trends. This tension can be designated as “conservative modernization”,
+   as coined by the demographer Anatoly Vishnevsky. A study of the
+   interrelation between “pro-disciplinary” and “anti-disciplinary”
+   networks demands a reconsideration of some the basic theses of the
+   theory of social networks. Here, I use Harrison White’s theory in order
+   to demonstrate the limits of its applicability to late Soviet society.
+Z4 В статье продемонстрирована односторонность в описании социальных сетей
+   в советском обществе, которая исподволь сложилась в исторических и
+   социологических исследованиях последних десятилетий. Под «социальной
+   сетью» в социологии обычно понимается совокупность ближних и дальних
+   знакомств, связывающих между собой людей в конкретной местности или
+   социальном кластере. Применительно к российскому обществу социологи и
+   политологи чаще всего пишут о сетях блата, теневой экономики,
+   неформальных связей, «разъедающих» современные институты и
+   препятствующих модернизации. По-видимому, и в позднесоветском, и в
+   современном российском обществе существовали сети многих других типов,
+   однако они изучаются гораздо реже и никогда - систематически. Причин, по
+   которым возникло это «слепое пятно», минимум две: 1) большое
+   политическое значение и специфическая организация «антидисциплинарных»
+   сетей в позднесоветском и постсоветском обществе и 2) сложная комбинация
+   модернизационных и контрмодернизационных тенденций в развитии СССР,
+   удачно «схваченная» термином Анатолия Вишневского «консервативная
+   модернизация». Описание взаимодействия этих тенденций требует уточнения
+   некоторых положений современных теорий социальных сетей. Для примера
+   рассмотрены ограничения, которые встречает при рассмотрении советского
+   общества концепция Харрисона Уайта.
+C1 [Kukulin, Ilya] National Research University Higher School of Economics, Myasnitskaya str., 20, Moscow, Russian Federation 101000. 
+C2 [Кукулин, Илья] Национальный исследовательский университет «Высшая школа экономики», ул. Мясницкая, д. 20, г. Москва, Российская Федерация 101000. 
+U1 0
+U2 0
+SN 1728-192X
+EC SOCIOLOGY
+SC Sociology (provided by Clarivate Analytics)
+PU National Research University Higher School of Economics
+PA 20, Myasnitskaya str., Moscow, 101000
+CR Barnes J.A., 1954, (1954). Class and Committees in a Norwegian Island
+   Parish, P39
+   [Болтански Л. Boltanski L.], 2011, [No title captured]
+   Borgatti S.P., 2008, (2008). Network Theory
+   Bruhn J.C., 2011, [No title captured]
+   Burbank J., 1905, [No title captured]
+   Canter D., 2000, [No title captured]
+   Castells M., 2010, [No title captured]
+   Castells M., 2015, [No title captured]
+   Cheloukhine S., 2011, [No title captured]
+   [Чертков А. Chertkov A.], 1983, [(1983). Velikoe kol'tso, (1983).
+   Великое кольцо], P2
+   [Чуковская Л. Chukovskaya L.], 2010, [(2010). Pamyati Fridy, (2010).
+   Памяти Фриды], P609
+   Craik K.H., 2009, [No title captured]
+   CRAWFORD SES, 1995, AM POLIT SCI REV, V89, P582, DOI 10.2307/2082975
+   Crooke M., 2005, [No title captured]
+   Darnton R., 2012, [No title captured]
+   [Дедюлин С.В. Dedyulin S.V.], 2012, [(2013). «Tam byl gorod». «Severnaya
+   pochta»: iz vospominanii o real'nom sotrudnichestve redaktsii s poetami
+   i kritikami, (2013). «Там был город». «Северная почта»: из воспоминаний
+   о реальном сотрудничестве редакции с поэтами и критиками], P94
+   DeHaan H.D., 2013, [No title captured]
+   [Долинин В.Э. Dolinin V.E.], 1950, [No title captured]
+   Doucette C., 2016, (2016). Norton Dodge in Lianozovo: Transnational
+   Collaboration and the Making of the Soviet Unofficial Artist
+   [Дружинин П. Druzhinin P.], 2016, [No title captured]
+   [Эггелинг В. Eggeling V.], 1999, [No title captured]
+   Emirbayer M, 1997, AM J SOCIOL, V103, P281, DOI 10.1086/231209
+   Fainsod M., 1963, [No title captured]
+   FISCHER CS, 1982, SOC NETWORKS, V3, P287, DOI
+   10.1016/0378-8733(82)90004-1
+   Furst J, 2014, CONTEMP EUR HIST, V23, P565, DOI
+   10.1017/S0960777314000320
+   Fuhse JA, 2009, SOCIOL THEOR, V27, P51, DOI
+   10.1111/j.1467-9558.2009.00338.x
+   Fürst J., 2018, [No title captured]
+   Fürst J., 2016, (2016). If You’re Going to Moscow, Be Sure to Wear Some
+   Flowers in Your Hair (and Bring a Bottle of Port Wine in Your Pocket):
+   The Soviet Hippie «Sistema» and Its Life in, Despite, and with
+   «Stagnation»
+   Fürst J., 2010, [No title captured]
+   [Гайдар Е. Gaidar E.], 1990, [No title captured]
+   Garros V., 1995, [No title captured]
+   [Герасимов И. Gerasimov I.], 2017, [No title captured]
+   [Гордин Я.А. Gordin YA.A.], 2005, [Znamya, Знамя], P192
+   Gorham M., 2014, [No title captured]
+   Gorsky Ph., 2003, [No title captured]
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   [Гумеров И.Г. Gumerov I.G.], 2011, [(2011). Sem'ya Biktimerovykh i
+   traditsii Nakshbandiia v Zapadnoi Sibiri, (2011). Семья Биктимеровых и
+   традиции Накшбандийа в Западной Сибири], P148
+   Ikegami E., 2005, [No title captured]
+   [Ильф И. Il'f I.], 1961, [(1961). Chelovek s gusem, (1961). Человек с
+   гусем]
+   Kadushin Ch., 2012, [No title captured]
+   [Капелюшников Р.И. Kapelyushnikov R.I.], 2016, [«Gde nachalo togo
+   kontsa?..» (k voprosu ob okonchanii perekhodnogo perioda v Rossii), «Где
+   начало того конца?..» (к вопросу об окончании переходного периода в
+   России)], P343
+   Kastels M, 2016, VLAST KOMMUNIKATSII
+   [Каверин В. Kaverin V.], 1989, [(1989). Vmesto, (1989). Вместо]
+   [Келли К. Kelli K.], 2009, [Neprikosnovennyi zapas. Debaty o politike i
+   kul'ture, Неприкосновенный запас. Дебаты о политике и культуре], P117
+   [Хархордин О. Kharkhordin O.], 2016, [Oblichat' i litsemerit':
+   genealogiya rossiiskoi lichnosti, Обличать и лицемерить: генеалогия
+   российской личности]
+   [Ходий В. Khodii V.], 2016, [(2016). Zashchita «Gorbatogo doma»: kak v
+   Irkutske bolee poluveka nazad zarozhdalos' dvizhenie v zashchitu
+   pamyatnikov istorii i kul'tury, (2016). Защита «Горбатого дома»: как в
+   Иркутске более полувека назад зарождалось движение в защиту памятников
+   истории и культуры], P23
+   [Комароми А. Komaromi A.], 2016, [Acta Samizdatica (Moskva), Acta
+   Samizdatica (Москва)]
+   Kononenko V., 2011, (2011). Introduction
+   Korotkov Yu, 2006, ESLI, P284
+   [Козлов Д. Kozlov D.], 1940, [(2015). Neofitsial'nye gruppy sovetskikh
+   shkol'nikov 1940-1960-kh godov: tipologiya, ideologiya, praktiki,
+   (2015). Неофициальные группы советских школьников 1940-1960-х годов:
+   типология, идеология, практики], P451
+   Kozlov S., 2009, NOV LIT OBOZR, P583
+   [Козлова Н. Kozlova N.], 2005, [No title captured]
+   Krinko E., 2009, NOVOE LITERATURNOE O, P494
+   [Кукулин И. Kukulin I.], 1940, [(2015). «Vospitanie voli» v sovetskoi
+   psikhologii i detskaya literatura kontsa 1940-kh - nachala 1950-kh
+   godov, (2015). «Воспитание воли» в советской психологии и детская
+   литература конца 1940-х - начала 1950-х годов], P152
+   Kukulin I, 2017, NOV LIT OBOZR, P61
+   [Латур Б. Latur B.], 2014, [Peresborka sotsial'nogo: vvedenie v
+   aktorno-setevuyu teoriyu, Пересборка социального: введение в
+   акторно-сетевую теорию]
+   Leavitt H.J., 1951, (1951). Some Effects of Certain Communication
+   Patterns on Group Performance, P38
+   Ledeneva A., 2006, [No title captured]
+   Ledeneva A., 2013, [No title captured]
+   Ledeneva A.V., 1998, [No title captured]
+   [Лейбович О.Л. Leibovich O.L.], 2016, [Novoe literaturnoe obozrenie,
+   Новое литературное обозрение], P91
+   [Лейбович О.Л. Leibovich O.L.], [(2016b). «Voina na zapade uzhe
+   nachalas'…»: razgovory 1939 g. v barakakh, tyur'makh i ocheredyakh,
+   (2016б). «Война на западе уже началась…»: разговоры 1939 г. в бараках,
+   тюрьмах и очередях]
+   Levinson Aleksei, 2009, NLO, P567
+   [Лихачев Д.С. Likhachev D.S.], 1965, [(1965). Chetvertoe izmerenie,
+   (1965). Четвертое измерение], P3
+   Lipovetsky M., 2011, [No title captured]
+   Lipovetsky M., 2009, NOV LIT OBOZR, P224
+   [Майофис М. Maiofis M.], 2016, [Novoe literaturnoe obozrenie, Новое
+   литературное обозрение], P11
+   [Майофис М. Maiofis M.], 1954, [(2017). Analiz sotsial'nykh setei v
+   istoricheskoi sotsiologii kul'tury (na materiale sovetskoi detskoi
+   literatury, (2017). Анализ социальных сетей в исторической социологии
+   культуры (на материале советской детской литературы]
+   [Майофис М. Maiofis M.], 2017, [Novoe literaturnoe obozrenie, Новое
+   литературное обозрение], P91
+   Maiofis M, 2016, AB IMP, P267, DOI 10.1353/imp.2016.0060
+   [Мамаев В. Mamaev V.], 2000, [Igromaniya, Игромания]
+   [Меерович М.Г. Meerovich M.G.], 1917, [(2008). Nakazanie zhilishchem:
+   zhilishchnaya politika v SSSR kak sredstvo upravleniya lyud'mi, (2008).
+   Наказание жилищем: жилищная политика в СССР как средство управления
+   людьми]
+   [Меерович М.Г. Meerovich M.G.], 1928, [(2011). Kladbishche sotsgorodov:
+   gradostroitel'naya politika v SSSR, (2011). Кладбище соцгородов:
+   градостроительная политика в СССР]
+   Mikkonen S., 2016, (2016). Changing Dynamics: From International
+   Exchanges to Transnational Musical Networks
+   Mitrokhin N., 2006, NEW LIT OBSERVER, P195
+   [Никипорец-Такигава Г. Nikiporets-Takigava G.], 2016, [No title
+   captured]
+   Osipov A., 1981, TEKHNIKA MOLODEZHI, P10
+   Ostrom V., 1961, (1961). The Organization of Government in Metropolitan
+   Areas: A Theoretical Inquiry, P831
+   Ostrom V., 1972, (1972). Polycentricity
+   Oushakine S.A., 2009, [No title captured]
+   [Платт К.Ф. Platt K.F.], 2010, [(2010). Sotsialisticheskaya po forme,
+   neopredelennaya po soderzhaniyu: pozdnesovetskaya kul'tura i kniga
+   Alekseya Yurchaka «Vse bylo navechno, poka ne konchilos'», (2010).
+   Социалистическая по форме, неопределенная по содержанию: позднесоветская
+   культура и книга Алексея Юрчака «Все было навечно, пока не кончилось»]
+   [Погодин Н.А. Pogodin N.A.], 2011, [Institut armii v formirovanii
+   identichnosti molodezhi rossiiskogo obshchestva, Институт армии в
+   формировании идентичности молодежи российского общества]
+   [Погребинская В.А. Pogrebinskaya V.A.], 2016, [(2016). Formirovanie
+   printsipov mobilizatsionnoi ekonomiki v gody Pervoi mirovoi voiny,
+   (2016). Формирование принципов мобилизационной экономики в годы Первой
+   мировой войны]
+   Prandini R, 2015, INT REV SOCIOL, V25, P1, DOI
+   10.1080/03906701.2014.997969
+   [Проди П. Prodi P.], 2017, [Istoriya spravedlivosti: ot plyuralizma
+   forumov k sovremennomu dualizmu sovesti i prava, История справедливости:
+   от плюрализма форумов к современному дуализму совести и права]
+   Rechitski R., 2014, [Zhurnal issledovanii sotsial'noi politiki, Журнал
+   исследований социальной политики], V12, P599
+   Rossman J., 2005, [No title captured]
+   Samuelson L., 2011, [No title captured]
+   [Серто М.де. Serto M.de.], 2013, [Izobretenie povsednevnosti. 1.
+   Iskusstvo delat', Изобретение повседневности. 1. Искусство делать]
+   Sinyavsky A., 1960, VOPROSY LIT, P45
+   [Травин Д. Travin D.], 2012, Звезда, P156
+   [Уортман Р.С. Uortman R.S.], 2004, [No title captured]
+   [Урри Дж. Urri Dzh.], 2012, [Sotsiologiya za predelami obshchestv: vidy
+   mobil'nosti dlya XXI stoletiya, Социология за пределами обществ: виды
+   мобильности для XXI столетия]
+   [Великанова Е.М. Velikanova E.M.], 1989, [No title captured]
+   [Вишневский А. Vishnevskii A.], 1998, [No title captured]
+   [Волков О. Volkov O.], 1989, [No title captured]
+   Werth N., 2001, VINGTIEME SIECLE-REV, P25
+   White H.C., 2008, [No title captured]
+   Yeung K.-T., 2005, (2005). What Does Love Mean? Exploring Network
+   Culture in Two Network Settings, P391
+   [Юрчак А. Yurchak A.], 2016, [No title captured]
+   Yurchak A., 2006, [No title captured]
+   [Живов В.М. Zhivov V.M.], 2004, [No title captured]
+   [Живов В.М. Zhivov V.M.], 2009, [(2009). Distsiplinarnaya revolyutsiya i
+   bor'ba s sueveriem v Rossii XVIII veka: provaly i ikh posledstviya,
+   (2009). Дисциплинарная революция и борьба с суеверием в России XVIII
+   века: провалы и их последствия], P327
+   Zisserman-Brodsky D., 2003, [No title captured]
+   2012, LaPierre B
+   2010, Stegbauer Chr. (Hrsg.) (2010). Netzwerkanalyse und
+   Netzwerktheorie: Ein neues Paradigma in den Sozialwissenschaften
+   1968, [Bez avtora. (1968). God prav cheloveka prodolzhaetsya, Без
+   автора. (1968). Год прав человека продолжается]
+NR 107
+TC 0
+Z9 0
+UT RSCI:32662989
+OA gold
+DA 2018-06-29
+ER
+
+PT J
+AU Kaspe, Irina
+Z2 Каспэ, Ирина
+TI “I Still Exist!”: Late Soviet Cinema Through the Prism of the Relational
+   Sociology of Harrison White (Et Vice Versa)
+FT "Я есть!": позднесоветское кино через призму реляционной социологии
+   Харрисона Уайта (et vice versa)
+SO Sotsiologicheskoe obozrenie
+S1 Социологическое обозрение
+VL 16
+IS 3
+BP 174
+EP 206
+PY 2017
+LA Russian
+DT Article
+DE social identity; social interaction; social networks; relational
+   sociology; Harrison White; late Soviet cinema
+Y5 социальная идентичность; социальное взаимодействие; социальные сети;
+   реляционная социология; Харрисон Уайт; позднесоветское кино
+AB The article is devoted to the popular Soviet cinema of the 1970s and
+   1980s, and examines the prevalent modes of the representation of social
+   identity and social interaction in the culture of late socialism. The
+   author selected the relational sociology of Harrison White as her
+   theoretical framework. Attention is primarily paid to White‘s concept of
+   identity. He associates identity with the seeking of control, and
+   attaches a crucial meaning to the process of switching between different
+   “netdoms”; in the process; an interiorization of the “social noise”
+   (contradictory, inconsistent, and without corresponding social roles and
+   images of social reality) is inescapable. Based on White’s theory, the
+   author of the article concludes that such a process was extremely
+   hindered in the conditions of a totalitarian society when an attempt of
+   political monopolization of control was undertaken. The Stalin-era
+   official narrative implied the elimination of any “social noises”, that
+   is, any contradictions between the various domains of Soviet life and
+   the adjusted anthropology of Soviet man, who is obliged to be absolutely
+   identical to himself (and to the normative prescriptions) in different
+   contexts. At the same time, the destruction of the horizontal ties and
+   the increasing social atomization had a place in the pre-narrative
+   levels the of social reality, so the mechanism of switching could not
+   have been sufficiently operative as well. The article demonstrates that
+   in post-totalitarian late Soviet cinema which arose after the
+   dissolution of the canons of the Stalinist “Grand Style”, the forms of
+   representation of social domains became substantially more complicated,
+   but the mechanism of switching between them seems to be broken. This was
+   reflected in the fact of the conglutination of different contexts of the
+   social interaction (“formal” and “informal”, for example), the vagueness
+   of the role and interpersonal boundaries peculiarly longing for the
+   “authentic self”, and the regular escaping from the role interaction to
+   the imaginary spaces of dream, reminiscences, etc.
+Z4 В статье на материале популярного советского кино 1970-1980-х годов
+   исследуются представления о социальной идентичности и социальном
+   взаимодействии, востребованные в культуре позднего социализма. Этот
+   материал предлагается рассмотреть через призму реляционной социологии
+   Харрисона Уайта; в центре внимания - его концепция идентичности.
+   Связывая идентичность с поиском контроля, Уайт придает ключевое значение
+   процессу переключения (switching) между различными сетевыми сферами - в
+   ходе этого процесса неизбежна интериоризация «социального шума», т. е.
+   противоречивых, несогласованных, не соответствующих друг другу
+   социальных ролей и образов социальной реальности. Используя оптику
+   Уайта, можно заключить, что именно такой процесс крайне затруднен в
+   условиях тоталитарной социальности, когда предпринимается попытка
+   политической монополизации контроля. Официальный нарратив «сталинского
+   времени» предполагает устранение любых «социальных шумов», любых
+   противоречий между различными сферами советской жизни и утверждает
+   антропологию советского человека, абсолютно тождественного себе (и
+   нормативным предписаниям) в самых разных контекстах. Одновременно на
+   донарративных уровнях социальной реальности происходят разрушение
+   горизонтальных связей и рост социальной атомизации, что, со своей
+   стороны, также не способствует работе механизма переключения. Как
+   показывается в статье, в позднесоветском, посттоталитарном кино
+   (возникающем после распада канонов «большого стиля») существенно
+   усложняются способы репрезентации сетевых сфер, однако механизм
+   переключения между ними выглядит сломанным, что выражается в слипании
+   разных контекстов социального взаимодействия (прежде всего -
+   «формальных» и «неформальных»), в непроясненности ролевых и
+   межличностных границ, в специфической тоске по «подлинному я» и
+   регулярном выскальзывании персонажей из ролевой интеракции в проективные
+   пространства грезы, воспоминания etc.
+C1 [Kaspe, Irina] Russian Presidential Academy of National Economy and Public Administration, Prospect Vernadskogo, 82, Moscow, Russian Federation 119571. 
+C2 [Каспэ, Ирина] Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации, просп. Вернадского, 82, стр. 9, Москва, Российская Федерация 119571. 
+U1 0
+U2 0
+SN 1728-192X
+EC SOCIOLOGY
+SC Sociology (provided by Clarivate Analytics)
+PU National Research University Higher School of Economics
+PA 20, Myasnitskaya str., Moscow, 101000
+CR [Аронсон О. Aronson O.], 2003, [(2003). Sovetskii fil'm: nerodivsheesya
+   kino, (2003). Советский фильм: неродившееся кино], P87
+   Balina M., 2007, NEPRIKOSNOVENNYY ZAP, P182
+   Balina M., 2009, [No title captured]
+   Bogdanov K., 2009, NLO, P136
+   Brubaker R, 2000, THEOR SOC, V29, P1, DOI 10.1023/A:1007068714468
+   Bulmer M., 1987, SOCIOL REV, V33, P430
+   [Дашкова Т. Dashkova T.], 2008, [(2008). Granitsy privatnogo v
+   sovetskikh kinofil'makh do i posle 1956 goda: problematizatsiya
+   perekhodnogo perioda, (2008). Границы приватного в советских кинофильмах
+   до и после 1956 года: проблематизация переходного периода]
+   Faraday G.W., 2000, [No title captured]
+   [Филиппов А.Ф. Filippov A.F.], 2008, [No title captured]
+   [Филиппов А.Ф. Filippov A.F.], 2011, [(2011). «Okhotnyi ryad»: k istorii
+   i fenomenologii odnogo publichnogo mesta, (2011). «Охотный ряд»: к
+   истории и феноменологии одного публичного места]
+   First Joshua, 2008, STUDIES RUSSIAN SOVI, V2, P21
+   Fitzpatrick S., 2000, (2000). Blat in Stalin’s Time
+   GRANOVETTER MS, 1973, AM J SOCIOL, V78, P1360, DOI 10.1086/225469
+   Kaspe I., 2010, NLO 2, P185
+   [Каспэ Ирина Kaspe Irina], 2015, [Социологическое обозрение, Russian
+   Sociological Review, Sotsiologicheskoe obozrenie], V14, P41
+   Levada Y., 2000, MNENII POMIMANIYO SO, P19
+   Lipovetsky M., 2009, NOV LIT OBOZR, P224
+   [Майофис М. Maiofis M.], 1940, [(2015). Ostrova utopii: pedagogicheskoe
+   i sotsial'noe proektirovanie poslevoennoi shkoly, (2015). Острова
+   утопии: педагогическое и социальное проектирование послевоенной школы]
+   [Мальцева Дарья Васильевна Maltseva D.V.], 2011, [Социологические
+   исследования, Sotsiologicheskie issledovaniya], P28
+   McReynolds L., 2002, [No title captured]
+   Mikhalkovich V., 1978, ISKUSSTVO KINO, P38
+   MILGRAM S, 1967, PSYCHOL TODAY, V1, P61
+   [Орлова Л. Orlova L.], 1946, [(1946). <O s"emkakh fil'ma «Vesna»>,
+   (1946). <О съемках фильма «Весна»>]
+   [Прохоров А. Prokhorov A.], 2007, [No title captured]
+   Roth-Ey K., 2011, [No title captured]
+   [Рязанов Э. Ryazanov E.], 2007, [No title captured]
+   [Рыклин М. Ryklin M.], 2002, [No title captured]
+   [Шилова И. Shilova I.], 1987, [(1987). Melodrama, (1987). Мелодрама]
+   [Сохань И. Sokhan' I.], 2013, [Politiya: Analiz. Khronika. Prognoz
+   (Zhurnal politicheskoi filosofii i sotsiologii politiki), Полития:
+   Анализ. Хроника. Прогноз (Журнал политической философии и социологии
+   политики)], P142
+   White H.C., 2008, [No title captured]
+   White H.C., 1992, [No title captured]
+   Yurchak A., 2006, [No title captured]
+NR 32
+TC 0
+Z9 0
+UT RSCI:32662990
+OA gold
+DA 2018-06-29
+ER
+
+EF
