@@ -43,6 +43,7 @@ RM$dist.method <- "nACiA"
 class(RM) <- "hclust"
 RM$call <- "Pajek.data"
 size <- read.csv("MaxLeaderSize.vec",header=FALSE,skip=np)[[1]]
+RM$labels <- read.csv("nACIA.net",header=FALSE,skip=1,sep="",colClasses="character",nrows=n)$V2
 ```
 
 ## orderClu
