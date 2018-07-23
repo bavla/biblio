@@ -33,7 +33,6 @@ Reads in R a hierarchy produced by hierarchical clustering with relational const
 > RM <- readCluRC("MaxLeader.clu")
 > n <- RM$n; nm <- n-1; np <- n+1
 > HM <- read.csv("MaxLeaderHeig.vec",header=FALSE,skip=np)[[1]]
-
 > RM$height <- HM
 > RM$method <- "Maximum/Tolerant"
 > RM$dist.method <- "nACiA"
