@@ -20,3 +20,12 @@ We first prepare the right environment: load R functions description and listSub
 > setwd("C:/Users/batagelj/work/Python/WoS/BM/results/jaccard")   
 > T <- read.csv('../../titles.csv',sep=";",colClasses="character"); T$code <- 1   
 > listSubNets("Jislands.net","Jislands.clu","/Jislands/",T)   
+
+## readCluRC 
+
+Reads in R a hierarchy produced by hierarchical clustering with relational constraints in Pajek (stored as a partition/clustering) and creates an R hierarchy description.
+
+> <- function(cling){
+
+## orderClu
+
