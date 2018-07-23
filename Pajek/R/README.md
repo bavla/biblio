@@ -48,6 +48,9 @@ RM$labels <- read.csv("nACIA.net",header=FALSE,skip=1,sep="",colClasses="charact
 
 ## orderClu
 
+orDendro returns the ordering of units according to a dendrograme described in table m.
+
+orSize returns the sizes of clusters determined by a dendrograme described in table m
 ```
 orDendro <- function(m,i){if(i<0) return(-i)
   return(c(orDendro(m,m[i,1]),orDendro(m,m[i,2])))}
