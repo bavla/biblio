@@ -49,7 +49,17 @@ RM$labels <- read.csv("nACIA.net",header=FALSE,skip=1,sep="",colClasses="charact
 ## orderClu
 
 ```
+orDendro <- function(m,i){if(i<0) return(-i)
+  return(c(orDendro(m,m[i,1]),orDendro(m,m[i,2])))}
+ 
+orSize <- function(m,i){if(i<0) return(1)
+  s[i] <<- orSize(m,m[i,1])+orSize(m,m[i,2])
+  return(s[i])}
 
+RM$order <- orDendro(RM$merge,nm)
+pdf("DendroMaxTol.pdf",width=58.5,height=41.5)
+plot(RC,hang=-1,cex=0.08,main="Maximum/Tolerant",lwd=0.01)
+dev.off()
 ```
 
 
