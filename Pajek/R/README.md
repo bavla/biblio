@@ -29,17 +29,9 @@ Reads in R a hierarchy produced by hierarchical clustering with relational const
 
 > wdir <- "C:/Users/batagelj/work/Python/WoS/BM/results/Acite"
 > setwd(wdir)
-> getwd()
-[1] "C:/Users/batagelj/work/Python/WoS/BM/results/Acite"
 > source("https://raw.githubusercontent.com/bavla/biblio/master/Pajek/R/readCluRC.R")
 > RM <- readCluRC("MaxLeader.clu")
-> dim(RM)
-NULL
-> names(RM)
-[1] "merge" "n"    
 > n <- RM$n; nm <- n-1; np <- n+1
-> n
-[1] 13376
 > HM <- read.csv("MaxLeaderHeig.vec",header=FALSE,skip=np)[[1]]
 > RM$height <- HM
 > RM$method <- "Maximum/Tolerant"
