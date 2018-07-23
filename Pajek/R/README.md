@@ -4,23 +4,25 @@
 
 The function description produces a csv file csvFile containing a table with columns (name, WoSline, author, title, journal, year, code)  for vertices of a subnetwork from file netFile. The titles for all (DC>0) vertices are stored in the table T. Since for vertices with DC=0 the title is not available it takes '***'.
 
-''
+```
 source("C:\\Users\\..path..\\WoS\\R\\description.R")  
 T <- read.csv('titles.csv',sep=";",colClasses="character")  
 T$code <- 1  
 d <- description("mainpath.net","mainpath.csv",T)  
 head(d)  
-´´
+```
 
 ## listSubNets
 
 We first prepare the right environment: load R functions description and listSubNets, set the working directory and read in a data frame T the information about works from the file titles.csv produced by WoS2Pajek:
 
+```
 > source("C:/Users/batagelj/work/Python/WoS/peere1/description.R")   
 > source("C:/Users/batagelj/work/Python/WoS/BM/listSubNets.R")   
 > setwd("C:/Users/batagelj/work/Python/WoS/BM/results/jaccard")   
 > T <- read.csv('../../titles.csv',sep=";",colClasses="character"); T$code <- 1   
 > listSubNets("Jislands.net","Jislands.clu","/Jislands/",T)   
+```
 
 ## readCluRC 
 
@@ -28,6 +30,7 @@ Reads in R a hierarchy produced by hierarchical clustering with relational const
 
 > <- function(cling){
 
+```
 > wdir <- "C:/Users/batagelj/work/Python/WoS/BM/results/Acite"
 > setwd(wdir)
 > source("https://raw.githubusercontent.com/bavla/biblio/master/Pajek/R/readCluRC.R")
@@ -40,6 +43,7 @@ Reads in R a hierarchy produced by hierarchical clustering with relational const
 > class(RM) <- "hclust"
 > RM$call <- "Pajek.data"
 > size <- read.csv("MaxLeaderSize.vec",header=FALSE,skip=np)[[1]]
+```
 
 ## orderClu
 
