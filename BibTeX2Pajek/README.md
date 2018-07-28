@@ -55,8 +55,8 @@ PI New York
 </code></pre>
 We can add also some missing information.
 
-The above lines of R code can be wraped into a function [ris2wos](ris2wos.R). Then
+The above lines of R code can be wraped into a function [ris2wos](ris2wos.R). Then we can run the test
 <pre><code>
-source()
-
+source("https://raw.githubusercontent.com/bavla/biblio/master/BibTeX2Pajek/ris2wos.R")
+ris2wos("https://raw.githubusercontent.com/bavla/biblio/master/BibTeX2Pajek/test.ris",stdout())
 </code></pre>
