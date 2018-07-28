@@ -34,13 +34,13 @@ BibTeX2Pajek - done
 
 See [citation resources](http://vladowiki.fmf.uni-lj.si/doku.php?id=pro:bib:citr).
 
-We can use JabRef to convert BibTeX bibliography into RIS format that is very similar to WoS format. For example, for the file test.bib we get the corresponding converted file test.ris. It contains several empty lines. They can be easily removed in R:
+We can use JabRef to convert BibTeX bibliography into RIS format that is very similar to WoS format. For example, for the file [test.bib](test.bib) we get the corresponding converted file [test.ris](test.ris). It contains several empty lines. They can be easily removed in R:
 <pre><code>> setwd("C:/Users/batagelj/Documents/books/BM2/chapters/cluster")
 > ris <- readLines("test.ris")
 > T <- ris[nchar(ris)>0]
 > writeLines(T,"testC.ris")
 </code></pre>
-The condensed RIS file [testC.ris]() can be further converted into WoS file test.WoS by sequence of substitutions:
+The condensed RIS file [testC.ris](testC.ris) can be further converted into WoS file [test.WoS](test.WoS) by sequence of substitutions:
 <pre><code>> T <- gsub("^T1","TI",gsub("^Y1","PY",gsub("^PB","PU",gsub("^KW","DE",gsub("^TY","PT",gsub("  -","",T))))))
 > T <- gsub("^JO","SO",gsub("^AD","PI",gsub("^SP","BP",T)))
 > Encoding(T) <- "UTF-8"
