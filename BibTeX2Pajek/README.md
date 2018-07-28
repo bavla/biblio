@@ -29,3 +29,18 @@ BibTeX2Pajek - done
 [Sredin seminar](http://vlado.fmf.uni-lj.si/seminar/05apr06/)
 
 [The Collection of Computer Science Bibliographies](https://liinwww.ira.uka.de/bibliography/index.html)
+
+## BibTeX to RIS and WoS
+
+See [citation resources](http://vladowiki.fmf.uni-lj.si/doku.php?id=pro:bib:citr).
+
+We can use JabRef to convert BibTeX bibliography into RIS format that is very similar to WoS format. For example, for the file test.bib we get the corresponding converted file test.ris. It contains several empty lines. They can be easily removed in R:
+<pre><code>> setwd("C:/Users/batagelj/Documents/books/BM2/chapters/cluster")
+> ris <- readLines("test.ris")
+> T <- ris[nchar(ris)>0]
+
+</code></pre>
+The RIS file can be further converted into WoS file by sequence of substitutions:
+<pre><code>> gsub("  -"," ",T)
+</code></pre>
+
