@@ -46,4 +46,10 @@ The condensed RIS file [testC.ris](testC.ris) can be further converted into WoS 
 > Encoding(T) <- "UTF-8"
 > writeLines(T,"test.WoS")
 </code></pre>
-
+The obtained file test.WoS needs some additional manual corrections. For example:
+<pre><code>PU John Wiley and Sons, New York
+</code></pre>
+has to be split into
+<pre><code>PU John Wiley and Sons
+PI New York
+</code></pre>
