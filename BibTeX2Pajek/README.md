@@ -38,9 +38,11 @@ We can use JabRef to convert BibTeX bibliography into RIS format that is very si
 <pre><code>> setwd("C:/Users/batagelj/Documents/books/BM2/chapters/cluster")
 > ris <- readLines("test.ris")
 > T <- ris[nchar(ris)>0]
-
+> writeLines(T,"testC.ris")
 </code></pre>
 The RIS file can be further converted into WoS file by sequence of substitutions:
-<pre><code>> gsub("  -"," ",T)
+<pre><code>> T <- gsub("^T1","TI",gsub("^Y1","PY",gsub("^PB","PU",gsub("^KW","DE",gsub("^TY","PT",gsub("  -","",T))))))
+> T
+
 </code></pre>
 
