@@ -42,7 +42,8 @@ We can use JabRef to convert BibTeX bibliography into RIS format that is very si
 </code></pre>
 The RIS file can be further converted into WoS file by sequence of substitutions:
 <pre><code>> T <- gsub("^T1","TI",gsub("^Y1","PY",gsub("^PB","PU",gsub("^KW","DE",gsub("^TY","PT",gsub("  -","",T))))))
-> T
-
+> T <- gsub("^JO","SO",gsub("^AD","PI",gsub("^SP","BP",T)))
+> Encoding(T) <- "UTF-8"
+> writeLines(T,"test.WoS")
 </code></pre>
 
