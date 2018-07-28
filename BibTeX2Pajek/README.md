@@ -53,3 +53,10 @@ has to be split into
 <pre><code>PU John Wiley and Sons
 PI New York
 </code></pre>
+We can add also some missing information.
+
+The above lines of R code can be wraped into a function [ris2wos](ris2wos.R). Then
+<pre><code>
+source()
+
+</code></pre>
