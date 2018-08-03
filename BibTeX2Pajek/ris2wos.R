@@ -3,12 +3,13 @@ ris2wos <- function(fris,fwos){
   T <- gsub("^JO","SO",
        gsub("^AD","PI",
        gsub("^SP","BP",
+       gsub("^A1","AU",
        gsub("^T1","TI",
        gsub("^Y1","PY",
        gsub("^PB","PU",
        gsub("^KW","DE",
-       gsub("^TY","PT",
-       gsub("  -","",ris[nchar(ris)>0])))))))))
+       gsub("^TY (\\S)(\\S*)","PT \\1",
+       gsub("  -","",ris[nchar(ris)>0]))))))))))
   Encoding(T) <- "UTF-8"
   writeLines(T,fwos)
 }
