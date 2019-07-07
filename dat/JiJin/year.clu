@@ -1,3 +1,9 @@
+% Ji and Jin data set / publication year clustering
+% Ji, P. and Jin, J. (2016). Coauthorship and Citation Networks for Statisticians.
+% Annals of Applied Statistics with discussion,  Vol. 10, No. 4, 1779-1812.
+%   paper: http://www.stat.uga.edu/sites/default/files/psji/AOAS896.pdf
+%   data:  http://www.stat.uga.edu/sites/default/files/psji/SCC2016-with-abs.zip
+% transformed in Pajek files by Vladimir Batagelj, July 7, 2019
 *vertices  3248
 2012
 2012
