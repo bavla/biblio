@@ -8,5 +8,5 @@ authors.xlsx - example of authors "dictionary"
 
 Year.clu - publication year vector for centrality literature
 
-[[SN5.ZIP|http://vlado.fmf.uni-lj.si/pub/networks/data/WoS/SN5.zip]]
+(SN5.ZIP)[http://vlado.fmf.uni-lj.si/pub/networks/data/WoS/SN5.zip]
 
