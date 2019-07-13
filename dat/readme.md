@@ -1,4 +1,4 @@
-# Data sets
+# Example data sets
 
 1. [SN5.ZIP](http://vlado.fmf.uni-lj.si/pub/networks/data/WoS/SN5.zip)
    1. SN5Cite.ZIP - citation network file from Social networks bibliography in Pajek format
