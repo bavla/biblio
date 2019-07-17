@@ -43,7 +43,7 @@ description <- function(netFile,csvFile,T){
 }
 
 # > setwd("E:/Data/Centrality/net")
-# > load("titlesCentr.Rdata")
-# > source("E:\\Data\\Centrality\\net\\res\\description.R")
+# > T <- read.csv2("titles.csv")
+# >  source("https://raw.githubusercontent.com/bavla/biblio/master/code/description.R")
 # > d <- description("./res/island2.net","./res/island2new.csv",T)
 
