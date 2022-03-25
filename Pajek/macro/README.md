@@ -12,7 +12,7 @@ Normalized 2-mode network N given as First network. As data enter # of rows of g
 
 ## norm2p
 
-Newman's normalization of a 2-mode network N given as First network.
+Newman's normalization of a 2-mode network N given as First network.  As data enter # of rows of given 2-mode network.
 
 ## biCo
 
