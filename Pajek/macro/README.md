@@ -8,7 +8,7 @@ Normalized 1-mode network N given as First network.
 
 ## norm2
 
-Normalized 2-mode network N given as First network.
+Normalized 2-mode network N given as First network. As data enter # of rows of given 2-mode network.
 
 ## norm2p
 
