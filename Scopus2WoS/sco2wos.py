@@ -81,33 +81,53 @@ def Gname(AU,PY,VL,BP,AR):
 
 def sco2ISI(r):
   YEAR = r"(\b\d{4}|n\.d\.)"
-  AUTHOR = r"\S+, (\S\.)+,"
+  # AUTHOR = r"\S+, (\S\.)+,"
+  # AUTHOR = r"\S+, \S+,"
+  # AUTHOR = r"\S+, (\S(\.| | |\S)+,"
+  AUTHOR = r"\S+, (\S+|\S+ \S+|\S+ \S+ \S+),"
   AU = ""; PY = ""; TI = ""; VL = ""; BP = ""
   J9 = ""; IS = ""; EP = ""; Er = ""  #; AR = ""
   stand = False
-  la = list(re.finditer(AUTHOR,r))
+  my = re.search(r"\("+YEAR+r"\)",r)
+  if my is None: # nonstandard PY format
+    iy = re.search(YEAR,r)
+    if not(iy is None): PY = iy.group()
+    k = r.find(", ,")
+    beg = r[:k]; end = r[k+3:]
+    form = 0
+  else: # standard format
+    PY = my.group()[1:-1]
+    j = my.span()[0]
+    beg = r[:j]; end = r[j+7:]
+    form = 1   
+  la = list(re.finditer(AUTHOR,beg))
+  n = len(la)
+  if n > 1:
+    for i in range(n-1):
+      if la[i].span()[1]+1 != la[i+1].span()[0]: break
+    n = i+1
+  la = la[:n]
   AUs = [ a.group()[:-1] for a in la ]
+  OK = True
+  for a in AUs: OK = OK and (re.search("[a-z]",a.split(", ")[1]) is None)
+  # if not OK: print("irregular name in:\n",beg)
   if len(AUs)>0: AU = AUs[0]
   else:
     AU = "ANON"; AUs.append(AU)
-  my = re.search(r"\("+YEAR+r"\)",r)
-  if my is None: # nonstandard format
-    iy = re.search(YEAR,r)
-    if not(iy is None): PY = iy.group()
+  if form == 0: # nonstandard format
     i = la[-1].span()[1]+1
-    k = r.find(", ,",i)
-    TI = r[i:k]; q = r[k+4:] 
+    TI = beg[i:k] 
   else: # standard format
-    PY = my.group()[1:-1]
-    i = la[-1].span()[1]+1
-    j = my.span()[0]
+    if AU == "ANON": i = j = 1
+    else:
+      i = la[-1].span()[1]+1; j = my.span()[0]
     if j>i: # AUs TI (PY)
-      TI = r[i:j]; q = r[j+7:]
+      TI = beg[i:j]
     else: # AUs(PY) TI, , 
-      k = r.find(", ,",j+7)
-      TI = r[j+7:k]; q = r[k+4:]
+      k = end.find(", ,")
+      TI = r[:k]; end = end[k+4:]
 # for a in AUs: print(a)
-  L = q.split(", ")
+  L = end.split(", ")
   if len(L) > 0: J9 = L[0]
   if len(L) > 2:
     if ("pp." in L[2]) or ("p." in L[2]):
@@ -120,9 +140,9 @@ def sco2ISI(r):
       BP = pp[0]; stand = True
       if len(pp)>1: EP = pp[1]
     else: stand = False   
-  if stand: q = ""
-  return {"AUs": AUs, "PY": PY, "TI": TI, "J9": J9,
-          "VL": VL, "IS": IS, "BP": BP, "EP": EP, "XY": q }
+  if stand: end = ""
+  return {"AUs": AUs, "PY": PY, "TI": TI, "J9": J9, "VL": VL, 
+          "IS": IS, "BP": BP, "EP": EP, "XY": end, "OK": OK }
 
 def WoSrec(p,short):
   wosR = "PT J\n"; cmd = "AU "
@@ -192,6 +212,9 @@ while(ponovi):
                     except:
                         trace.write("Problem in line "+str(r)+"\n"+ref+"\n")
                         np += 1; continue
+                    if not p["OK"]:
+                        np += 1
+                        trace.write("irregular name in line "+str(r)+"\n")
                     isi = ISIname(p["AUs"][0],p["PY"],p["J9"],p["VL"],p["BP"],"")
                     short = nameG(isi,"")
                     if not(short in works):
@@ -229,15 +252,16 @@ while(ponovi):
                 except:
                     trace.write("Problem in line "+str(r)+"\n"+ref+"\n")
                     np += 1; continue
+                if not p["OK"]:
+                    np += 1
+                    trace.write("irregular name in line "+str(r)+"\n")
                 isi = ISIname(p["AUs"][0],p["PY"],p["J9"],p["VL"],p["BP"],"")
                 short = nameG(isi,"")
                 if not(short in works):
                     works.add(short)
                     scopWoS.write(WoSrec(p,short))
                 wosfile.write("   "+isi)
-scopus.close()
-wosfile.close()
-scopWoS.close()
+scopus.close(); wosfile.close(); scopWoS.close(); trace.close()
 print("\nDone\n# of problems = ", np)
 t2 = datetime.datetime.now()
 print("ended: ",t2.ctime(),"\n")
