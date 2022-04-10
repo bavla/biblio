@@ -74,33 +74,54 @@ def nameG(name,DOI):
 
 def sco2ISI(r):
   YEAR = r"(\b\d{4}|n\.d\.)"
-  AUTHOR = r"\S+, (\S\.)+,"
+  # AUTHOR = r"\S+, (\S\.)+,"
+  # AUTHOR = r"\S+, \S+,"
+  # AUTHOR = r"\S+, (\S(\.| | |\S)+,"
+  AUTHOR = r"\S+, (\S+|\S+ \S+|\S+ \S+ \S+),"
   AU = ""; PY = ""; TI = ""; VL = ""; BP = ""
   J9 = ""; IS = ""; EP = ""; Er = ""  #; AR = ""
   stand = False
-  la = list(re.finditer(AUTHOR,r))
+  my = re.search(r"\("+YEAR+r"\)",r)
+  if my is None: # nonstandard PY format
+    iy = re.search(YEAR,r)
+    if not(iy is None): PY = iy.group()
+    k = r.find(", ,")
+    beg = r[:k]; end = r[k+3:]
+    form = 0
+  else: # standard format
+    PY = my.group()[1:-1]
+    j = my.span()[0]
+    beg = r[:j]; end = r[j+7:]
+    form = 1
+ # if len(beg.strip())==0:   
+  la = list(re.finditer(AUTHOR,beg))
+  n = len(la)
+  if n > 1:
+    for i in range(n-1):
+      if la[i].span()[1]+1 != la[i+1].span()[0]: break
+    n = i+1
+  la = la[:n]
   AUs = [ a.group()[:-1] for a in la ]
+  OK = True
+  for a in AUs: OK = OK and (re.search("[a-z]",a.split(", ")[1]) is None)
+  if not OK: print("irregular name in:\n",beg)
   if len(AUs)>0: AU = AUs[0]
   else:
     AU = "ANON"; AUs.append(AU)
-  my = re.search(r"\("+YEAR+r"\)",r)
-  if my is None: # nonstandard format
-    iy = re.search(YEAR,r)
-    if not(iy is None): PY = iy.group()
+  if form == 0: # nonstandard format
     i = la[-1].span()[1]+1
-    k = r.find(", ,",i)
-    TI = r[i:k]; q = r[k+4:] 
+    TI = beg[i:k] 
   else: # standard format
-    PY = my.group()[1:-1]
-    i = la[-1].span()[1]+1
-    j = my.span()[0]
+    if AU == "ANON": i = j = 1
+    else:
+      i = la[-1].span()[1]+1; j = my.span()[0]
     if j>i: # AUs TI (PY)
-      TI = r[i:j]; q = r[j+7:]
+      TI = beg[i:j]
     else: # AUs(PY) TI, , 
-      k = r.find(", ,",j+7)
-      TI = r[j+7:k]; q = r[k+4:]
+      k = end.find(", ,")
+      TI = r[:k]; end = end[k+4:]
 # for a in AUs: print(a)
-  L = q.split(", ")
+  L = end.split(", ")
   if len(L) > 0: J9 = L[0]
   if len(L) > 2:
     if ("pp." in L[2]) or ("p." in L[2]):
@@ -113,9 +134,9 @@ def sco2ISI(r):
       BP = pp[0]; stand = True
       if len(pp)>1: EP = pp[1]
     else: stand = False   
-  if stand: q = ""
+  if stand: end = ""
   return {"AUs": AUs, "PY": PY, "TI": TI, "J9": J9,
-          "VL": VL, "IS": IS, "BP": BP, "EP": EP, "XY": q }
+          "VL": VL, "IS": IS, "BP": BP, "EP": EP, "XY": end }
 
 def WoSrec(p,short):
   wosR = "PT J\n"; cmd = "AU "
@@ -137,7 +158,7 @@ def WoSrec(p,short):
 # wosfile = open("ScopusRefs.WoS", "w", encoding="utf-8")
 works = set()
 
-S = [""]*17
+S = [""]*39
 S[0] = "MacDougall, J.D., Ward, G.R., Sale, D.G., Biochemical adaptation of human skeletal muscle to heavy resistance training and immobilization (1977) J. Appl. Physiol., 43, pp. 700-703;" 
 S[1] = "Mikkelsen, F., Olesen, M.N., (1976) Handbold 82–8884, , (Traening af skudstyrken). Stockholm: Trygg-Hansa;" 
 S[2] = "Conover, W.J., (1980) Practical Nonparametric Statistics. 2nd Edn., , New York: John Wiley and Sons;"
@@ -156,11 +177,41 @@ S[14] = "Viru, A., Plasma hormones and physical exercise (1992) International Jo
 S[15] = "Guillet, E., Sarrazin, P., (1999) Using survival analysis to determine the moments and the rates of dropout in sport: The example of the female handball, , Unpublished manuscript, University of Grenoble 1, France. (In French.);"
 S[16] = "Sarrazin, P., Vallerand, R., Guillet, E., Pelletier, L., Cury, F., Motivation and dropout in female handballers: A 21-month prospective study Eur J Soc Psychol., , in press;"
 
+S[17] = "Graves, JE, Pollock, ML, Jones, AE, Colvin, AB, Leggett, SH., Specificity of limited range of motion variable resistance training (1989) Med Sci Sports Exerc, 21, pp. 84-89;"
+S[18] = "Farthing, JP, Chilibeck, PD., The effects of eccentric and concentric training at different velocities on muscle hypertrophy (2003) Eur J Appl Physiol, 89, pp. 578-586;"
+S[19] = "Ebben, WP, Simenz, C, Jensen, RL., Evaluation of plyometric intensity using electromyography (2008) J Strength Cond Res, 22, pp. 861-868;"
+S[20] = "Jimenez-Olmedo, JM, Penichet-Tomas, A, Ortega Becerra, M, Pueo, B, Espina-Agullo, JJ., Relationships between anthropometric parameters and overarm throw in elite beach handball (2019) Hum Mov, 20 (2), pp. 16-24;"
+S[21] = "Wagner, H, Finkenzeller, T, Wurth, S, von Duvillard, SP., Individual and team performance in team-handball: a review (2014) J Sports Sci Med, 13 (4), pp. 808-816;"
+S[22] = "McNeill, M. C., Fry, J. M., Wright, S. C., Tan, W. K. C., Tan, K. S. S., Schempp, P. G., Â«In the Local ContextÂ»: Singaporean Challenges to Teaching Games on Practicum (2004) Sport, Education and Society, 9 (1), pp. 3-32. , https://doi.org/10.1080/1357332042000175791;"
+S[23] = "Hermassi, S, Chelly, MS, Fathloun, M, Shephard, RJ., The effect of heavy â vs. Moderate load training on the development of strength, power, and throwing ball velocity in male handball players (2010) J Strength Cond Res, 24 (9), pp. 2408-2418;"
+S[24] = "De Dreu, C. K. W., Weingart, L. R., Task versus relationship conflict, team performance, and team member satisfaction: A meta-analysis (2003) Journal of Applied Psychology, 88, pp. 741-749. , 6;"
+S[25] = "MartÃ­nez-RodrÃ­guez, A, MartÃ­nez-Olcina, M, HernÃ¡ndez-GarcÃ­a, M, Rubio-Arias, J, SÃ¡nchez-SÃ¡nchez, J, SÃ¡nchez-SÃ¡ez, JA., Body composition characteristics of handball players: Systematic review (2020) Arch de Medicina del Deporte, 37, pp. 52-61;"
+S[26] = "Visscher, CM, Lobbezoo, F, de Boer, W, van der Zaag, J, Naeije, M, Prevalence of cervical spinal pain in craniomandibular pain patients (2001) Eur J Oral Sci, 109, pp. 76-80;"
+S[27] = "Hsieh, Y.-L., Yang, S.-A., Yang, C.-C., Chou, L.-W., Dry Needling at Myofascial Trigger Spots of Rabbit Skeletal Muscles Modulates the Biochemicals Associated with Pain, Inflammation, and Hypoxia (2012) Evid.-Based Complement. Altern. Med, 2012, pp. 1-12. , [CrossRef] [PubMed];"
+
+S[28] = "DE FORNEL, M. (1993). Faire parler les objets. Raisons Pratiques, 4, 241-265;"
+S[29] = "DEWEY,J. (1922). Human nature and conduct.Carbondale, Southern Illinois University Press;"
+S[30] = "DODIER, N. (1993). Les arÃ¨nes des habiletÃ©s techniques. Raisons Pratiques, 4, 115-139;"
+S[31] = "Development and Evaluation of a Sport-Specific Measurement Protocol (2015) J Sports Sci Med, 14, pp. 501-506;"
+S[32] = "FLEURANCE, P. et F. WINNYKAMEN (1995). Effects of the degree of competence symmetry- assymmetry in the acquisition of a motor skill in a dyad, Journal of Human Movement Studies, 28, 255-273;"
+S[33] = "American College of Sports Medicine, (2006) ACSM's Guidelines for Exercise Testing and Prescription, pp. 123-134. , 6th ed. Baltimore: Lippincot, Willians & Wilkins;"
+S[34] = "American Dental Association. Bureau of Dental Health Education and Bureau of Economic Research and Statistics: Mouth protectors: 1962 and the future (1963) J Am Dent Assoc, 66, pp. 539-543;"
+S[35] = "Declaration of Helsinki. Ethical principles for medical research involving human subjects (2009) Journal of the Indian Medical Association, 107 (6), pp. 403-405. , 59. WMA;"
+S[36] = "Declaration of Helsinki: Ethical principles for medical research involving human subjects (2008) WMJ, 54, pp. 122-125;"
+S[37] = "(2018) Inventory Survey of Membership 2018, , Accessed 14 Jan 2019;"
+S[38] = "(2018) Juventus & Cristiano Ronaldo digital impact, , https://www.facebook.com/ResultSports/posts/2002596436471764, ResultSports. (August 10). [Facebook content];"
+
+# regex emEditor  \u\. \(   ! match cases
 
 for (c,t) in enumerate(S):
   T = t.rstrip(";").split(";")
   for ref in T:
-    p = sco2ISI(ref)
+    try:
+      p = sco2ISI(ref)
+    except:
+      print(c,"*****\n",ref)
+      continue
+    for name in p["AUs"]: print("     ",name)
     isi = ISIname(p["AUs"][0],p["PY"],p["J9"],p["VL"],p["BP"],"")
     short = nameG(isi,"")
     if not(short in works):
@@ -170,7 +221,6 @@ for (c,t) in enumerate(S):
       print("XY  = ",p["XY"])
 
 # wosfile.close()
-
 
 
  
