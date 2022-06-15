@@ -67,7 +67,6 @@ BP 85
 EP 91
 ER
 
-
 ** MANDELBA_B(2005)33:1003
 ** https://pubmed.ncbi.nlm.nih.gov/15888716/
 PT J
@@ -93,27 +92,114 @@ EP 1010
 ER
 
 ** COHEN_J(1988)2ND ED.:
-** ARENDT_E(1995)23:694
-** HOPKINS_W(2009)41:3
-** HEWETT_T(1996)24:765
-** CARAFFA_A(1996)4:19
-** MARKOLF_K(1995)13:930
-
-
+** https://www.taylorfrancis.com/books/mono/10.4324/9780203771587/statistical-power-analysis-behavioral-sciences-jacob-cohen
 PT J
-AU Priimek1, Z
-   Priimek2, Z
-   Priimek3, Z
-   Priimek4, Z
-TI Naslov
-SO Revija
+AU Cohen, J
+TI Statistical Power Analysis for the Behavioral Sciences, 2nd ed
+LA English
+DT Book
+DE power analysis; multivariate methods; set correlation; effect size; reliability; multiple regression; multiple correlation; test; means; proportions; variance; computation
+PY 1988
+ER
+
+** ARENDT_E(1995)23:694
+** https://pubmed.ncbi.nlm.nih.gov/8600737/
+PT J
+AU Arendt, E
+   Dick, R 
+TI Knee injury patterns among men and women in collegiate basketball and soccer. NCAA data and review of literature
+SO Am J Sports Med
 LA English
 DT Article
-DE geslo1; geslo2; geslo3; geslo4
-PY leto
-VL knjiga
-IS zvezek
-BP prvastran
-EP zadnjastran
+DE Anterior Cruciate Ligament Injuries; Athletic Injuries; epidemiology; Basketball; Female; Humans; Incidence; Joint Instability; Knee Injuries;
+   Ligaments, Articular; pathology; Male; Motor Skills; Movement; Muscle Contraction; Population Surveillance; Sex Factors; Shoes; Soccer; United States; Universities
+PY 1995
+VL 23
+IS 6
+BP 694
+EP 701
+ER
+
+
+** HOPKINS_W(2009)41:3
+** https://pubmed.ncbi.nlm.nih.gov/19092709/
+PT J
+AU Hopkins, W G
+   Marshall, S W 
+   Batterham, A M
+   Hanin, J
+TI Progressive statistics for studies in sports medicine and exercise science
+SO Med Sci Sports Exerc
+LA English
+DT Article
+DE Biomedical Research; Data Interpretation, Statistical; Exercise physiology; Humans; Research Design; Sample Size; Sports Medicine
+PY 2009
+VL 41
+IS 1
+BP 3
+EP 13
+ER
+
+
+** HEWETT_T(1996)24:765
+** https://pubmed.ncbi.nlm.nih.gov/8947398/
+PT J
+AU Hewett, T E 
+   Stroupe, A L  
+   Nance, T A 
+   Noyes, F R 
+TI Plyometric training in female athletes. Decreased impact forces and increased hamstring torques
+SO Am J Sports Med
+LA English
+DT Article
+DE Adolescent; Athletic Injuries physiopathology; Athletic Injuries; prevention & control; Biomechanical Phenomena; Female; Humans; Knee Injuries; Knee Joint physiology;
+   Leg physiology; Male; Muscle, Skeletal physiology; Sports
+PY 1996
+VL 24
+IS 6
+BP 765
+EP 773
+ER
+
+
+** CARAFFA_A(1996)4:19
+** https://link.springer.com/article/10.1007/BF01565992
+PT J
+AU Caraffa, A. 
+   Cerulli, G. 
+   Projetti, M. 
+   Aisa, G.
+   Rizzo, A.  
+TI Prevention of anterior cruciate ligament injuries in soccer
+SO Knee Surgery, Sports Traumatology, Arthroscopy
+LA English
+DT Article
+DE Anterior cruciate ligament; Proprioceptive training; soccer; injuries
+PY 1996
+VL 4
+BP 19
+EP 21
+ER
+
+** MARKOLF_K(1995)13:930
+** https://pubmed.ncbi.nlm.nih.gov/8544031/
+PT J
+AU Markolf, K L
+   Burchfield, D M  
+   Shapiro, M M  
+   Shepard, M F  
+   Finerman, G A  
+   Slauterbeck, J L 
+TI Combined knee loading states that generate high anterior cruciate ligament forces
+SO J Orthop Res
+LA English
+DT Article
+DE Aged; Analysis of Variance; Anterior Cruciate Ligament physiology; Humans; Knee Joint physiology; Middle Aged; Rotation; Stress, Mechanical;
+   Tibia physiology; Weight-Bearing
+PY 1995
+VL 13
+IS 6
+BP 930
+EP 935
 ER
 
