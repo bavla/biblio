@@ -56,15 +56,16 @@ AU Boden, B P
    Feagin, J A Jr
    Garrett, W E Jr
 TI Mechanisms of anterior cruciate ligament injury
-SO SOCIAL NETWORKS
+SO Orthopedics
 LA English
 DT Article
-DE Network; Control measure; Search probabilities; Cooperative network game; Proper Shapley Value; Matrix search game
-PY 2009
-VL 31
-IS 1
-BP 85
-EP 91
+DE Anterior Cruciate Ligament Injuries; Anthropometry; Athletic Injuries etiology; Athletic Injuries physiopathology; Biomechanical Phenomena; Electromyography;
+   Humans; Surveys and Questionnaires; Video Recording
+PY 2000
+VL 23
+IS 6
+BP 573
+EP 578
 ER
 
 ** MANDELBA_B(2005)33:1003
@@ -120,7 +121,6 @@ BP 694
 EP 701
 ER
 
-
 ** HOPKINS_W(2009)41:3
 ** https://pubmed.ncbi.nlm.nih.gov/19092709/
 PT J
@@ -139,7 +139,6 @@ IS 1
 BP 3
 EP 13
 ER
-
 
 ** HEWETT_T(1996)24:765
 ** https://pubmed.ncbi.nlm.nih.gov/8947398/
@@ -160,7 +159,6 @@ IS 6
 BP 765
 EP 773
 ER
-
 
 ** CARAFFA_A(1996)4:19
 ** https://link.springer.com/article/10.1007/BF01565992
