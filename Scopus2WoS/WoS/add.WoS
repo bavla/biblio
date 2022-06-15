@@ -1,0 +1,119 @@
+FN ISI Export Format
+VR 1.0
+** Handball - saturation works
+** June 2022
+** -----------------------------------
+
+** HEWETT_T(2005)33:492
+** https://pubmed.ncbi.nlm.nih.gov/15722287/
+PT J
+AU Hewett, T E
+   Myer, G D
+   Ford, K R 
+   Heidt, R S Jr
+   Colosimo, A J 
+   McLean, S G 
+   van den Bogert, A J 
+   Paterno, M V 
+   Succop, P 
+TI Biomechanical measures of neuromuscular control and valgus loading of the knee predict anterior cruciate ligament injury risk in female athletes: a prospective study
+SO Am J Sports Med
+LA English
+DT Article
+DE Adolescent; Anterior Cruciate Ligament; Injuries; Basketball; Biomechanical Phenomena; methods; Epidemiologic Methods; Female; Humans; Kinesis; Knee Injuries; etiology
+   Knee Injuries; physiopathology; Knee Joint; physiopathology; Rotation; Rupture; etiology; Sex Factors; Soccer; Task Performance and Analysis; Weight-Bearing
+PY 2005
+VL 33
+IS 4
+BP 492
+EP 501
+ER
+
+** HEWETT_T(1999)27:699
+** https://pubmed.ncbi.nlm.nih.gov/10569353/
+PT J
+AU Hewett, T E
+   Lindenfeld, T N 
+   Riccobene, J V
+   Noyes, F R 
+TI The effect of neuromuscular training on the incidence of knee injury in female athletes. A prospective study
+SO Am J Sports Med
+LA English
+DT Article
+DE Adolescent; Adult; Athletic Injuries; prevention & control; Female; Humans; Knee Injuries; Male; Motor Skills; Physical Endurance; Prospective Studies; Weight Lifting
+PY 1999
+VL 27
+IS 6
+BP 699
+EP 706
+ER
+
+** BODEN_B(2000)23:573
+** https://pubmed.ncbi.nlm.nih.gov/10875418/
+PT J
+AU Boden, B P
+   Dean, G S
+   Feagin, J A Jr
+   Garrett, W E Jr
+TI Mechanisms of anterior cruciate ligament injury
+SO SOCIAL NETWORKS
+LA English
+DT Article
+DE Network; Control measure; Search probabilities; Cooperative network game; Proper Shapley Value; Matrix search game
+PY 2009
+VL 31
+IS 1
+BP 85
+EP 91
+ER
+
+
+** MANDELBA_B(2005)33:1003
+** https://pubmed.ncbi.nlm.nih.gov/15888716/
+PT J
+AU Mandelbaum, B R
+   Silvers, H J
+   Watanabe, D S
+   Knarr, J F 
+   Thomas, S D 
+   Griffin, L Y
+   Kirkendall, D T 
+   Garrett, W Jr
+TI Effectiveness of a neuromuscular and proprioceptive training program in preventing anterior cruciate ligament injuries in female athletes: 2-year follow-up
+SO Am J Sports Med
+LA English
+DT Article
+DE Adolescent; Anterior Cruciate Ligament Injuries; Athletic Injuries; prevention & control; Exercise; Female; Humans; Knee Injuries; Proprioception;
+   Prospective Studies; Soccer
+PY 2005
+VL 33
+IS 7
+BP 1003
+EP 1010
+ER
+
+** COHEN_J(1988)2ND ED.:
+** ARENDT_E(1995)23:694
+** HOPKINS_W(2009)41:3
+** HEWETT_T(1996)24:765
+** CARAFFA_A(1996)4:19
+** MARKOLF_K(1995)13:930
+
+
+PT J
+AU Priimek1, Z
+   Priimek2, Z
+   Priimek3, Z
+   Priimek4, Z
+TI Naslov
+SO Revija
+LA English
+DT Article
+DE geslo1; geslo2; geslo3; geslo4
+PY leto
+VL knjiga
+IS zvezek
+BP prvastran
+EP zadnjastran
+ER
+
