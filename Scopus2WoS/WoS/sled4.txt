@@ -1,0 +1,383 @@
+Python 2.7.18 (v2.7.18:8d21aa21f2, Apr 20 2020, 13:25:05) [MSC v.1500 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+========= RESTART: C:\Users\vlado\work2\mark\Sco2WoS\WoS2Pajek15.pyw =========
+
+*** WoS2Pajek 1.5 
+by V. Batagelj, February 23, 2017 / March 23, 2007
+
+WoS2Pajek parameters
+WoS  dir:  C:\Users\vlado\work2\mark\Sco2WoS
+ML   dir:  c:\Python27\Lib\site-packages\MontyLingua-2.1\Python
+Proj dir:  C:/Users/vlado/work2/mark/Sco2WoS
+WoS file:  C:/Users/vlado/work2/mark/Sco2WoS/handball2.WOS
+MaxNum  :  200000
+step    :  250
+ISI name:  False
+clean   :  True
+keywords:  [True, True, True, True]
+titles  :  True
+index   :  True
+
+****** MontyLingua v.2.1 ******
+***** by hugo@media.mit.edu *****
+Lemmatiser OK!
+Custom Lexicon Found! Now Loading!
+Fast Lexicon Found! Now Loading!
+Lexicon OK!
+LexicalRuleParser OK!
+ContextualRuleParser OK!
+Commonsense OK!
+Semantic Interpreter OK!
+Loading Morph Dictionary!
+*********************************
+
+started: Sat Jun 18 01:38:45 2022
+
+>>>  Handball data from WoS
+>>>  query:
+>>>  June 2022
+>>>  -----------------------------------
+>>>  Hits from WoS
+>>>  AU Van Den Tillaar, R
+>>>  AU van den Tillaar, R
+Common sense violated! Correcting...
+>>>  AU van den Tillaar, R
+250 : JURISIC_M(2021)38:359  -  2022-06-18 01:38:53.755000
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+500 : DELARUBI_A(2020)15:0230133  -  2022-06-18 01:39:00.885000
+Common sense violated! Correcting...
+>>>  AU van den Tillaar, R
+>>>  AU van den Tillaar, R
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+>>>  AU van den Tillaar, R
+Common sense violated! Correcting...
+750 : RODIC_S(2011):541  -  2022-06-18 01:39:09.447000
+>>>  AU van den Tillaar, R
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+>>>  AU van den Tillaar, R
+Common sense violated! Correcting...
+>>>  AU van den Tillaar, R
+>>>  AU van den Tillaar, R
+Common sense violated! Correcting...
+>>>  AU van den Tillaar, R
+>>>  AU van den Tillaar, R
+1000 : HERMASSI_S(2019)33:104  -  2022-06-18 01:39:20.329000
+>>>  AU Van den Tillaar, R
+>>>  AU van den Tillaar, R
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+>>>  AU van den Tillaar, R
+1250 : HAMMAMI_M(2019)14:163  -  2022-06-18 01:39:31.240000
+>>>  AU van den Tillaar, R
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+>>>  AU van den Tillaar, R
+Common sense violated! Correcting...
+1500 : IZQUIERD_M(2002)34:332  -  2022-06-18 01:39:42.496000
+Common sense violated! Correcting...
+1750 : BRAND_R(2014)9:1747-597X-9-7  -  2022-06-18 01:39:53.155000
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+>>>  AU van den Tillaar, R
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+2000 : PION_J(2017)35:806  -  2022-06-18 01:40:02.379000
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+>>>  AU van den Tillaar, R
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+>>>  AU van den Tillaar, R
+2250 : ESTEVE_E(2015)49:bjsports-2014-094162  -  2022-06-18 01:40:12.297000
+>>>  AU van den Tillaar, R
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+2500 : SKOFFER_B(2008)17:373  -  2022-06-18 01:40:24.253000
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+2750 : SHI_H(2021)9:2325967121995844  -  2022-06-18 01:40:38.616000
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+>>>  Handball - saturation works
+>>>  -----------------------------------
+>>>  AU van den Tillaar, R
+Common sense violated! Correcting...
+>>>  AU van den Tillaar, R
+>>>  AU van den Tillaar, R
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+>>>  AU van den Tillaar, R
+>>>  AU van den Tillaar, R
+>>>  AU van den Tillaar, R
+>>>  AU van den Tillaar, R
+>>>  AU van den Tillaar, R
+Common sense violated! Correcting...
+>>>  Manual description
+>>>  -----------------------------------
+>>>  06 COHEN_J(1988)2ND ED.:
+>>>  https://www.taylorfrancis.com/books/mono/10.4324/9780203771587/statistical-power-analysis-behavioral-sciences-jacob-cohen
+>>>  10 CARAFFA_A(1996)4:19
+>>>  https://link.springer.com/article/10.1007/BF01565992
+>>>  14 GRIFFIN_L(2000)8:141
+>>>  https://pubmed.ncbi.nlm.nih.gov/10874221/	   <<<
+>>>  28 MYER_G(2007)8:39				      <<<
+>>>  https://bmcmusculoskeletdisord.biomedcentral.com/articles/10.1186/1471-2474-8-39
+>>>  31 HOFF_J(1995)9:255				     <<<
+>>>  https://www.semanticscholar.org/paper/The-Effects-of-Maximum-Strength-Training-on-and-in-Hoff-Alm%C3%A5sbakk/572aa3ddbb88f79c95d0af6cc248f8178cd65c65
+>>>  32 FLECKSMI_S(1992)6:120
+>>>  https://journals.lww.com/nsca-jscr/Abstract/1992/05000/Upper_Extremity_Isokinetic_Torque_and_Throwing.10.aspx
+>>>  AU Fleck, Steven J.
+>>>  36 SIBILA_M(2004)36:58			  <<< Šbila ????
+>>>  https://hrcak.srce.hr/clanak/6913
+>>>  66 MALINA_R(2004):
+>>>  https://books.google.si/books/about/Growth_Maturation_and_Physical_Activity.html?id=VqFcFsykj6EC&redir_esc=y
+>>>  69 VANMUIJE_A(1991)2:103
+>>>  https://www.tandfonline.com/doi/abs/10.1080/15438629109511906
+>>>  71 NICHOLLS_J(1989):
+>>>  https://psycnet.apa.org/record/1989-97518-000
+>>>  80 HEWETT_T(2010)5:234
+>>>  https://pubmed.ncbi.nlm.nih.gov/21655382/
+>>>  83 ZAPARTID_I(2009)2:22
+>>>  https://opensportssciencesjournal.com/contents/volumes/V2/TOSSJ-2-22/TOSSJ-2-22.pdf
+>>>  MALONE_T(1993)2:36
+>>>  https://www.researchgate.net/publication/5176072_The_Interdisciplinary_Study_of_Coordination
+>>>  BERNS_G(1992)10:167
+>>>  https://onlinelibrary.wiley.com/doi/abs/10.1002/jor.1100100203
+2989 : BERNS_G(1992)10:167  -  2022-06-18 01:40:52.996000
+>>> End of processing of WoS file
+number of works      =  57414
+number of authors    =  34265
+number of journals   =  6862
+number of keywords   =  15127
+number of records    =  2989
+number of duplicates =  8
+clean WoS data  : clean.WoS
+works + titles  : titles.csv
+works index file: vtxIndex.txt
+
+*** FILES:
+year of publication partition: C:/Users/vlado/work2/mark/Sco2WoS\Year.clu
+described / cited only partition: C:/Users/vlado/work2/mark/Sco2WoS\DC.clu
+number of pages vector: C:/Users/vlado/work2/mark/Sco2WoS\NP.vec
+citation network: C:/Users/vlado/work2/mark/Sco2WoS\Cite.net
+works X journals network: C:/Users/vlado/work2/mark/Sco2WoS\WJ.net
+works X keywords network: C:/Users/vlado/work2/mark/Sco2WoS\WK.net
+works X authors  network: C:/Users/vlado/work2/mark/Sco2WoS\WA.net
+finished: Sat Jun 18 01:40:55 2022
+time used:  0:02:09.565000
+***
+
+Close console?
+>>> 
+========= RESTART: C:\Users\vlado\work2\mark\Sco2WoS\WoS2Pajek15.pyw =========
+
+*** WoS2Pajek 1.5 
+by V. Batagelj, February 23, 2017 / March 23, 2007
+
+WoS2Pajek parameters
+WoS  dir:  C:\Users\vlado\work2\mark\Sco2WoS
+ML   dir:  c:\Python27\Lib\site-packages\MontyLingua-2.1\Python
+Proj dir:  C:/Users/vlado/work2/mark/Sco2WoS
+WoS file:  C:/Users/vlado/work2/mark/Sco2WoS/handball2.WOS
+MaxNum  :  200000
+step    :  250
+ISI name:  False
+clean   :  True
+keywords:  [True, True, True, True]
+titles  :  True
+index   :  True
+
+****** MontyLingua v.2.1 ******
+***** by hugo@media.mit.edu *****
+Lemmatiser OK!
+Custom Lexicon Found! Now Loading!
+Fast Lexicon Found! Now Loading!
+Lexicon OK!
+LexicalRuleParser OK!
+ContextualRuleParser OK!
+Commonsense OK!
+Semantic Interpreter OK!
+Loading Morph Dictionary!
+*********************************
+
+started: Sat Jun 18 03:32:19 2022
+
+>>>  Handball data from WoS
+>>>  query:
+>>>  June 2022
+>>>  -----------------------------------
+>>>  Hits from WoS
+>>>  AU Van Den Tillaar, R
+>>>  AU van den Tillaar, R
+Common sense violated! Correcting...
+>>>  AU van den Tillaar, R
+250 : JURISIC_M(2021)38:359  -  2022-06-18 03:32:27.547000
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+500 : DELARUBI_A(2020)15:0230133  -  2022-06-18 03:32:34.684000
+Common sense violated! Correcting...
+>>>  AU van den Tillaar, R
+>>>  AU van den Tillaar, R
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+>>>  AU van den Tillaar, R
+Common sense violated! Correcting...
+750 : RODIC_S(2011):541  -  2022-06-18 03:32:43.310000
+>>>  AU van den Tillaar, R
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+>>>  AU van den Tillaar, R
+Common sense violated! Correcting...
+>>>  AU van den Tillaar, R
+>>>  AU van den Tillaar, R
+Common sense violated! Correcting...
+>>>  AU van den Tillaar, R
+>>>  AU van den Tillaar, R
+1000 : HERMASSI_S(2019)33:104  -  2022-06-18 03:32:54.955000
+>>>  AU Van den Tillaar, R
+>>>  AU van den Tillaar, R
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+>>>  AU van den Tillaar, R
+1250 : HAMMAMI_M(2019)14:163  -  2022-06-18 03:33:05.880000
+>>>  AU van den Tillaar, R
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+>>>  AU van den Tillaar, R
+Common sense violated! Correcting...
+1500 : IZQUIERD_M(2002)34:332  -  2022-06-18 03:33:16.948000
+Common sense violated! Correcting...
+1750 : BRAND_R(2014)9:1747-597X-9-7  -  2022-06-18 03:33:27.569000
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+>>>  AU van den Tillaar, R
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+2000 : PION_J(2017)35:806  -  2022-06-18 03:33:36.810000
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+>>>  AU van den Tillaar, R
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+>>>  AU van den Tillaar, R
+2250 : ESTEVE_E(2015)49:bjsports-2014-094162  -  2022-06-18 03:33:46.744000
+>>>  AU van den Tillaar, R
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+2500 : SKOFFER_B(2008)17:373  -  2022-06-18 03:33:58.727000
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+2750 : SHI_H(2021)9:2325967121995844  -  2022-06-18 03:34:13.039000
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+>>>  Handball - saturation works
+>>>  -----------------------------------
+>>>  AU van den Tillaar, R
+Common sense violated! Correcting...
+>>>  AU van den Tillaar, R
+>>>  AU van den Tillaar, R
+Common sense violated! Correcting...
+Common sense violated! Correcting...
+>>>  AU van den Tillaar, R
+>>>  AU van den Tillaar, R
+>>>  AU van den Tillaar, R
+>>>  AU van den Tillaar, R
+>>>  AU van den Tillaar, R
+Common sense violated! Correcting...
+>>>  Manual description
+>>>  -----------------------------------
+>>>  06 COHEN_J(1988)2ND ED.:
+>>>  https://www.taylorfrancis.com/books/mono/10.4324/9780203771587/statistical-power-analysis-behavioral-sciences-jacob-cohen
+>>>  10 CARAFFA_A(1996)4:19
+>>>  https://link.springer.com/article/10.1007/BF01565992
+>>>  14 GRIFFIN_L(2000)8:141
+>>>  https://pubmed.ncbi.nlm.nih.gov/10874221/	   <<<
+>>>  28 MYER_G(2007)8:39				      <<<
+>>>  https://bmcmusculoskeletdisord.biomedcentral.com/articles/10.1186/1471-2474-8-39
+>>>  31 HOFF_J(1995)9:255				     <<<
+>>>  https://www.semanticscholar.org/paper/The-Effects-of-Maximum-Strength-Training-on-and-in-Hoff-Alm%C3%A5sbakk/572aa3ddbb88f79c95d0af6cc248f8178cd65c65
+>>>  32 FLECKSMI_S(1992)6:120
+>>>  https://journals.lww.com/nsca-jscr/Abstract/1992/05000/Upper_Extremity_Isokinetic_Torque_and_Throwing.10.aspx
+>>>  AU Fleck, Steven J.
+>>>  36 SIBILA_M(2004)36:58			  <<< Šbila ????
+>>>  https://hrcak.srce.hr/clanak/6913
+>>>  66 MALINA_R(2004):
+>>>  https://books.google.si/books/about/Growth_Maturation_and_Physical_Activity.html?id=VqFcFsykj6EC&redir_esc=y
+>>>  69 VANMUIJE_A(1991)2:103
+>>>  https://www.tandfonline.com/doi/abs/10.1080/15438629109511906
+>>>  71 NICHOLLS_J(1989):
+>>>  https://psycnet.apa.org/record/1989-97518-000
+>>>  80 HEWETT_T(2010)5:234
+>>>  https://pubmed.ncbi.nlm.nih.gov/21655382/
+>>>  83 ZAPARTID_I(2009)2:22
+>>>  https://opensportssciencesjournal.com/contents/volumes/V2/TOSSJ-2-22/TOSSJ-2-22.pdf
+>>>  MALONE_T(1993)2:36
+>>>  https://www.researchgate.net/publication/5176072_The_Interdisciplinary_Study_of_Coordination
+>>>  BERNS_G(1992)10:167
+>>>  https://onlinelibrary.wiley.com/doi/abs/10.1002/jor.1100100203
+2992 : BERNS_G(1992)10:167  -  2022-06-18 03:34:27.426000
+>>> End of processing of WoS file
+number of works      =  57422
+number of authors    =  34271
+number of journals   =  6862
+number of keywords   =  15129
+number of records    =  2992
+number of duplicates =  8
+clean WoS data  : clean.WoS
+works + titles  : titles.csv
+works index file: vtxIndex.txt
+
+*** FILES:
+year of publication partition: C:/Users/vlado/work2/mark/Sco2WoS\Year.clu
+described / cited only partition: C:/Users/vlado/work2/mark/Sco2WoS\DC.clu
+number of pages vector: C:/Users/vlado/work2/mark/Sco2WoS\NP.vec
+citation network: C:/Users/vlado/work2/mark/Sco2WoS\Cite.net
+works X journals network: C:/Users/vlado/work2/mark/Sco2WoS\WJ.net
+works X keywords network: C:/Users/vlado/work2/mark/Sco2WoS\WK.net
+works X authors  network: C:/Users/vlado/work2/mark/Sco2WoS\WA.net
+finished: Sat Jun 18 03:34:29 2022
+time used:  0:02:10.210000
+***
+
+Close console?
+>>> 
