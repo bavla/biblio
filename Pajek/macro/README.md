@@ -1,6 +1,7 @@
 # Macros
 
 Pajek's macros for analysis of bibliographic networks
+https://github.com/bavla/biblio/wiki/macros
 
 ## norm1
 
