@@ -1,0 +1,17 @@
+% Test 2-mode network
+*vertices 7 4
+1 P
+2 Q
+3 R
+4 S
+5 A
+6 B
+7 C
+*arcs
+1 5
+1 6
+2 7
+3 5
+3 6
+3 7
+4 5
