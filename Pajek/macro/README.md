@@ -27,7 +27,7 @@ S[u,v] = Co[u,v]/sqrt(Co[u,u]*Co[v,v])
 
 ## saltoni
 
-Same as salton, but takes care of possible null rows in Co.
+Same as salton, but takes care of possible null rows in Co. As a size enter the number of nodes of Co.
 
 ## biCo
 
