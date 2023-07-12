@@ -1,6 +1,6 @@
 # Pictures of the strongest neighbor skeleton networks
 
-Each node (country) of the original network is linked to its neighbor with which it largest number of collaborations.
+Each node (country) of the original network is linked to its neighbor with which it has the largest number of co-authored papers.
 
 1. http://vlado.fmf.uni-lj.si/TEST/Eu/EuS00.htm
 1. http://vlado.fmf.uni-lj.si/TEST/Eu/EuS01.htm
