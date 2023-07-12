@@ -2,7 +2,7 @@
 
 Each node (country) of the original network is linked to its neighbor with which it has the largest number of co-authored papers.
 
-1. [2000](http://vlado.fmf.uni-lj.si/TEST/Eu/EuS00.htm}
+1.  [2000](http://vlado.fmf.uni-lj.si/TEST/Eu/EuS00.htm}
 1. [2001](http://vlado.fmf.uni-lj.si/TEST/Eu/EuS01.htm)
 1. [2002](http://vlado.fmf.uni-lj.si/TEST/Eu/EuS02.htm)
 1. [2003](http://vlado.fmf.uni-lj.si/TEST/Eu/EuS03.htm)
