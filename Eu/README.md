@@ -1,4 +1,4 @@
-# Collaboration between European countries
+# Scientific co-authorship between European countries
 
 Visualizations of time slices of temporal network describing the co-authorship between authors from European countries for the years 2000-2022.
 
