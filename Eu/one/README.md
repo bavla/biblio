@@ -1,9 +1,9 @@
 # Pictures of the strongest neighbor skeleton networks
 
-1 http://vlado.fmf.uni-lj.si/TEST/Eu/EuS00.htm
-2 http://vlado.fmf.uni-lj.si/TEST/Eu/EuS01.htm
-- http://vlado.fmf.uni-lj.si/TEST/Eu/EuS02.htm
-- http://vlado.fmf.uni-lj.si/TEST/Eu/EuS03.htm
+1. http://vlado.fmf.uni-lj.si/TEST/Eu/EuS00.htm
+1. http://vlado.fmf.uni-lj.si/TEST/Eu/EuS01.htm
+1. http://vlado.fmf.uni-lj.si/TEST/Eu/EuS02.htm
+1. http://vlado.fmf.uni-lj.si/TEST/Eu/EuS03.htm
 - http://vlado.fmf.uni-lj.si/TEST/Eu/EuS04.htm
 - http://vlado.fmf.uni-lj.si/TEST/Eu/EuS05.htm
 - http://vlado.fmf.uni-lj.si/TEST/Eu/EuS06.htm
