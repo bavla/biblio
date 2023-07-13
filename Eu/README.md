@@ -9,7 +9,6 @@ The list of European countries is available [here](https://www.worldometers.info
 Because the largest weight is 17282 I **divided the weights by 1000**.
 
 ```
-==============================================================================
 Lowest value of line:               1.00000000
 Highest value of line:          17282.00000000
 
