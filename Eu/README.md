@@ -6,6 +6,8 @@ Let P be the set of scientific papers from Web of Science co-authored by authors
 
 The list of European countries is available [here](https://www.worldometers.info/geography/how-many-countries-in-europe/) and [here](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) their ISO alpha 2 codes.
 
+Because the largest weight is 17282 I **divided the weights by 1000**.
+
 ```
 ==============================================================================
 Lowest value of line:               1.00000000
