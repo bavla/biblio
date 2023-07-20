@@ -1,0 +1,142 @@
+[
+  {
+    "wID": ["w1"],
+    "title": ["work 1"],
+    "authors": [
+      {
+        "aID": "AB",
+        "c": "IT"
+      },
+      {
+        "aID": "CD",
+        "c": "DE"
+      },
+      {
+        "aID": "EF",
+        "c": "IT"
+      }
+    ]
+  },
+  {
+    "wID": ["w2"],
+    "title": ["work 2"],
+    "authors": [
+      {
+        "aID": "AB",
+        "c": "IT"
+      },
+      {
+        "aID": "GH",
+        "c": "SI"
+      },
+      {
+        "aID": "IJ",
+        "c": "SI"
+      }
+    ]
+  },
+  {
+    "wID": ["w3"],
+    "title": ["work 3"],
+    "authors": [
+      {
+        "aID": "AB",
+        "c": "IT"
+      },
+      {
+        "aID": "CD",
+        "c": "DE"
+      },
+      {
+        "aID": "EF",
+        "c": "IT"
+      },
+      {
+        "aID": "IJ",
+        "c": "SI"
+      },
+      {
+        "aID": "KL",
+        "c": "IT"
+      }
+    ]
+  },
+  {
+    "wID": ["w4"],
+    "title": ["work 4"],
+    "authors": [
+      {
+        "aID": "GH",
+        "c": "SI"
+      },
+      {
+        "aID": "CD",
+        "c": "DE"
+      },
+      {
+        "aID": "MN",
+        "c": "DE"
+      },
+      {
+        "aID": "IJ",
+        "c": "SI"
+      },
+      {
+        "aID": "OP",
+        "c": "SI"
+      }
+    ]
+  },
+  {
+    "wID": ["w5"],
+    "title": ["work 5"],
+    "authors": [
+      {
+        "aID": "IJ",
+        "c": "SI"
+      },
+      {
+        "aID": "CD",
+        "c": "DE"
+      },
+      {
+        "aID": "AB",
+        "c": "IT"
+      },
+      {
+        "aID": "EF",
+        "c": "IT"
+      },
+      {
+        "aID": "OP",
+        "c": "SI"
+      },
+      {
+        "aID": "KL",
+        "c": "IT"
+      }
+    ]
+  },
+  {
+    "wID": ["w6"],
+    "title": ["work 6"],
+    "authors": [
+      {
+        "aID": "MN",
+        "c": "DE"
+      },
+      {
+        "aID": "IJ",
+        "c": "SI"
+      },
+      {
+        "aID": "CD",
+        "c": "DE"
+      },
+      {
+        "aID": "RS",
+        "c": "DE"
+      }
+    ]
+  }
+]
