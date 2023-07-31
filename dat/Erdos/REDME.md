@@ -8,6 +8,7 @@ People with Erdös number 1 are shown in ALL CAPS;  people with Erdös number 2 
 
 The Grossman's (see Erdos2020.zip) were converted to Pajek format by Vladimir Batagelj on Sun Jul 30 2023.
 
+The conversion was done using the following short program in R
 ```
 > # Conversion of The Erdös Number Project data from HTML to Pajek format
 > # by Vladimir Batagelj, July 30, 2023
@@ -49,3 +50,5 @@ The Grossman's (see Erdos2020.zip) were converted to Pajek format by Vladimir Ba
 > cat(C,sep="\n",file=clu)
 > close(net); close(clu)
 ```
+To get rid in Aa of the info attached to the Erdos number 1 authors we truncated the last 8 characters. This caused a problem with the entry `"SWART, HENDRIKA CORNELIA SCOTT (HENDA)*` 1993" which was treated separately.
+
