@@ -50,5 +50,6 @@ The conversion was done using the following short program in R
 > cat(C,sep="\n",file=clu)
 > close(net); close(clu)
 ```
-To get rid in Aa of the info attached to the Erdos number 1 authors we truncated the last 8 characters. This caused a problem with the entry `"SWART, HENDRIKA CORNELIA SCOTT (HENDA)*` 1993" which was treated separately.
+To get rid in Aa of the info attached to the Erdos number 1 authors we truncated the last 8 characters. This caused a problem with the entry `SWART, HENDRIKA CORNELIA SCOTT (HENDA)*` 1993" which was treated separately.
 
+Finally, the network file `Erdos.net` and partition file `Erdos.clu` were manually combined using a text editor into a Pajek project file `Erdos2020.paj` and saved in UTF-8 with BOM.
