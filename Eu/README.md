@@ -27,3 +27,4 @@ Highest value of line:          17282.00000000
 
 * [Pictures with levels](level)
 * [Pictures of the strongest neighbor networks](one)
+* [Pictures of the PathFinder skeletons](PF)
