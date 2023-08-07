@@ -1,6 +1,6 @@
 # Pictures of the PathFinder skeleton networks
 
-Each node (country) of the original network is linked to its neighbor with which it has the largest number of co-authored papers.
+R. Schvaneveldt: [Pathfinder associative networks: studies in knowledge organization](https://www.amazon.com/Pathfinder-Associative-Networks-Organization-Computational/dp/0893916242). 1990.
 
 [2000](http://vlado.fmf.uni-lj.si/TEST/Eu/PF00.htm), [2001](http://vlado.fmf.uni-lj.si/TEST/Eu/PF01.htm), [2002](http://vlado.fmf.uni-lj.si/TEST/Eu/PF02.htm), [2003](http://vlado.fmf.uni-lj.si/TEST/Eu/PF03.htm), [2004](http://vlado.fmf.uni-lj.si/TEST/Eu/PF04.htm), [2005](http://vlado.fmf.uni-lj.si/TEST/Eu/PF05.htm),
 [2006](http://vlado.fmf.uni-lj.si/TEST/Eu/PF06.htm), [2007](http://vlado.fmf.uni-lj.si/TEST/Eu/PF07.htm), [2008](http://vlado.fmf.uni-lj.si/TEST/Eu/PF08.htm)
