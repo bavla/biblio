@@ -12,4 +12,8 @@ wideg <- function(M) apply(M,2,sum)
 odeg <- function(M) wodeg(binary(M))
 ideg <- function(M) wideg(binary(M))
 wdeg <- wodeg
+Co <- function(M) t(M)%*%M
+Cn <- function(M) Co(normalize(M))
+Ct <- function(M) D0(t(normalize(M))%*%newman(M))
+through <- function(M,S) t(M)%*%S%*%M
 
