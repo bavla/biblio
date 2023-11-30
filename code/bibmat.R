@@ -16,4 +16,13 @@ Co <- function(M) t(M)%*%M
 Cn <- function(M) Co(normalize(M))
 Ct <- function(M) D0(t(normalize(M))%*%newman(M))
 through <- function(M,S) t(M)%*%S%*%M
+arit <- function(a,b) mean(c(a,b))
+amin <- function(a,b) min(c(a,b))
+amax <- function(a,b) max(c(a,b))
+geom <- function(a,b) sqrt(a*b)
+harm <- function(a,b) ifelse(a*b==0,0,2/(1/a+1/b))
+jacc <- function(a,b) ifelse(a*b==0,0,1/(1/a+1/b - 1))
+symm <- function(A,M) {n <- nrow(M); S <- M
+  for(i in 1:(n-1)) for(j in (i+1):n) S[i,j] <- S[j,i] <- A(M[i,j],M[j,i])
+  return(S)}
 
