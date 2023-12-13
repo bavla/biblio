@@ -1,3 +1,4 @@
 # Bibliometrics
 
-![WA](https://github.com/bavla/biblio/assets/20244435/dbc02cb7-760a-4ec2-b96b-aaac21292920)
+- bibNets - example toy collection of bibliographic networks WA, WK, AC and Ci.
+- bib
