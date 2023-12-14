@@ -11,7 +11,7 @@ wod <- function(M) apply(M,1,sum)
 wid <- function(M) apply(M,2,sum)
 od <- function(M) wodeg(binary(M))
 id <- function(M) wideg(binary(M))
-wd <- wodeg
+wd <- wod
 Co <- function(M) t(M)%*%M
 Cn <- function(M) Co(normalize(M))
 Ct <- function(M) D0(t(normalize(M))%*%newman(M))
