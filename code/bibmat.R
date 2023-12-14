@@ -25,4 +25,18 @@ jacc <- function(a,b) ifelse(a*b==0,0,1/(1/a+1/b - 1))
 symm <- function(A,M) {n <- nrow(M); S <- M
   for(i in 1:(n-1)) for(j in (i+1):n) S[i,j] <- S[j,i] <- A(M[i,j],M[j,i])
   return(S)}
+ltxArray <- function(M){
+  S <- paste("\\begin{array}{r|",paste(rep("r",ncol(M)),collapse=""),"}\n",
+    paste(c("",colnames(M)),collapse=" & "),"\\\\\\hline\n",sep="")
+  for(i in 1:nrow(M)) 
+    S <- paste(S,rownames(M)[i],paste(" &",M[i,],collapse=""),"\\\\\n")
+  return(paste(S,"\\hline\n\\end{array}\n",sep=""))
+}
+ltxMatrix <- function(M){
+  S <- paste("\\kbordermatrix{\n",paste(c("",colnames(M)),collapse=" & "),
+    "\\\\\n",sep="")
+  for(i in 1:nrow(M)) 
+    S <- paste(S,rownames(M)[i],paste(" &",M[i,],collapse=""),"\\\\\n")
+  return(paste(S,"}\n",sep=""))
+}
 
