@@ -9,8 +9,8 @@ bin <- function(M) {B <- t(apply(M,1,function(x) as.integer(x!=0)))
   colnames(B) <- colnames(M); return(B)}
 wod <- function(M) apply(M,1,sum)
 wid <- function(M) apply(M,2,sum)
-od <- function(M) wodeg(binary(M))
-id <- function(M) wideg(binary(M))
+od <- function(M) wod(bin(M))
+id <- function(M) wid(bin(M))
 wd <- wod
 Co <- function(M) t(M)%*%M
 Cn <- function(M) Co(normalize(M))
