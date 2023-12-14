@@ -5,7 +5,7 @@
 normalize <- function(M) t(apply(M,1,function(x) x/max(1,sum(x))))
 newman <- function(M) t(apply(M,1,function(x) x/max(1,sum(x)-1)))
 D0 <- function(M) {diag(M) <- 0; return(M)}
-binary <- function(M) {B <- t(apply(M,1,function(x) as.integer(x!=0)))
+bin <- function(M) {B <- t(apply(M,1,function(x) as.integer(x!=0)))
   colnames(B) <- colnames(M); return(B)}
 wod <- function(M) apply(M,1,sum)
 wid <- function(M) apply(M,2,sum)
@@ -39,4 +39,9 @@ ltxMatrix <- function(M){
     S <- paste(S,rownames(M)[i],paste(" &",M[i,],collapse=""),"\\\\\n")
   return(paste(S,"}\n",sep=""))
 }
+ltxVector <- function(v){
+  return(paste("\\kbordermatrix{\n",paste(c("",names(v)),collapse=" & "),
+    "\\\\\n",paste(" &",v,collapse=""),"\\\\\n}\n",sep=""))
+}
+
 
