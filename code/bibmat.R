@@ -32,16 +32,16 @@ ltxArray <- function(M){
     S <- paste(S,rownames(M)[i],paste(" &",M[i,],collapse=""),"\\\\\n")
   return(paste(S,"\\hline\n\\end{array}\n",sep=""))
 }
-ltxMatrix <- function(M){
+ltxMatrix <- function(M,digits=4){
   S <- paste("\\kbordermatrix{\n",paste(c("",colnames(M)),collapse=" & "),
     "\\\\\n",sep="")
   for(i in 1:nrow(M)) 
-    S <- paste(S,rownames(M)[i],paste(" &",M[i,],collapse=""),"\\\\\n")
+    S <- paste(S,rownames(M)[i],paste(" &",round(M[i,],digits=digits),collapse=""),"\\\\\n")
   return(paste(S,"}\n",sep=""))
 }
-ltxVector <- function(v){
+ltxVector <- function(v,digits=4){
   return(paste("\\kbordermatrix{\n",paste(c("",names(v)),collapse=" & "),
-    "\\\\\n",paste(" &",v,collapse=""),"\\\\\n}\n",sep=""))
+    "\\\\\n",paste(" &",round(v,digits=digits),collapse=""),"\\\\\n}\n",sep=""))
 }
 
 
