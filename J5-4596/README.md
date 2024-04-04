@@ -14,12 +14,14 @@ Uporabljajo se tudi kot vir podatkov za bibliometrične in scientometrične razi
 namene se podatki na izbrano tematiko pogosto pretvorijo v zbirko sklopljenih bibliografskih
 omrežij, ki povezujejo raznovrstne enote (dela, avtorje, urednike, revije, ključne besede,
 ustanove, države, jezike, itd.).
+
 Podatki, pridobljeni iz uveljavljenih bibliografskih storitev, se nanašajo predvsem na
 recenzirana in že objavljena znanstvena dela in so običajno dobro strukturirani in
 kakovostni. Zaradi postopkov recenziranja in objave takšni podatki odražajo "preverjeni rob
 znanosti" z zaostankom 3 mesecev ali običajno veliko več. Na hitro razvijajočih se
 raziskovalnih področjih (npr. umetna inteligenca, raziskave Covid 19, ...) so ti podatki že
 "stare novice".
+
 Primarni viri najnovejših rezultatov raziskav so preprinti. Obstaja več uveljavljenih javnih
 arhivov predobjav (Arxiv, BioRxiv, ...). Velik izziv predstavlja že pridobitev (s “strganjem” po
 spletu in razčlenjevanjem PDF-jev) in identificikacija istih enot (napredno razvrščanje) vseh
@@ -33,10 +35,12 @@ predpogoj za izgradnjo visoko kakovostnih omrežij. Razvili bomo nove, zelo nata
 postopke določanja enot za posebne vrste enot, ki upoštevajo medsebojne odnose med
 enotami. Izdelali bomo tudi programsko podporo za pretvorbo med različnimi zapisi
 bibliografskih podatkov.
+
 Ustvarjena bibliografska omrežja so pogosto velika (na tisoče ali tudi milijone enot). Za
 njihovo analizo je potrebno razviti zelo učinkovite (podkvadratične) algoritme, ki običajno
 temeljijo na dejstvu, da je večina velikih omrežij redka (število povezav je istega reda kot
 število vozlišč).
+
 Pomembno orodje pri analizi zbirk sklopljenih omrežij so izpeljana omrežja, ki jih dobimo s
 prepletanjem normalizacije (deležni (fractional) pristop) in množenja usklajenih omrežij.
 Pred kratkim smo razdelali teoretično ozadje deležnega pristopa in pokazali kako lahko
@@ -44,19 +48,17 @@ Pred kratkim smo razdelali teoretično ozadje deležnega pristopa in pokazali ka
 projektu nameravamo raziskati nove možnosti, ki jih odpirata oba pristopa. Novorazvite
 metode bomo uporabili pri analizi izbranih bibliografskih podatkovij.
 
-Obdelana in prečiščena bibliografska omrežja bi lahko uporabili tudi za izgradnjo
-višjestopenjskih storitev za različne vrste uporabnikov. Poiskali bomo nekaj primerov
-tovrstnih storitev in izdelali zanje prototipne rešitve.
+Obdelana in prečiščena bibliografska omrežja bi lahko uporabili tudi za izgradnjo višjestopenjskih storitev za različne vrste uporabnikov. Poiskali bomo nekaj primerov tovrstnih storitev in izdelali zanje prototipne rešitve.
 Glavni cilji projekta so torej:
-Razvoj metod in algoritmov za kakovostno določitev bibliografskih enot na podlagi
+  - Razvoj metod in algoritmov za kakovostno določitev bibliografskih enot na podlagi
 analize bibliografskih omrežij.
-Nadaljnji razvoj metodologij in algoritmov za analizo bibliografskih omrežij, ki temelji na
+  - Nadaljnji razvoj metodologij in algoritmov za analizo bibliografskih omrežij, ki temelji na
 naših preteklih raziskavah (dvovrstna omrežja, množenje, deležni pristop, časovna
 omrežja in časovne količine), motiviranimi s posebnimi vrstami analiz s poudarkom n a
 tem, kako se znanost razvija v “v realnem času" in prepoznavanjem "vročih tem" (na
 podlagi predobjav).
-Razvoj odprtokodne knjižnice v programskem jeziku Julia za učinkovito obdelavo
+  - Razvoj odprtokodne knjižnice v programskem jeziku Julia za učinkovito obdelavo
 bibliografskih podatkov in analizo omrežij.
-Izvesti več prototipov bibliografskih analiz in razviti ustrezna orodja, katerih razvoj
+  - Izvesti več prototipov bibliografskih analiz in razviti ustrezna orodja, katerih razvoj
 izhaja iz potreb izbranih končnih uporabnikov (študentov, upravljalcev revij, urednikov,
 znanstvenikov na določenih področjih itd.)
