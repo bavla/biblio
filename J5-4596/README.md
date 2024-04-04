@@ -62,3 +62,5 @@ bibliografskih podatkov in analizo omrežij.
   - Izvesti več prototipov bibliografskih analiz in razviti ustrezna orodja, katerih razvoj
 izhaja iz potreb izbranih končnih uporabnikov (študentov, upravljalcev revij, urednikov,
 znanstvenikov na določenih področjih itd.)
+
+[Podrobni opis projekta v angleščini](http://vladowiki.fmf.uni-lj.si/lib/exe/fetch.php?media=vlado:proj:j5-4596:docs:vsebina_projekta_eng.pdf)
