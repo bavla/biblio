@@ -1,4 +1,4 @@
-<img src="https://github.com/bavla/biblio/blob/master/J5-4596/ARISLogoSlo.svg?sanitize=true">
+<img src="https://github.com/bavla/biblio/blob/master/J5-4596/ARISLogoSlo.svg?sanitize=true" width=200pt>
 
 # J5-4596 - Višjestopenjske bibliografske storitve
 
