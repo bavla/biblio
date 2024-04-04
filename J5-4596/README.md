@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/bavla/TQ/master/trajectories/1neighbors.svg?sanitize=true">
+
 # J5-4596 - Višjestopenjske bibliografske storitve
 
 J5-4596 je projekt ARIS (od 1. 10. 2022 do 30. 09. 2025) usmerjen v razvoj višjestopenjskih bibliografskih storitev. Na njem sodelujejo
