@@ -1,23 +1,4 @@
-# Osnutek
-
-
-Morda bi projektu dali naslov 
-
-**Informetrična podpora odprte znanosti**
-
-Sodelujoče ustanove bi bile UP (FAMNIT? IAM?), IMFM in UL FF (Jan še ni povedal ali ga zanima).
-Sodelavci: Batagelj V, Pisanski T, Pisanski J, Bašić N, ???
-Na UP morda še - če jih zanima: Iztok Savnik (podpora OpenAlex), Ana Slavec (predsednica Slovenske skupnosti odprte znanosti)
-
-Začetna zamisel ciljev 
-  - pregled teoretičnih izhodišč in spletišč za poskuse s pristopom PRC (publish, review, curate); poskus navezave sodelovanja z izbranim(i).
-  - podpora PRC  - avtomatski postopki pregleda: prepoznavanje avtorjev in povezava z ORCID, dodajanje DOI posameznim virom, ocena povezanosti virov s tematiko članka, ocena kakovosti posameznega vira, analiza povezanosti med avtorji in "ocenjevalci", prepoznavanje neetičnih dejavnosti, sorodni članki, ... poskusna uporaba v Ars Mathematica Contemporanea, ... standardi ... OpenAlex, ArXiv, ...
-  - možne implicitne in eksplicitne mere kakovosti članka; Goodhart
-  - nadaljnji razvoj metod, ki temeljijo na bibliometričnih omrežjih, in višjestopenjskih bibliografskih storitev (KajDogaja?)
-
-
-se mi zdi kar v redu. Morda so nekoliko preveč naslonjeni na PRC. Vgraditi je potrebno 
-povezavo z odprto znanostjo.
+# Informetrična podpora odprte znanosti
 
 ## Uvod - razvoj hranjenja in posredovanja znanja
 
@@ -53,12 +34,10 @@ združili medije, veliko podatkov na malo prostora, zelo poceni razmnoževanje
 
 
 Splet (WWW) sestavljajo strani z vsebino, ki so lahko med seboj povezane. Vsaka stran ima svoj naslov po katerem lahko dosežemo njeno vsebino.
-Spočetka je uporaba WWW temeljila na kazalih - straneh z zbirkami naslovov zanimivih strani (ponavadi na izbrano temo). ???primer
-Kmalu rešitev s kazali ni več dohajala (pokritost) hitre rasti spleta. Nadomestili so jo iskalniki, ki pregledujejo splet in dodajajo v svoj seznam še neznane strani. Na uporabnikovo zahtevo pa iz tega seznama vrnejo naslove nekaj zahtevi najbližjih strani (Lycos, Google). 
-Pri izboljšavi teh iskalnikov sta imeli pomembno vlogo reklame ("brezplačnost" storitve) in zbiranje podatkov o uporabniku (odgovori in reklame glede na uporabnikova zanimanja).
+Spočetka je uporaba spleta temeljila na kazalih - straneh z zbirkami naslovov zanimivih strani (ponavadi na izbrano temo). ???primer
+Kmalu rešitev s kazali ni več dohajala (pokritost) hitre rasti spleta. Nadomestili so jo zbiralni programi, ki pregledujejo splet in dodajajo v svoj seznam še neznane strani. Na uporabnikovo zahtevo pa iz tega seznama vrnejo naslove nekaj zahtevi najbližjih strani (Lycos, Google). Pri izboljšavi teh iskalnikov sta imeli pomembno vlogo reklame ("brezplačnost" storitve) in zbiranje podatkov o uporabniku (odgovori in reklame glede na uporabnikova zanimanja).
 Web 2.0 je omogočil ustvarjanje spletnih vsebin tudi običajnim, računalniško nepodkovanim uporabnikom. Vseveč strani ni stalnih temveč se sproti ustvarijo na uporabnikovo zahtevo.
 
-Google
 
 AI
 
@@ -87,3 +66,15 @@ OpenAlex
 Enovita storitev ali nadstoritev, ki poveže obstoječe storitve (standardizacija).
 
 Sklicevanja (članki, knjige, patenti, filmi, podatki, programi, spletne strani, ...)
+
+## Projekt
+
+Cilji
+  - pregled teoretičnih izhodišč in spletišč za poskuse s pristopom PRC (publish, review, curate); poskus navezave sodelovanja z izbranim(i).
+  - podpora PRC  - avtomatski postopki pregleda: prepoznavanje avtorjev in povezava z ORCID, dodajanje DOI posameznim virom, ocena povezanosti virov s tematiko članka, ocena kakovosti posameznega vira, analiza povezanosti med avtorji in "ocenjevalci", prepoznavanje neetičnih dejavnosti, sorodni članki, ... poskusna uporaba v Ars Mathematica Contemporanea, ... standardi ... OpenAlex, ArXiv, ...
+  - možne implicitne in eksplicitne mere kakovosti članka; Goodhart
+  - nadaljnji razvoj metod, ki temeljijo na bibliometričnih omrežjih, in višjestopenjskih bibliografskih storitev (KajDogaja?)
+
+
+se mi zdijo kar v redu. Morda so nekoliko preveč naslonjeni na PRC. Vgraditi je potrebno povezavo z odprto znanostjo.
+
