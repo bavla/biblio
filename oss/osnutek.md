@@ -40,7 +40,15 @@ Web 2.0 je omogočil ustvarjanje spletnih vsebin tudi običajnim, računalniško
 AI
 
 
-! Digitalizacija
+Digitalizacija -
+IT je močno vplival na znanstvene objave
+- digitalna dela je enostavno podvojiti (težave z avtorskimi pravicami).
+- programska orodja za ustvarjanje besedil (TeX, Word itd.) omogočajo avtorju, da delo v celoti pripravi za objavo.
+- dela v digitalni obliki lahko presežejo tiskarske zmožnosti (večpredstavnost, koda, zunanje povezave),
+- problem trajnosti.
+  
+Zaradi hitre (eksponentne) rasti števila novih del postaja dosedanji pristop k objavljanju neustrezen (rast števila revij, megarevije, problem pridobivanja recenzentov ipd.).
+Formati, ki ohranjajo strukturo besedilnih podatkov: SGML, XML, JSON.
 
 Gradivo -> metapodatki (podatki o gradivu) + digitalni zapis gradiva
 
