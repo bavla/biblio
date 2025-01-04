@@ -53,7 +53,7 @@ kartične kataloge (avtorski, stvarni) - zbirke kartic. Vsaka kartica je
 vsebovala podatke o posamičnem delu. Kartice so bile gleda na izbrano urejenost
 (za hitro iskanje) shranjene v predalčke. Višek tega pristopa predstavlja
 katalog Mundaneum (Otlet & La Fontaine, Bruselj 1895-1939), ki je vseboval 18 milijonov
-kartic v 15 tisoč predalčkih s podatki o večini do takrat objavljenih del.
+kartic v 15 tisoč predalčkih s podatki o večini do takrat objavljenih del [WPmund].
 
 V svojem članku "As We May Think" (1945) je Vannevar Bush nakazal rešitev \\
 “Consider a future device …  in which an individual stores all his books, records, 
@@ -68,12 +68,11 @@ ki se je začela uresničevati v osemdestih letih z osebnimi računalniki.
 Drugi mediji in oblike znanstvenih gradiv (zapiski, primerki, podatki, programi, 
 posnetki, itd.)
 
-Informetrika
-
+Informetrika je preučevanje količinskih vidikov informacij. Je razširitev in razvoj tradicionalne bibliometrije in scientometrije. Informetrika uporablja bibliometrične in scientometrične metode za preučevanje predvsem problemov upravljanja informacij o virih ter vrednotenja znanosti in tehnologije [WPim].
 
 <img src="https://github.com/user-attachments/assets/346a2f13-1eb1-407e-b28b-be8abd558167" width="450" />
 
-Bush
+
 
 Računalniki
 združili medije, veliko podatkov na malo prostora, zelo poceni razmnoževanje
