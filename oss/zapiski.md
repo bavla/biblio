@@ -17,4 +17,6 @@
 > plot(year,log(count),pch=16,main="OpenAlex - log(works)/year")
 ```
 
+<img src="https://github.com/user-attachments/assets/2aa8b9aa-e4f4-4a55-b24e-a55c448c9cb8" width="600" />
+
 ## 
