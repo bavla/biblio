@@ -66,8 +66,8 @@ neprofitna organizacija OurResearch. Dostopen je postal januarja 2022 preko upor
 vrstah enot (entitet): delo W, avtor A, vir S, ustanova I, koncept C, založnik P ali financer F. Rešuje nekaj pomembnih vprašanj za analizo bibliografskih podatkov:
 
 1. identifikacija bibliografskih enot (ID, razločevanje)
-2. brezplačen dostop (skupna raba pridobljenih podatkov, prenos na vaš računalnik)
-3. izboljšanje vsebine s sodelovanjem uporabnikov (oddajte zahtevo)
+2. brezplačen dostop (skupna raba pridobljenih podatkov, prenos na uporabnikov računalnik)
+3. izboljšanje vsebine s sodelovanjem uporabnikov (uporabnik odda zahtevo za popravek)
 
 Enovita storitev ali nadstoritev, ki poveže obstoječe storitve (standardizacija).
 
