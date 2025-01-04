@@ -47,15 +47,14 @@ IT je močno vplival na znanstvene objave
 - dela v digitalni obliki lahko presežejo tiskarske zmožnosti (večpredstavnost, koda, zunanje povezave),
 - problem trajnosti.
   
-Zaradi hitre (eksponentne) rasti števila novih del postaja dosedanji pristop k objavljanju neustrezen (rast števila revij, megarevije, problem pridobivanja recenzentov ipd.).
 Formati, ki ohranjajo strukturo besedilnih podatkov: SGML, XML, JSON.
 
 Gradivo -> metapodatki (podatki o gradivu) + digitalni zapis gradiva
 
 ## Stanje
 
-Eksponentna rast števila objav
-Tradicionalno pristop k objavljanju ne ustreza
+Zaradi hitre (eksponentne) rasti števila novih del postaja dosedanji pristop k objavljanju neustrezen (rast števila revij, megarevije, plenilske revije, problem pridobivanja recenzentov, goljufije ipd.).
+
 
 Problem identifikacije
 Dublin Core
