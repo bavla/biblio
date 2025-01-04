@@ -61,7 +61,13 @@ Goljufije
 
 Odprta znanost
 
-OpenAlex
+OpenAlex je popolnoma odprt katalog globalnega raziskovalnega sistema. Poimenovan je po starodavni Aleksandrijski knjižnici. Vzpostavila ga je
+neprofitna organizacija OurResearch. Dostopen je postal januarja 2022 preko uporabniškega vmesnika, brezplačnega API-ja ali posnetka vseh podatkov, ki ga lahko prenesemo na svoj računalnik. Velja za nadomestek storitve Microsoft Academic Graph, ki je bila ukinjena 31. decembra 2021. OpenAlex temelji na 7
+vrstah enot (entitet): delo W, avtor A, vir S, ustanova I, koncept C, založnik P ali financer F. Rešuje nekaj pomembnih vprašanj za analizo bibliografskih podatkov:
+
+1. identifikacija bibliografskih enot (ID, razločevanje)
+2. brezplačen dostop (skupna raba pridobljenih podatkov, prenos na vaš računalnik)
+3. izboljšanje vsebine s sodelovanjem uporabnikov (oddajte zahtevo)
 
 Enovita storitev ali nadstoritev, ki poveže obstoječe storitve (standardizacija).
 
