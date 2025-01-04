@@ -33,9 +33,7 @@ Računalniki
 združili medije, veliko podatkov na malo prostora, zelo poceni razmnoževanje
 
 
-Splet (WWW) sestavljajo strani z vsebino, ki so lahko med seboj povezane. Vsaka stran ima svoj naslov po katerem lahko dosežemo njeno vsebino.
-Spočetka je uporaba spleta temeljila na kazalih - straneh z zbirkami naslovov zanimivih strani (ponavadi na izbrano temo). ???primer
-Kmalu rešitev s kazali ni več dohajala (pokritost) hitre rasti spleta. Nadomestili so jo zbiralni programi, ki pregledujejo splet in dodajajo v svoj seznam še neznane strani. Na uporabnikovo zahtevo pa iz tega seznama vrnejo naslove nekaj zahtevi najbližjih strani (Lycos, Google). Pri izboljšavi teh iskalnikov sta imeli pomembno vlogo reklame ("brezplačnost" storitve) in zbiranje podatkov o uporabniku (odgovori in reklame glede na uporabnikova zanimanja).
+Splet (WWW) sestavljajo strani z vsebino, ki so lahko med seboj povezane. Vsaka stran ima svoj naslov po katerem lahko dosežemo njeno vsebino. Spočetka je uporaba spleta temeljila na kazalih - straneh z zbirkami naslovov zanimivih strani (ponavadi na izbrano temo). ???primer Kmalu rešitev s kazali ni več dohajala (pokritost) hitre rasti spleta. Nadomestili so jo zbiralni programi, ki pregledujejo splet in dodajajo v svoj seznam še neznane strani. Na uporabnikovo zahtevo pa iz tega seznama vrnejo naslove nekaj zahtevi najbližjih strani (Lycos, Google). Pri izboljšavi teh iskalnikov sta imeli pomembno vlogo reklame ("brezplačnost" storitve) in zbiranje podatkov o uporabniku (odgovori in reklame glede na uporabnikova zanimanja).
 Web 2.0 je omogočil ustvarjanje spletnih vsebin tudi običajnim, računalniško nepodkovanim uporabnikom. Vseveč strani ni stalnih temveč se sproti ustvarijo na uporabnikovo zahtevo.
 
 
@@ -54,6 +52,8 @@ Tradicionalno pristop k objavljanju ne ustreza
 Problem identifikacije
 Dublin Core
 
+Open metadata
+
 keywords localication, distinction
 Amazon - digitalizacija stvarnega sveta
 
@@ -61,9 +61,7 @@ Goljufije
 
 Odprta znanost
 
-OpenAlex je popolnoma odprt katalog globalnega raziskovalnega sistema. Poimenovan je po starodavni Aleksandrijski knjižnici. Vzpostavila ga je
-neprofitna organizacija OurResearch. Dostopen je postal januarja 2022 preko uporabniškega vmesnika, brezplačnega API-ja ali posnetka vseh podatkov, ki ga lahko prenesemo na svoj računalnik. Velja za nadomestek storitve Microsoft Academic Graph, ki je bila ukinjena 31. decembra 2021. OpenAlex temelji na 7
-vrstah enot (entitet): delo W, avtor A, vir S, ustanova I, koncept C, založnik P ali financer F. Rešuje nekaj pomembnih vprašanj za analizo bibliografskih podatkov:
+OpenAlex je popolnoma odprt katalog globalnega raziskovalnega sistema. Poimenovan je po starodavni Aleksandrijski knjižnici. Vzpostavila ga je neprofitna organizacija OurResearch. Dostopen je postal januarja 2022 preko uporabniškega vmesnika, brezplačnega API-ja ali posnetka vseh podatkov, ki ga lahko prenesemo na svoj računalnik. Velja za nadomestek storitve Microsoft Academic Graph, ki je bila ukinjena 31. decembra 2021. OpenAlex temelji na 7 vrstah enot (entitet): delo W, avtor A, vir S, ustanova I, koncept C, založnik P ali financer F. Rešuje nekaj pomembnih vprašanj za analizo bibliografskih podatkov:
 
 1. identifikacija bibliografskih enot (ID, razločevanje)
 2. brezplačen dostop (skupna raba pridobljenih podatkov, prenos na uporabnikov računalnik)
@@ -71,7 +69,7 @@ vrstah enot (entitet): delo W, avtor A, vir S, ustanova I, koncept C, založnik 
 
 Enovita storitev ali nadstoritev, ki poveže obstoječe storitve (standardizacija).
 
-Sklicevanja (članki, knjige, patenti, filmi, podatki, programi, spletne strani, ...)
+Sklicevanja (članki, knjige, patenti, filmi, podatki, programi, spletne strani, ...) Marc Bertin
 
 ## Projekt
 
