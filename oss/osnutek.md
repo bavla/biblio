@@ -57,6 +57,7 @@ kartic v 15 tisoč predalčkih s podatki o večini do takrat objavljenih del [WP
 
 V svojem članku "As We May Think" (1945) je Vannevar Bush nakazal rešitev 
 > “Consider a future device …  in which an individual stores all his books, records, and communications, and which is mechanized so that it may be consulted with exceeding speed and flexibility. It is an enlarged intimate supplement to his memory.” [AWMT] 
+
 ki se je začela uresničevati v osemdestih letih z osebnimi računalniki.
 
 
