@@ -71,6 +71,8 @@ posnetki, itd.)
 Informetrika
 
 {{work:bib:pics:imetricsb.png?450}}
+![iMetricsB](https://github.com/user-attachments/assets/346a2f13-1eb1-407e-b28b-be8abd558167)
+
 
 Bush
 
