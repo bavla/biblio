@@ -55,9 +55,7 @@ Gradivo -> metapodatki (podatki o gradivu) + digitalni zapis gradiva
 
 Zaradi hitre (eksponentne) rasti števila novih del postaja dosedanji pristop k objavljanju neustrezen (rast števila revij, megarevije, plenilske revije, problem pridobivanja recenzentov, goljufije ipd.).
 
-![OpenAlexCnt](https://github.com/user-attachments/assets/2aa8b9aa-e4f4-4a55-b24e-a55c448c9cb8)
-
-<img src="https://github.com/user-attachments/assets/2aa8b9aa-e4f4-4a55-b24e-a55c448c9cb8" width="450" />
+<img src="https://github.com/user-attachments/assets/2aa8b9aa-e4f4-4a55-b24e-a55c448c9cb8" width="600" />
 
 
 Problem identifikacije
