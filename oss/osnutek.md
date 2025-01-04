@@ -75,6 +75,18 @@ Sklicevanja (članki, knjige, patenti, filmi, podatki, programi, spletne strani,
 
 ## Projekt
 
+Znanstveno objavljanje -
+Pričakovanja avtorja-znanstvenika
+1. takojšnja objava in dostop,
+2. ”registracija” – časovni žig,
+3. enostavno najti,
+4. neomejen dostop,
+5. trajna hramba (dolgoživost, trajnost),
+6. odziv bralcev (skupnosti), priznanje.
+   
+To je mogoče doseči s shrambami del.
+Vrednotenje dela ni glavna avtorjeva skrb – pomembno je za njegove/njene delodajalce, financerje itd.
+
 Cilji
   - pregled teoretičnih izhodišč in spletišč za poskuse s pristopom PRC (publish, review, curate); poskus navezave sodelovanja z izbranim(i).
   - podpora PRC  - avtomatski postopki pregleda: prepoznavanje avtorjev in povezava z ORCID, dodajanje DOI posameznim virom, ocena povezanosti virov s tematiko članka, ocena kakovosti posameznega vira, analiza povezanosti med avtorji in "ocenjevalci", prepoznavanje neetičnih dejavnosti, sorodni članki, ... poskusna uporaba v Ars Mathematica Contemporanea, ... standardi ... OpenAlex, ArXiv, ...
