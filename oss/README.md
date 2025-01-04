@@ -1,6 +1,6 @@
 # Open Science Support
 
-  - [Osnutek]()
+  - [Osnutek](osnutek.md)
   - []()
   - []()
-  - []()  - 
+  - [Viri](viri.md)  - 
