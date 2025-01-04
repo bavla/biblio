@@ -55,7 +55,8 @@ Gradivo -> metapodatki (podatki o gradivu) + digitalni zapis gradiva
 
 Zaradi hitre (eksponentne) rasti števila novih del postaja dosedanji pristop k objavljanju neustrezen (rast števila revij, megarevije, plenilske revije, problem pridobivanja recenzentov, goljufije ipd.).
 
-<img src="https://github.com/user-attachments/assets/2aa8b9aa-e4f4-4a55-b24e-a55c448c9cb8" width="600" />
+<img src="https://github.com/user-attachments/assets/606f1e0b-958e-4dcd-baa2-fb16941325cb" width="450" />
+<img src="https://github.com/user-attachments/assets/8c678b15-9c61-414a-8f02-5b2b27354a3a" width="450" />
 
 
 Problem identifikacije
