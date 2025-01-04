@@ -1,7 +1,7 @@
 # Open Science Support
 
   - [Osnutek](osnutek.md)
-  - []()
+  - [Načrt dela](delo.md)
   - []()
   - [Viri](viri.md)  - 
 
