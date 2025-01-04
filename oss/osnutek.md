@@ -1,6 +1,8 @@
 # Informetrična podpora odprte znanosti
 
-## Uvod - razvoj hranjenja in posredovanja znanja
+Zaradi eksponentne rasti števila znanstvenih del tradicionalni načini znanstvenih objav ne ustrezajo več potrebam. Tudi sicer se je sistem znanstvenih objav izrodil. Zato kliče po prenovi.
+
+## Razvoj hranjenja in posredovanja znanja
 
 Spočetka so ćloveške skupnosti nabirale in prenašale znanje iz roda v rod. Izuma risbe in na njem osnovane pisave sta omogočila "skladiščenje" znanja in njegovo razširjanje v prostoru in času. Evklidovi Elementi predstavljajo prvi znani poizkus povzetja in na logiki temelječe ureditve nakopičenega geometrijskega znanja. Večina znanja sredozemskih in bližnjevzhodnih ljudstev  je bila zbrana v Aleksandrijski knjižnici.
 
