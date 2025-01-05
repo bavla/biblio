@@ -21,15 +21,15 @@ ki se je začela uresničevati v osemdestih letih z osebnimi računalniki.
 
 Scientometrija je podpodročje informetrike, ki proučuje kvantitativne vidike znanstvene literature. Medtem ko se je sociologija znanosti osredotočala na vedenje znanstvenikov, se je scientometrija osredotočala na analizo publikacij.
 Sodobna scientometrija večinoma temelji na delu Dereka J. de Solla Pricea in Eugena Garfielda. Slednji je ustvaril Science Citation Index in ustanovil Inštitut za znanstvene informacije, ki se močno uporablja za scientometrične analize. Posebna akademska revija Scientometrics je bila ustanovljena leta 1978.
-Mednarodno združenje za scientometrijo in informmetrijo je bilo ustanovljeno leta 1993.
+Mednarodno združenje za scientometrijo in informmetrijo ISSI je bilo ustanovljeno leta 1993 [WPim, WPsp].
 
-Drugi mediji in oblike znanstvenih gradiv (zapiski, primerki, podatki, programi, posnetki, itd.)
 
 Informetrika je preučevanje količinskih vidikov informacij. Je razširitev in razvoj tradicionalne bibliometrije in scientometrije. Informetrika uporablja bibliometrične in scientometrične metode za preučevanje predvsem problemov upravljanja informacij o virih ter vrednotenja znanosti in tehnologije [WPim]. Obstaja še več drugih sorodnih področij. Odnose med njimi je na spodnji sliki povzel Alexander Doria
 
 <img src="https://github.com/user-attachments/assets/346a2f13-1eb1-407e-b28b-be8abd558167" width="450" />
 
 
+Drugi mediji in oblike znanstvenih gradiv (zapiski, primerki, podatki, programi, posnetki, itd.)
 
 Računalniki
 združili medije, veliko podatkov na malo prostora, zelo poceni razmnoževanje
