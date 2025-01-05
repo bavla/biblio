@@ -1,5 +1,7 @@
 # Informetrična podpora odprte znanosti
 
+Informetrična podpora odprte znanosti in njena refleksija
+
 Zaradi eksponentne rasti števila znanstvenih del tradicionalni načini znanstvenih objav ne ustrezajo več potrebam. Tudi sicer se je sistem znanstvenih objav izrodil. Zato kliče po prenovi.
 
 ## Razvoj hranjenja in posredovanja znanja
@@ -71,6 +73,15 @@ Amazon - digitalizacija stvarnega sveta
 
 Goljufije
 
+
+
+
+Goodhart (grob osnutek)
+- Obstajajo indikacije, da pri informetričnem spremljanju objav prihaja do zamenjave ciljev: namesto kvalitete se nagrajujejo drugi kvantitativni parametri: npr. odmevnost objav ali celo odmevonst revij, v katerih se članki objavljajo. Uporabniki se temu prilagajajo.
+- Zaradi tega se množijo založbe in revije, ki poskušajo na vse načine povečati popularnost objav, ne glede na kvaliteto. Za objavo v predatorskih revijah je pomembno imeti dostop do javnega denarja.
+- Prihaja do odtekanja javnega denarja v privatne žepe založniških multinacionalnih hiš.
+
+
 Odprta znanost
 
 OpenAlex je popolnoma odprt katalog globalnega raziskovalnega sistema. Poimenovan je po starodavni Aleksandrijski knjižnici. Vzpostavila ga je neprofitna organizacija OurResearch. Dostopen je postal januarja 2022 preko uporabniškega vmesnika, brezplačnega API-ja ali posnetka vseh podatkov, ki ga lahko prenesemo na svoj računalnik. Velja za nadomestek storitve Microsoft Academic Graph, ki je bila ukinjena 31. decembra 2021. OpenAlex temelji na 7 vrstah enot (entitet): delo W, avtor A, vir S, ustanova I, koncept C, založnik P ali financer F. Rešuje nekaj pomembnih vprašanj za analizo bibliografskih podatkov:
@@ -102,9 +113,14 @@ Kot odgovor na te izzive so se pojavili novi modeli objavljanja, kot je »objavi
 ### Cilji
   - pregled teoretičnih izhodišč in spletišč za poskuse s pristopom PRC (publish, review, curate); poskus navezave sodelovanja z izbranim(i).
   - podpora PRC  - avtomatski postopki pregleda: prepoznavanje avtorjev in povezava z ORCID, dodajanje DOI posameznim virom, ocena povezanosti virov s tematiko članka, ocena kakovosti posameznega vira, analiza povezanosti med avtorji in "ocenjevalci", prepoznavanje neetičnih dejavnosti, sorodni članki, ... poskusna uporaba v Ars Mathematica Contemporanea, ... standardi ... OpenAlex, ArXiv, ...
+  - Goodhart: Formalni opis Goodhartovega zakona; Uporaba Goodhartovega zakona v informetriji; Razvoj metod za odkrivanje potecialno neetičnega vedenja pri znanstvenih objavah (avtorji, uredniki, recenzenti, založniki); Priprava priporočil za korekcijo stanja.
   - možne implicitne in eksplicitne mere kakovosti članka; Goodhart
   - nadaljnji razvoj metod, ki temeljijo na bibliometričnih omrežjih, in višjestopenjskih bibliografskih storitev (KajDogaja?)
 
 
 se mi zdijo kar v redu. Morda so nekoliko preveč naslonjeni na PRC. Vgraditi je potrebno povezavo z odprto znanostjo.
+
+Pričakovani rezultati
+- Goodhart:  Članek na podlagi referata na IS 2024, članek o statistično-teoretičnih osnovah Goodhartovega zakona, prispevek za IS 2025
+
 
