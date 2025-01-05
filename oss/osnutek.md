@@ -19,9 +19,9 @@ V svojem članku "As We May Think" (1945) je Vannevar Bush nakazal rešitev
 
 ki se je začela uresničevati v osemdestih letih z osebnimi računalniki.
 
-Garfield
-
-De Sola Price
+Scientometrija je podpodročje informetrike, ki proučuje kvantitativne vidike znanstvene literature. Medtem ko se je sociologija znanosti osredotočala na vedenje znanstvenikov, se je scientometrija osredotočala na analizo publikacij.
+Sodobna scientometrija večinoma temelji na delu Dereka J. de Solla Pricea in Eugena Garfielda. Slednji je ustvaril Science Citation Index in ustanovil Inštitut za znanstvene informacije, ki se močno uporablja za scientometrične analize. Posebna akademska revija Scientometrics je bila ustanovljena leta 1978.
+Mednarodno združenje za scientometrijo in informmetrijo je bilo ustanovljeno leta 1993.
 
 Drugi mediji in oblike znanstvenih gradiv (zapiski, primerki, podatki, programi, posnetki, itd.)
 
