@@ -62,6 +62,9 @@ Zaradi hitre (eksponentne) rasti števila novih del postaja dosedanji pristop k 
 <img src="https://github.com/user-attachments/assets/606f1e0b-958e-4dcd-baa2-fb16941325cb" width="450" />
 <img src="https://github.com/user-attachments/assets/8c678b15-9c61-414a-8f02-5b2b27354a3a" width="450" />
 
+Glede na OpenAlex se je število objavljenih znanstvenih del podvojilo v 19 letih med 1971 (881943 del) in 1989 (1847109 del), nato v naslednjih 12 letih 
+2001 (3705036 del), nato že v 8 letih 2009 (7275504). Leta 2020 je bilo objavljenih 11017156 del. Podatki za zadnja leta so najbrž nepopolni. 
+
 
 Problem identifikacije
 Dublin Core
