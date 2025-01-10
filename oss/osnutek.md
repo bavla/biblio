@@ -74,8 +74,13 @@ Open metadata
 keywords localication, distinction
 Amazon - digitalizacija stvarnega sveta
 
-Goljufije
+ArXiv in sorodne shrambe
 
+Anomalije in goljufije
+1. članek s xxx soavtorji
+2. avtorji, ki so soavtorji pri več kot 300 delih v letu 2024
+3. dvig pomembnosti ustanov s "kupovanjem" vrhunskih znanstvenikov
+4. 
 
 
 
