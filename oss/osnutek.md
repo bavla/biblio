@@ -116,6 +116,7 @@ Kot odgovor na te izzive so se pojavili novi modeli objavljanja, kot je »objavi
 ### Cilji
   - pregled teoretičnih izhodišč in spletišč za poskuse s pristopom PRC (publish, review, curate); poskus navezave sodelovanja z izbranim(i).
   - podpora PRC  - avtomatski postopki pregleda: prepoznavanje avtorjev in povezava z ORCID, dodajanje DOI posameznim virom, ocena povezanosti virov s tematiko članka, ocena kakovosti posameznega vira, analiza povezanosti med avtorji in "ocenjevalci", prepoznavanje neetičnih dejavnosti, sorodni članki, ... poskusna uporaba v Ars Mathematica Contemporanea, ... standardi ... OpenAlex, ArXiv, ...
+  - podpora analitičnim postopkom podatkov iz OpenAlex; grafovske podatkovne baze (Neo4j, ...)
   - Goodhart: Formalni opis Goodhartovega zakona; Uporaba Goodhartovega zakona v informetriji; Razvoj metod za odkrivanje potecialno neetičnega vedenja pri znanstvenih objavah (avtorji, uredniki, recenzenti, založniki); Priprava priporočil za korekcijo stanja.
   - možne implicitne in eksplicitne mere kakovosti članka; Goodhart
   - nadaljnji razvoj metod, ki temeljijo na bibliometričnih omrežjih, in višjestopenjskih bibliografskih storitev (KajDogaja?)
