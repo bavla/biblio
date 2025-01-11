@@ -41,8 +41,10 @@ združili medije, veliko podatkov na malo prostora, zelo poceni razmnoževanje
 Splet (WWW) sestavljajo strani z vsebino, ki so lahko med seboj povezane. Vsaka stran ima svoj naslov po katerem lahko dosežemo njeno vsebino. Spočetka je uporaba spleta temeljila na kazalih - straneh z zbirkami naslovov zanimivih strani (ponavadi na izbrano temo). ???primer Kmalu rešitev s kazali ni več dohajala (pokritost) hitre rasti spleta. Nadomestili so jo zbiralni programi, ki pregledujejo splet in dodajajo v svoj seznam še neznane strani. Na uporabnikovo zahtevo pa iz tega seznama vrnejo naslove nekaj zahtevi najbližjih strani (Lycos, Google). Pri izboljšavi teh iskalnikov sta imeli pomembno vlogo reklame ("brezplačnost" storitve) in zbiranje podatkov o uporabniku (odgovori in reklame glede na uporabnikova zanimanja).
 Web 2.0 je omogočil ustvarjanje spletnih vsebin tudi običajnim, računalniško nepodkovanim uporabnikom. Vseveč strani ni stalnih temveč se sproti ustvarijo na uporabnikovo zahtevo.
 
+Google je pokazal, da z ustrezno poizvedbo lahko hitro pridemo do ustreznih vsebin strani, ki jih je zbral na spletu. Odgovor dobimo v obliki seznama
+ zadetkov - spletnih naslovov strani, ki ustrezajo poizvedbi. V zadnjem času nam z uporabo umetne inteligence ta seznam nadomesti s povzetkom, ki ga uporabnik lahko v pogovoru s storitvijo izpopolni.
 
-AI
+Amazon je pokazal, da s podatki o posameznih rečeh iz dejanskega sveta lahko te reči vključimo (naredimo dostopne) v splet.
 
 
 Digitalizacija -
