@@ -13,6 +13,7 @@
   11. Batagelj, Vladimir, Cerinšek, Monika. On bibliographic networks. Scientometrics. 2013, vol. 96, iss. 3, p. 845-864. DOI:[10.1007/s11192-012-0940-1](http://dx.doi.org/10.1007/s11192-012-0940-1).
   12. Stokstad E. The 1% of scientific publishing: Only a handful of researchers manage to publish one or more papers per year. Science. 2014 Jul;11. [WWW](https://www.science.org/content/article/1-scientific-publishing).
   13. [SemW] Tim Berners-Lee, James Hendler: Publishing on the semantic web. Nature volume 410, pages1023–1024 (2001). [WWW](https://www.nature.com/articles/35074206).
+  14. Jean-Claude Guédon: In Oldenburg's Long Shadow: Librarians, Research Scientists, Publishers, and the Control of Scientific Publishing. ARL 2001. [PDF](https://www.arl.org/wp-content/uploads/2001/12/in-oldenburgs-long-shadow.pdf)
 
   
 
