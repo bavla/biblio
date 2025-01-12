@@ -14,6 +14,11 @@
   12. Stokstad E. The 1% of scientific publishing: Only a handful of researchers manage to publish one or more papers per year. Science. 2014 Jul;11. [WWW](https://www.science.org/content/article/1-scientific-publishing).
   13. [SemW] Tim Berners-Lee, James Hendler: Publishing on the semantic web. Nature volume 410, pages1023–1024 (2001). [WWW](https://www.nature.com/articles/35074206).
   14. Jean-Claude Guédon: In Oldenburg's Long Shadow: Librarians, Research Scientists, Publishers, and the Control of Scientific Publishing. ARL 2001. [PDF](https://www.arl.org/wp-content/uploads/2001/12/in-oldenburgs-long-shadow.pdf)
+  15. Abubakari Ahmed, Aceil Al-Khatib, Yap Boum II, Humberto Debat, Alonso Gurmendi Dunkelberg, Lisa Janicke Hinchliffe, Frith Jarrad, Adam Mastroianni, Patrick Mineault, Charlotte R. Pennington & J. Andrew Pruszynski: The future of academic publishing. Nature Human Behaviour volume 7, pages 1021–1026 13 July 2023. [PDF](http://wavelets.ens.fr/OPEN_SCIENCE/ABOUT_OPEN_ACCESS/ARTICLES/2023_07_13_Nature_The_future_of_academic_publishing.pdf)
+  16. 
+ 
+
+
 
   
 
