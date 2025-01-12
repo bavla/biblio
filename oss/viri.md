@@ -18,7 +18,9 @@
   16. [ISC] [International Science Council](https://council.science/): [The future of scientific publishing](https://council.science/our-work/why-scientific-publishing-matters/)
   17. [peerE] Kochetkov, D. (2024, March 21). Evolution of Peer Review in Scientific Communication. [DOI](https://doi.org/10.31235/osf.io/b2ra3); [SocArXiv](https://osf.io/preprints/socarxiv/b2ra3)
   18. [raj] Björn Brembs, Philippe Huneman, Felix Schönbrodt, Gustav Nilsonne, Toma Susi, Renke Siems, Pandelis Perakakis, Varvara Trachana, Lai Ma, & Sara Rodriguez-Cuadrado. (2021). Replacing academic journals, version 5. [DOI](https://doi.org/10.5281/zenodo.7974116); [zenodo](https://zenodo.org/records/7974116)
-  19. 
+  19. [EU] Council of the European Union: High-quality, transparent, open, trustworthy and equitable scholarly publishing (approved on 23 May 2023) [PDF](https://data.consilium.europa.eu/doc/document/ST-9616-2023-INIT/en/pdf)
+  20. 
+
 
 
  
