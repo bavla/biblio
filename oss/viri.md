@@ -17,7 +17,7 @@
   15. [fAP] Abubakari Ahmed, Aceil Al-Khatib, Yap Boum II, Humberto Debat, Alonso Gurmendi Dunkelberg, Lisa Janicke Hinchliffe, Frith Jarrad, Adam Mastroianni, Patrick Mineault, Charlotte R. Pennington & J. Andrew Pruszynski: The future of academic publishing. Nature Human Behaviour volume 7, pages 1021–1026 13 July 2023. [PDF](http://wavelets.ens.fr/OPEN_SCIENCE/ABOUT_OPEN_ACCESS/ARTICLES/2023_07_13_Nature_The_future_of_academic_publishing.pdf)
   16. [ISC] [International Science Council](https://council.science/): [The future of scientific publishing](https://council.science/our-work/why-scientific-publishing-matters/)
   17. [peerE] Kochetkov, D. (2024, March 21). Evolution of Peer Review in Scientific Communication. [DOI](https://doi.org/10.31235/osf.io/b2ra3); [SocArXiv](https://osf.io/preprints/socarxiv/b2ra3)
-  18. [raj] Björn Brembs, Philippe Huneman, Felix Schönbrodt, Gustav Nilsonne, Toma Susi, Renke Siems, Pandelis Perakakis, Varvara Trachana, Lai Ma, & Sara Rodriguez-Cuadrado. (2021). Replacing academic journals. [DOI](https://doi.org/10.5281/zenodo.5526635)
+  18. [raj] Björn Brembs, Philippe Huneman, Felix Schönbrodt, Gustav Nilsonne, Toma Susi, Renke Siems, Pandelis Perakakis, Varvara Trachana, Lai Ma, & Sara Rodriguez-Cuadrado. (2021). Replacing academic journals, version 5. [DOI](https://doi.org/10.5281/zenodo.7974116); [zenodo](https://zenodo.org/records/7974116)
   19. 
 
 
