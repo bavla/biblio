@@ -2,7 +2,7 @@
 
 Informetrična podpora odprte znanosti in njena refleksija
 
-Zaradi eksponentne rasti števila znanstvenih del tradicionalni načini znanstvenih objav ne ustrezajo več potrebam. Tudi sicer se je sistem znanstvenih objav izrodil. Zato kliče po prenovi.
+Zaradi eksponentne rasti števila znanstvenih del tradicionalni načini znanstvenih objav ne ustrezajo več potrebam. V razmišljanjih o znanstvenih objavah se preveč naslanjamo na okvire, ki jih je postavil tisk. Tudi sicer se je sistem znanstvenih objav izrodil. Zato kliče po prenovi.
 
 ## Razvoj hranjenja in posredovanja znanja
 
@@ -56,7 +56,9 @@ IT je močno vplival na znanstvene objave
 - programska orodja za ustvarjanje besedil (TeX, Word itd.) omogočajo avtorju, da delo v celoti pripravi za objavo.
 - dela v digitalni obliki lahko presežejo tiskarske zmožnosti (večpredstavnost, koda, zunanje povezave),
 - problem trajnosti.
-  
+
+Obstojnost zapisa. Kamen, glina, les, papirus, pergament ...
+Zapis na znakovnih datotekah.
 Formati, ki ohranjajo strukturo besedilnih podatkov: SGML, XML, JSON.
 
 Gradivo -> metapodatki (podatki o gradivu) + digitalni zapis gradiva
@@ -129,12 +131,16 @@ Vrednotenje dela ni glavna avtorjeva skrb – pomembno je za njegove/njene delod
 Kot odgovor na te izzive so se pojavili novi modeli objavljanja, kot je »objavi, preglej, izboljšaj« (PRC - publish, review, curate). Ta model obrne tradicionalni pristop pregleda in nato objave, tako da delo najprej objavi na spletu in ga nato podvrže strokovnemu pregledu. Namen tega pristopa je povečati preglednost in pospešiti razširjanje raziskav.
 
 ### Cilji
+
+  - lokalni OpenAlex; izdelava programske podpore - KajDogaja? uporaba pri predavanjih iz podatkovnih baz (UP)
+  - zbrati in dopolniti programsko podporo recenzijskega postopka pri odprti reviji Ars mathematica
+  - pregled stanja odprte znanosti v slovenskih knjižnicah; vključitev teh vsebin v izobraževanje knjižničarjev (UL FF)
   - pregled teoretičnih izhodišč in spletišč za poskuse s pristopom PRC (publish, review, curate); poskus navezave sodelovanja z izbranim(i).
   - podpora PRC  - avtomatski postopki pregleda: prepoznavanje avtorjev in povezava z ORCID, dodajanje DOI posameznim virom, ocena povezanosti virov s tematiko članka, ocena kakovosti posameznega vira, analiza povezanosti med avtorji in "ocenjevalci", prepoznavanje neetičnih dejavnosti, sorodni članki, ... poskusna uporaba v Ars Mathematica Contemporanea, ... standardi ... OpenAlex, ArXiv, ...
-  - podpora analitičnim postopkom podatkov iz OpenAlex; grafovske podatkovne baze (Neo4j, ...)
+  - podpora analitičnim postopkom podatkov iz OpenAlex; grafovske podatkovne baze (Neo4j, ...); vključitev teh vsebin v predmet analiza omrežij na študiju statistike (UL)
   - Goodhart: Formalni opis Goodhartovega zakona; Uporaba Goodhartovega zakona v informetriji; Razvoj metod za odkrivanje potecialno neetičnega vedenja pri znanstvenih objavah (avtorji, uredniki, recenzenti, založniki); Priprava priporočil za korekcijo stanja.
   - možne implicitne in eksplicitne mere kakovosti članka; Goodhart
-  - nadaljnji razvoj metod, ki temeljijo na bibliometričnih omrežjih, in višjestopenjskih bibliografskih storitev (KajDogaja?)
+  - nadaljnji razvoj metod, ki temeljijo na bibliometričnih omrežjih, in višjestopenjskih bibliografskih storitev 
 
 
 se mi zdijo kar v redu. Morda so nekoliko preveč naslonjeni na PRC. Vgraditi je potrebno povezavo z odprto znanostjo.
