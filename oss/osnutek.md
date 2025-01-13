@@ -55,6 +55,17 @@ Formati, ki ohranjajo strukturo besedilnih podatkov: SGML, XML, JSON.
 
 Gradivo -> metapodatki (podatki o gradivu) + digitalni zapis gradiva
 
+Problem identifikacije
+Dublin Core
+pid - permanent ID
+
+Open metadata
+
+keywords localication, distinction
+Amazon - digitalizacija stvarnega sveta
+
+ArXiv in sorodne shrambe
+
 ## Stanje
 
 Zaradi hitre (eksponentne) rasti števila novih del postaja dosedanji pristop k objavljanju neustrezen (rast števila revij, megarevije, plenilske revije, problem pridobivanja recenzentov, goljufije ipd.).
@@ -68,15 +79,6 @@ Glede na OpenAlex se je število objavljenih znanstvenih del podvojilo v 19 leti
 Iz podatkov Scopus med letoma 1996 in 2011 izhaja, da je v tem obdobju objavilo vsaj  en članek 15 milijonov znanstvenikov, a le 150.608, manj kot 1%, vsako leto. Njihova imena so v 41% vseh člankov in med soavtorji 87% najbolj citiranih člankov.
 
 
-Problem identifikacije
-Dublin Core
-
-Open metadata
-
-keywords localication, distinction
-Amazon - digitalizacija stvarnega sveta
-
-ArXiv in sorodne shrambe
 
 Anomalije in goljufije
 1. članek s xxx soavtorji
