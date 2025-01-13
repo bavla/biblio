@@ -21,6 +21,7 @@
   19. [EU] Council of the European Union: High-quality, transparent, open, trustworthy and equitable scholarly publishing (approved on 23 May 2023) [PDF](https://data.consilium.europa.eu/doc/document/ST-9616-2023-INIT/en/pdf)
   20. 
 
+## Dodatek
 
    1. Derek J. de Solla Price [WWW](http://derekdesollaprice.org/): [Science since Babylon](http://derekdesollaprice.org/wp-content/uploads/2015/10/Science-Since-Babylon-opt.pdf), 1961; [Little Science, Big Science](https://www.andreasaltelli.eu/file/repository/Little_science_big_science_and_beyond.pdf), 1963 
 
