@@ -30,14 +30,9 @@ Mednarodno združenje za scientometrijo in informetrijo ISSI je bilo ustanovljen
 Pretirano zanašanje na scientometrijo pri vrednotenju znanstvenih del je podlaga za načelo "objavljaj ali izgini" ("publish or perish"), ki vodi v raziskave nizke kakovosti. To načelo je ena izmed pojavnih oblik Goodhartovega zakona: Ko mera postane cilj, preneha biti dobra mera.
 
 
-Informetrija je preučevanje količinskih vidikov informacij. Je razširitev in izpopolnitev tradicionalne bibliometrije in scientometrije. Informetrija uporablja bibliometrične in scientometrične metode za preučevanje predvsem problemov upravljanja informacij o virih ter vrednotenja znanosti in tehnologije [WPim]. Obstaja še več drugih sorodnih področij [iMet]. Odnose med njimi je na spodnji sliki povzel Alexander Doria
+Informetrija je preučevanje količinskih vidikov informacij. Je razširitev in izpopolnitev tradicionalne bibliometrije in scientometrije. Informetrija uporablja bibliometrične in scientometrične metode za preučevanje predvsem problemov upravljanja informacij o virih ter vrednotenja znanosti in tehnologije [WPim]. Obstaja še več drugih sorodnih področij, ki upoštevajo tudi drugi medije in oblike znanstvenih gradiv (zapiski, poročila, načrti, patenti, primerki, podatki, programi, posnetki, itd.) [iMet]. Odnose med njimi je na spodnji sliki povzel Alexander Doria
 
 <img src="https://github.com/user-attachments/assets/346a2f13-1eb1-407e-b28b-be8abd558167" width="450" />
-
-
-
-
-Drugi mediji in oblike znanstvenih gradiv (zapiski, primerki, podatki, programi, posnetki, itd.)
 
 
 Splet (WWW) sestavljajo strani z vsebino, ki so lahko med seboj povezane. Vsaka stran ima svoj naslov po katerem lahko dosežemo njeno vsebino. Spočetka je uporaba spleta temeljila na kazalih - straneh z zbirkami naslovov zanimivih strani (ponavadi na izbrano temo). ???primer Kmalu rešitev s kazali ni več dohajala (pokritost) hitre rasti spleta. Nadomestili so jo zbiralni programi, ki pregledujejo splet in dodajajo v svoj seznam še neznane strani. Na uporabnikovo zahtevo pa iz tega seznama vrnejo naslove nekaj zahtevi najbližjih strani (Lycos, Google). Pri izboljšavi teh iskalnikov sta imeli pomembno vlogo reklame ("brezplačnost" storitve) in zbiranje podatkov o uporabniku (odgovori in reklame glede na uporabnikova zanimanja).
