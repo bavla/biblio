@@ -37,7 +37,7 @@ Informetrija je preučevanje količinskih vidikov informacij. Je razširitev in 
 
 Računalnike lahko med seboj tudi podatkovno povežemo. Razvoj povezljivosti se je začel že leta 1970 (ARPANET) v širšo akademsko rabo pa je vstopil v drugi polovice osemdesetih let (MAIL, FTP, Telnet). Splošna povezanost računalnikov se je razmahnila v devetdesetih letih  v obliki spleta (World Wide Web (WWW), Tim Berners-Lee , 1990).
 
-Objava članka v reviji zahteva svoj čas - od nekaj tednov do nekaj let. Za pohitritev  raziskav so v drugi polovici prejšnjega stoletja avtorji pogosto članek natisnili v obliki poročila ali predobjave (preprint) in ga poslali svojim kolegom. Paul Ginsparg je avgusta 1991 ustvaril shrambo (repozitorij) za predobjave, poimenivano arXiv, na računalniku v Los Alamos National Laboratory (LANL), ki je bil dosegljiv z računalnikov vključenih v splet. arXiv je odprto dostopna shramba za predobjave ali poobjave sprejetih (nadzor brez recenzije) člankov v digitalni obliki (e-prints). Sprejema članke iz  matematike, fizike, astronomije, elektrotehnike, računalništva, kvantitativne biologije, statistike, matematičnih financ in ekonomije. Posnema ga več podobnih shramb:
+Objava članka v reviji zahteva svoj čas - od nekaj tednov do nekaj let. Za pohitritev  raziskav so v drugi polovici prejšnjega stoletja avtorji pogosto članek natisnili v obliki poročila ali predobjave (preprint) in ga poslali svojim kolegom. Paul Ginsparg je avgusta 1991 ustvaril shrambo (repozitorij) za predobjave, poimenivano arXiv, na računalniku v Los Alamos National Laboratory (LANL), ki je bil dosegljiv z računalnikov vključenih v splet. arXiv je odprto dostopna shramba za predobjave ali poobjave sprejetih (nadzor brez recenzije) člankov v digitalni obliki (e-prints). Sprejema članke iz  matematike, fizike, astronomije, elektrotehnike, računalništva, kvantitativne biologije, statistike, matematičnih financ in ekonomije. Posnema ga več podobnih shramb: TechRxiv, ChemRxiv, bioRχiv, medRχiv, PsyArXiv, SocArXiv, HAL, RUL, zenodo, itd.
 
 
 
@@ -70,7 +70,6 @@ Open metadata
 keywords localication, distinction
 Amazon - digitalizacija stvarnega sveta
 
-ArXiv in sorodne shrambe
 
 ## Stanje
 
