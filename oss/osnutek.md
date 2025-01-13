@@ -20,22 +20,24 @@ V svojem članku "As We May Think" (1945) je Vannevar Bush nakazal rešitev
 > “Consider a future device …  in which an individual stores all his books, records, and communications, and which is mechanized so that it may be consulted with exceeding speed and flexibility. It is an enlarged intimate supplement to his memory.” [AWMT] 
 
 ki se je začela uresničevati v osemdestih letih z osebnimi računalniki.
+ 
+Razvoj računalnikov se je začel pred drugo svetovno vojno (Zuse). V splošno rabo pa so začeli vstopati v 50. letih. Sprva so bili velike naprave nameščene v računalniških centrih. Njihova zmogljivost je hitro naraščala. V računalnikih so podatki shranjeni v digitalni obliki (zaporedja 0 in 1). Računalniki so združili medije (števila, besedila, (gibljive) slike, zvok, programe, itd.) v eni napravi, omogočili hranjenje in obdelavo velikih količin podatkov. Razmnoževanje podatkov v digitalni obliki je enostavno in poceni.
+ 
 
 Scientometrija je podpodročje informetrike, ki proučuje kvantitativne vidike znanstvene literature. Medtem ko se je sociologija znanosti osredotočala na vedenje znanstvenikov, se je scientometrija osredotočala na analizo publikacij.
-Sodobna scientometrija večinoma temelji na delu Dereka J. de Solla Pricea in Eugena Garfielda. Slednji je ustvaril Science Citation Index in ustanovil Inštitut za znanstvene informacije, ki se močno uporablja za scientometrične analize. Posebna akademska revija Scientometrics je bila ustanovljena leta 1978.
-Mednarodno združenje za scientometrijo in informmetrijo ISSI je bilo ustanovljeno leta 1993 [WPim, WPsp].
+Sodobna scientometrija večinoma temelji na delu Dereka J. de Solla Pricea in Eugena Garfielda. Slednji je ustanovil Inštitut za znanstvene informacije in ustvaril Science Citation Index, ki je pogosto vir podatkov za scientometrične analize. Posebna akademska revija Scientometrics je bila ustanovljena leta 1978.
+Mednarodno združenje za scientometrijo in informetrijo ISSI je bilo ustanovljeno leta 1993 [WPim, WPsp].
 Pretirano zanašanje na scientometrijo pri vrednotenju znanstvenih del je podlaga za načelo "objavljaj ali izgini" ("publish or perish"), ki vodi v raziskave nizke kakovosti. To načelo je ena izmed pojavnih oblik Goodhartovega zakona: Ko mera postane cilj, preneha biti dobra mera.
 
 
-Informetrika je preučevanje količinskih vidikov informacij. Je razširitev in razvoj tradicionalne bibliometrije in scientometrije. Informetrika uporablja bibliometrične in scientometrične metode za preučevanje predvsem problemov upravljanja informacij o virih ter vrednotenja znanosti in tehnologije [WPim]. Obstaja še več drugih sorodnih področij. Odnose med njimi je na spodnji sliki povzel Alexander Doria
+Informetrija je preučevanje količinskih vidikov informacij. Je razširitev in izpopolnitev tradicionalne bibliometrije in scientometrije. Informetrija uporablja bibliometrične in scientometrične metode za preučevanje predvsem problemov upravljanja informacij o virih ter vrednotenja znanosti in tehnologije [WPim]. Obstaja še več drugih sorodnih področij [iMet]. Odnose med njimi je na spodnji sliki povzel Alexander Doria
 
 <img src="https://github.com/user-attachments/assets/346a2f13-1eb1-407e-b28b-be8abd558167" width="450" />
 
 
-Drugi mediji in oblike znanstvenih gradiv (zapiski, primerki, podatki, programi, posnetki, itd.)
 
-Računalniki
-združili medije, veliko podatkov na malo prostora, zelo poceni razmnoževanje
+
+Drugi mediji in oblike znanstvenih gradiv (zapiski, primerki, podatki, programi, posnetki, itd.)
 
 
 Splet (WWW) sestavljajo strani z vsebino, ki so lahko med seboj povezane. Vsaka stran ima svoj naslov po katerem lahko dosežemo njeno vsebino. Spočetka je uporaba spleta temeljila na kazalih - straneh z zbirkami naslovov zanimivih strani (ponavadi na izbrano temo). ???primer Kmalu rešitev s kazali ni več dohajala (pokritost) hitre rasti spleta. Nadomestili so jo zbiralni programi, ki pregledujejo splet in dodajajo v svoj seznam še neznane strani. Na uporabnikovo zahtevo pa iz tega seznama vrnejo naslove nekaj zahtevi najbližjih strani (Lycos, Google). Pri izboljšavi teh iskalnikov sta imeli pomembno vlogo reklame ("brezplačnost" storitve) in zbiranje podatkov o uporabniku (odgovori in reklame glede na uporabnikova zanimanja).
