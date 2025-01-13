@@ -25,7 +25,7 @@ Razvoj računalnikov se je začel pred drugo svetovno vojno (Zuse). V splošno r
  
 
 Scientometrija je podpodročje informetrike, ki proučuje kvantitativne vidike znanstvene literature. Medtem ko se je sociologija znanosti osredotočala na vedenje znanstvenikov, se je scientometrija osredotočala na analizo publikacij.
-Sodobna scientometrija večinoma temelji na delu Dereka J. de Solla Pricea (Science since Babylon, 1961; Little Science, Big Science, 1963) in Eugena Garfielda. Slednji je ustanovil Inštitut za znanstvene informacije (Institute for Scientific Information (ISI), 1960) in ustvaril Science Citation Index, ki je pogosto vir podatkov za scientometrične analize. Posebna akademska revija Scientometrics je bila ustanovljena leta 1978.
+Sodobna scientometrija večinoma temelji na delu Dereka J. de Solla Pricea (Science since Babylon, 1961; Little Science, Big Science, 1963) in Eugena Garfielda. Slednji je ustanovil Inštitut za znanstvene informacije (Institute for Scientific Information (ISI), 1960; sedaj  Clarivate Analytics) in ustvaril Science Citation Index, ki je pogosto vir podatkov za scientometrične analize. Posebna akademska revija Scientometrics je bila ustanovljena leta 1978.
 Mednarodno združenje za scientometrijo in informetrijo ISSI je bilo ustanovljeno leta 1993 [WPim, WPsp].
 Pretirano zanašanje na scientometrijo pri vrednotenju znanstvenih del je podlaga za načelo "objavljaj ali izgini" ("publish or perish"), ki vodi v raziskave nizke kakovosti. To načelo je ena izmed pojavnih oblik Goodhartovega zakona: Ko mera postane cilj, preneha biti dobra mera.
 
