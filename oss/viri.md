@@ -22,6 +22,8 @@
   20. 
 
 
+   1. Derek J. de Solla Price [WWW](http://derekdesollaprice.org/): [Science since Babylon](http://derekdesollaprice.org/wp-content/uploads/2015/10/Science-Since-Babylon-opt.pdf), 1961; [Little Science, Big Science](https://www.andreasaltelli.eu/file/repository/Little_science_big_science_and_beyond.pdf), 1963 
+
 
  
 
