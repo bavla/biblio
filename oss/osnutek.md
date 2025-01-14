@@ -45,18 +45,20 @@ Objava članka v reviji zahteva svoj čas - od nekaj tednov do nekaj let. Za poh
 Splet (WWW) sestavljajo strani z vsebino, ki so lahko med seboj povezane. Vsaka stran ima svoj naslov po katerem lahko dosežemo njeno vsebino. Spočetka je uporaba spleta temeljila na kazalih - straneh z zbirkami naslovov zanimivih strani (ponavadi na izbrano temo). ???primer Kmalu rešitev s kazali ni več dohajala (pokritost) hitre rasti spleta. Nadomestili so jo zbiralni programi, ki pregledujejo splet in dodajajo v svoj seznam še neznane strani. Na uporabnikovo zahtevo pa iz tega seznama vrnejo naslove nekaj zahtevi najbližjih strani (Lycos, Google). Pri izboljšavi teh iskalnikov sta imeli pomembno vlogo reklame ("brezplačnost" storitve) in zbiranje podatkov o uporabniku (odgovori in reklame glede na uporabnikova zanimanja).
 Web 2.0 je omogočil ustvarjanje spletnih vsebin tudi običajnim, računalniško nepodkovanim uporabnikom. Vseveč strani ni stalnih temveč se sproti ustvarijo na uporabnikovo zahtevo.
 
-Google je pokazal, da z ustrezno poizvedbo lahko hitro pridemo do ustreznih vsebin strani, ki jih je zbral na spletu. Odgovor dobimo v obliki seznama
- zadetkov - spletnih naslovov strani, ki ustrezajo poizvedbi. V zadnjem času nam z uporabo umetne inteligence ta seznam nadomesti s povzetkom, ki ga uporabnik lahko v pogovoru s storitvijo izpopolni.
+Google je pokazal, da z ustrezno poizvedbo lahko hitro pridemo do ustreznih vsebin strani, ki jih je zbral na spletu. Odgovor dobimo v obliki seznama zadetkov - spletnih naslovov strani, ki ustrezajo poizvedbi. V zadnjem času nam z uporabo umetne inteligence ta seznam nadomesti s povzetkom, ki ga uporabnik lahko v pogovoru s storitvijo izpopolni.
 
-Amazon je pokazal, da z opisi - podatki o posameznih rečeh iz dejanskega sveta lahko te reči vključimo (naredimo dostopne) v splet. Spletno rešitev lahko uprabimo tudi za organizacijo znanstvenih objav 
+Amazon je pokazal, da z opisi - podatki o posameznih rečeh iz dejanskega sveta lahko te reči vključimo (naredimo dostopne) v splet. Spletno rešitev lahko uprabimo tudi za organizacijo znanstvenih objav. Pri tem je spletni okvir presplošen. Smiselno se je omejiti na znanstvene objave. Za dostopnost posameznega dela je potrebno, da je vključeno v zbirko storitve. To dosežemo z digitalizacijo del, ki ima dve osnovni obliki:
+- polna: delo je že ustvarjeno v digitalni obliki ali je vanjo pretvorjeno, dodan je opis dela
+- delna: za delo ustvarimo le njegov opis, ki vsebuje tudi podatke o dostopu do dela samega
 
-
-Digitalizacija -
-IT je močno vplival na znanstvene objave
+Od izuma tiska sta bili glavni obliki znanstvenih objav članek in knjiga. Informacijska tehnologija (IT) je močno vplivala tudi na znanstvene objave.
+- ponudila je nove možnosti komuniciranja med znanstveniki (elektronska pošta, prenos datotek, podpora sodelovanju - skupna področja, na katerih uporabniki lahko objavljajo, popravljajo, komentirajo, itd.)
 - digitalna dela je enostavno podvojiti (težave z avtorskimi pravicami).
-- programska orodja za ustvarjanje besedil (TeX, Word itd.) omogočajo avtorju, da delo v celoti pripravi za objavo.
-- dela v digitalni obliki lahko presežejo tiskarske zmožnosti (večpredstavnost, koda, zunanje povezave),
+- programska orodja za ustvarjanje in oblikovanje besedil (TeX, Word itd.) omogočajo avtorju, da delo v celoti pripravi za objavo.
+- dela v digitalni obliki lahko presežejo tiskarske zmožnosti (večpredstavnost, koda, notranje in zunanje povezave),
 - problem trajnosti.
+  
+Ena od pomembnih značilnosti tiskanih del je njihova "zaključenost". IT jo v veliki meri rahlja. Digitalni članek lahko popravljamo, zbiramo mnenja (vsebinske pripombe, ocene) o njem, sklice nanj, število dosegov, itd. Vanj lahko, na primer, vključimo 3 razsežne prikaze (X3D), ali zelo podrobne slike v vektorskem opisu (SVG), ali pa videoposnetek, ki si jih lahko ogledujemo z ustreznim prikazovalnikom. V zemljepisni učbenik bi lahko vgradili tabele, ki vsebujejo tekoče podatke o neki zemljepisni enoti.
 
 Obstojnost zapisa. Kamen, glina, les, papirus, pergament ...
 Zapis na znakovnih datotekah.
