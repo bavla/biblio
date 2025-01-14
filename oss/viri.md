@@ -26,7 +26,9 @@
   24. [SVG] Vladimir Batagelj: Slovenski politiki - matrični prikaz / vse relacije; obdobje do april 2022. [Wiki](https://github.com/bavla/TQ/tree/master/trajectories/Feb24#matri%C4%8Dni-prikaz--vse-relacije-obdobje-do-april-2022)/[klik](https://raw.githubusercontent.com/bavla/TQ/master/trajectories/Feb24/matrix22b.svg?sanitize=true)
   25. [Ols] Ouvrir la science! [WWW](https://www.ouvrirlascience.fr/home/)
   26. [I4OA] The Initiative for Open Abstracts. [WWW](https://i4oa.org/)
-  27. 
+  27. [DurSM] Mediafix: Durability of storage media. [WWW](https://mediafix.co.uk/durability-of-storage-media)
+  28. 
+
 
 
 
