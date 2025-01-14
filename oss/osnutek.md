@@ -1,6 +1,7 @@
 # Informetrična podpora odprte znanosti
+**V pripravi !!!**
 
-Informetrična podpora odprte znanosti in njena refleksija
+? Informetrična podpora odprte znanosti in njena refleksija
 
 Zaradi eksponentne rasti števila znanstvenih del tradicionalni načini znanstvenih objav ne ustrezajo več potrebam. V razmišljanjih o znanstvenih objavah se preveč naslanjamo na okvire, ki jih je postavil tisk. Tudi sicer se je sistem znanstvenih objav izrodil. Zato kliče po prenovi.
 
@@ -47,7 +48,7 @@ Web 2.0 je omogočil ustvarjanje spletnih vsebin tudi običajnim, računalniško
 Google je pokazal, da z ustrezno poizvedbo lahko hitro pridemo do ustreznih vsebin strani, ki jih je zbral na spletu. Odgovor dobimo v obliki seznama
  zadetkov - spletnih naslovov strani, ki ustrezajo poizvedbi. V zadnjem času nam z uporabo umetne inteligence ta seznam nadomesti s povzetkom, ki ga uporabnik lahko v pogovoru s storitvijo izpopolni.
 
-Amazon je pokazal, da s podatki o posameznih rečeh iz dejanskega sveta lahko te reči vključimo (naredimo dostopne) v splet.
+Amazon je pokazal, da z opisi - podatki o posameznih rečeh iz dejanskega sveta lahko te reči vključimo (naredimo dostopne) v splet. Spletno rešitev lahko uprabimo tudi za organizacijo znanstvenih objav 
 
 
 Digitalizacija -
