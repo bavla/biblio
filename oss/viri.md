@@ -23,7 +23,9 @@
   21. [raj] Björn Brembs, Philippe Huneman, Felix Schönbrodt, Gustav Nilsonne, Toma Susi, Renke Siems, Pandelis Perakakis, Varvara Trachana, Lai Ma, & Sara Rodriguez-Cuadrado. (2021). Replacing academic journals, version 5. [DOI](https://doi.org/10.5281/zenodo.7974116); [zenodo](https://zenodo.org/records/7974116)
   22. [EU] Council of the European Union: High-quality, transparent, open, trustworthy and equitable scholarly publishing (approved on 23 May 2023) [PDF](https://data.consilium.europa.eu/doc/document/ST-9616-2023-INIT/en/pdf)
   23. [X3D] Vladimir Batagelj: European Airports core of order 13. [X3D](http://vladowiki.fmf.uni-lj.si/doku.php?id=vlado:work:2m:mwn:x3d:aircoref)
-  24. 
+  24. [SVG] Vladimir Batagelj: Slovenski politiki - matrični prikaz / vse relacije; obdobje do april 2022. [Wiki](https://github.com/bavla/TQ/tree/master/trajectories/Feb24#matri%C4%8Dni-prikaz--vse-relacije-obdobje-do-april-2022)/[klik](https://raw.githubusercontent.com/bavla/TQ/master/trajectories/Feb24/matrix22b.svg?sanitize=true)
+  25. 
+
 
 
 ## Dodatek
