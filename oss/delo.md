@@ -17,3 +17,11 @@ Začetna zamisel ciljev
 
 se mi zdi kar v redu. Morda so nekoliko preveč naslonjeni na PRC. Vgraditi je potrebno 
 povezavo z odprto znanostjo.
+
+Predlogi razisovalnih vprašanj vzvezi z odprto znanostjo:
+- Kakšno je ujemanje med podatki o pobulikacijah (in OA) med OpenAlex in podatki v COBISS? Kako bi se lahko izboljšalo kakovost obeh virov? Kakšne vrste podatkov manjkajo?
+- Ali se delež objav v OA povečuje in kako hitro? Ali so pri tem razlike med različnimi raziskovalnimi področji, razisovalnimi organizacijami (glede na vrsto, velikost in druge karakteristike, če so na voljo) in raziskovalci (npr. glede na spol in starost, če so podatki na voljo)?
+- Kako se povečuje obseg različnih tipov OA (dimamantni, zlati, zeleni) in ali so pri tem kakšne razlike med razraziskovalnimi področji oz. organizacijami?
+- Kakšni so stroški objav v zlatem dostopu? Kako se stroški razlikujejo med različnimi raziskovalnimi področji in organizacijami?
+- Kako so različne vrste odprtega dostopa povezane s kakovostjo objav glede na izbrane kazalnike kakovosti?
+- Ali je možno objave v repozitorijih (v COBISS kategorija 2.20) povezati z objavami podatkov? Kakšen je delež objav, ki citirajo podatkovne zbirke podatkov?
