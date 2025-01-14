@@ -71,7 +71,7 @@ pid - permanent ID
 Open metadata
 
 keywords localication, distinction
-Amazon - digitalizacija stvarnega sveta
+
 
 
 ## Stanje
