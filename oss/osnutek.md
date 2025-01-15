@@ -107,7 +107,7 @@ Odprta znanost je sodoben pristop znanstveno-raziskovalnega dela in razširjanja
 
 Leta 1942 je Robert K. Merton v članku A note on science and democracy (ponatisnjenem v knjigi The Sociology of Science) zapisal štiri "stebre" znanosti ("komunizem", univerzalnost, delo za skupno dobro (nesebičnost, etičnost), skepticizem). Kasneje je bila dodana še izvirnost [WPmn]. Nanje se sklicuje tudi Chubin, D. E. v svojem članku Open science and closed science: Tradeoffs in a democracy (1985) [OsCs]. V dobi spleta je gibanje za odprto znanost postavilo kot glavni steber prost dostop do znanstvenih objav, kar se odraža v deklaraciji konference v Budimpešti leta 2001. Pravno to urejajo licence  Creative Commons ustvarjene leta 2002. V nadaljevanju se je zahteva po odprtosti razširila še na podatke in programje. Odprtost je mogoče izvesti s spletnimi repozitoriji.
 
-Za informetrične analize je pomemben prost dostop do opisov (metapodatkov) objavljenih znanstvenih del - tudi tistih objavljenih v naročniških revijah. Prizadevajo si, da bi prost dostop veljal tudi za povzetke [I4OA].
+Za informetrične analize je pomemben prost dostop do opisov (metapodatkov) objavljenih znanstvenih del - tudi tistih objavljenih v naročniških revijah. Prizadevajo si, da bi prost dostop veljal tudi za povzetke [I4OA]. Pomemben korak v tej smeri je OpenAlex.
 
 OpenAlex je popolnoma odprt katalog globalnega raziskovalnega sistema. Poimenovan je po starodavni Aleksandrijski knjižnici. Vzpostavila ga je neprofitna organizacija OurResearch. Dostopen je postal januarja 2022 preko uporabniškega vmesnika, brezplačnega API-ja ali posnetka vseh podatkov, ki ga lahko prenesemo na svoj računalnik. Velja za nadomestek storitve Microsoft Academic Graph, ki je bila ukinjena 31. decembra 2021. OpenAlex temelji na 7 vrstah enot (entitet): delo W, avtor A, vir S, ustanova I, koncept C, založnik P ali financer F. Rešuje nekaj pomembnih vprašanj za analizo bibliografskih podatkov:
 
@@ -116,6 +116,8 @@ OpenAlex je popolnoma odprt katalog globalnega raziskovalnega sistema. Poimenova
 3. izboljšanje vsebine s sodelovanjem uporabnikov (uporabnik odda zahtevo za popravek)
 
 OpenAlex lahko uporabljamo preko spletnega uporabniškega vmesnika ali pa programsko s klici API. Za zahtevnejše obdelave je težava omejitev na največ sto tisoč klicev dnevno. Tej omejitvi se lahko izognemo z vzpostavitvijo kopije OpenAlexa na domačem računalniku.
+
+OpenAlex vsebuje podatke o večini del, ki jih najdemo v tržnih storitvah Web of Science in Scopus. Poleg tega pa še vrsto drugih del - na primer podatke o objavah v shrambi arXiv. To nam omogoča, da spremljamo, kaj so trenutne "vroče" teme v znanosti. Podatki iz tržnih storitev so omejeni na uveljavljene revije in vsebujejo časovni zamik povzročen s postopkom objave člankov.
 
 Enovita storitev ali nadstoritev, ki poveže obstoječe storitve (standardizacija).
 
