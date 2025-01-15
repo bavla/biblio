@@ -68,7 +68,7 @@ Problem identifikacije
 Dublin Core
 pid - permanent ID
 
-Open metadata [I4OA]
+Standardizacija 
 
 keywords localication, distinction
 
@@ -105,8 +105,9 @@ Goodhart (grob osnutek)
 
 Odprta znanost je sodoben pristop znanstveno-raziskovalnega dela in razširjanja njegovih rezultatov (znanja, vedenja) na pregleden in sodelovalen način. Odpiranje znanosti preko čim hitrejše izmenjave informacij in znanja med raziskovalci povečuje možnosti za hitrejši napredek v znanosti [aris]. [Ols, Shadow, fAP, ISC, peerE, raj, EU]
 
-Leta 1942 je Robert K. Merton v knjigi The Sociology of Science zapisal štiri "stebre" znanosti ("komunizem", univerzalnost, delo za skupno dobro (etičnost), skepticizem). Kasneje je bila dodana še izvirnost [WPmn]. Nanje se sklicuje tudi Chubin, D. E. v svojem ;lanku Open science and closed science: Tradeoffs in a democracy (1985) [OsCs]. V dobi spleta je gibanje za odprto znanost postavilo kot glavni steber prost dostop do znanstvenih objav, kar se odraža v deklaraciji konference v Budimpešti leta 2001. Pravno to urejajo licence  Creative Commons ustvarjene leta 2002. V nadaljevanju se je zahteva po odprtosti razširila še na podatke in programje.
+Leta 1942 je Robert K. Merton v članku A note on science and democracy (ponatisnjenem v knjigi The Sociology of Science) zapisal štiri "stebre" znanosti ("komunizem", univerzalnost, delo za skupno dobro (nesebičnost, etičnost), skepticizem). Kasneje je bila dodana še izvirnost [WPmn]. Nanje se sklicuje tudi Chubin, D. E. v svojem članku Open science and closed science: Tradeoffs in a democracy (1985) [OsCs]. V dobi spleta je gibanje za odprto znanost postavilo kot glavni steber prost dostop do znanstvenih objav, kar se odraža v deklaraciji konference v Budimpešti leta 2001. Pravno to urejajo licence  Creative Commons ustvarjene leta 2002. V nadaljevanju se je zahteva po odprtosti razširila še na podatke in programje. Odprtost je mogoče izvesti s spletnimi repozitoriji.
 
+Za informetrične analize je pomemben prost dostop do opisov (metapodatkov) objavljenih znanstvenih del - tudi tistih objavljenih v naročniških revijah. Prizadevajo si, da bi prost dostop veljal tudi za povzetke [I4OA].
 
 OpenAlex je popolnoma odprt katalog globalnega raziskovalnega sistema. Poimenovan je po starodavni Aleksandrijski knjižnici. Vzpostavila ga je neprofitna organizacija OurResearch. Dostopen je postal januarja 2022 preko uporabniškega vmesnika, brezplačnega API-ja ali posnetka vseh podatkov, ki ga lahko prenesemo na svoj računalnik. Velja za nadomestek storitve Microsoft Academic Graph, ki je bila ukinjena 31. decembra 2021. OpenAlex temelji na 7 vrstah enot (entitet): delo W, avtor A, vir S, ustanova I, koncept C, založnik P ali financer F. Rešuje nekaj pomembnih vprašanj za analizo bibliografskih podatkov:
 
