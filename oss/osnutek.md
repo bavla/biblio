@@ -142,10 +142,10 @@ Kot odgovor na te izzive so se pojavili novi modeli objavljanja, kot je »objavi
 ### Cilji
 
   - lokalni OpenAlex; izdelava programske podpore - KajDogaja? uporaba pri predavanjih iz podatkovnih baz (UP)
-  - zbrati in dopolniti programsko podporo recenzijskega postopka pri odprti reviji Ars mathematica
+  - zbrati in dopolniti programsko podporo recenzijskega postopka pri odprti reviji Ars Mathematica Contemporanea (AMC) (izbira recenzentov, preverjanje jezika, plagiatorstva, ustreznosti ključnih besed, ustreznosti virov, itd.)
   - pregled stanja odprte znanosti v slovenskih knjižnicah; vključitev teh vsebin v izobraževanje knjižničarjev (UL FF)
   - pregled teoretičnih izhodišč in spletišč za poskuse s pristopom PRC (publish, review, curate); poskus navezave sodelovanja z izbranim(i).
-  - podpora PRC  - avtomatski postopki pregleda: prepoznavanje avtorjev in povezava z ORCID, dodajanje DOI posameznim virom, ocena povezanosti virov s tematiko članka, ocena kakovosti posameznega vira, analiza povezanosti med avtorji in "ocenjevalci", prepoznavanje neetičnih dejavnosti, sorodni članki, ... poskusna uporaba v Ars Mathematica Contemporanea, ... standardi ... OpenAlex, ArXiv, ...
+  - podpora PRC  - avtomatski postopki pregleda: prepoznavanje avtorjev in povezava z ORCID, dodajanje DOI posameznim virom, ocena povezanosti virov s tematiko članka, ocena kakovosti posameznega vira, analiza povezanosti med avtorji in "ocenjevalci", prepoznavanje neetičnih dejavnosti, sorodni članki, ... poskusna uporaba v AMC, ... standardi ... OpenAlex, ArXiv, ...
   - podpora analitičnim postopkom podatkov iz OpenAlex; grafovske podatkovne baze (Neo4j, ...); vključitev teh vsebin v predmet analiza omrežij na študiju statistike (UL)
   - Goodhart: Formalni opis Goodhartovega zakona; Uporaba Goodhartovega zakona v informetriji; Razvoj metod za odkrivanje potecialno neetičnega vedenja pri znanstvenih objavah (avtorji, uredniki, recenzenti, založniki); Priprava priporočil za korekcijo stanja.
   - možne implicitne in eksplicitne mere kakovosti članka; Goodhart
@@ -157,7 +157,7 @@ se mi zdijo kar v redu. Morda so nekoliko preveč naslonjeni na PRC. Vgraditi je
 Pričakovani rezultati
 - Goodhart:  Članek na podlagi referata na IS 2024, članek o statistično-teoretičnih osnovah Goodhartovega zakona, prispevek za IS 2025
 
-Predlogi razisovalnih vprašanj vzvezi z odprto znanostjo:
+Predlogi raziskovalnih vprašanj v zvezi z odprto znanostjo:
 
   - Kakšno je ujemanje med podatki o pobulikacijah (in OA) med OpenAlex in podatki v COBISS? Kako bi se lahko izboljšalo kakovost obeh virov? Kakšne vrste podatkov manjkajo?
   - Ali se delež objav v OA povečuje in kako hitro? Ali so pri tem razlike med različnimi raziskovalnimi področji in razisovalnimi organizacijami (glede na vrsto, velikost in druge karakteristike, če so na voljo)?
