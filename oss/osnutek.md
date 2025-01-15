@@ -140,6 +140,7 @@ Pričakovanja avtorja-znanstvenika
 To je mogoče doseči s shrambami del.
 Vrednotenje dela ni glavna avtorjeva skrb – pomembno je za njegove/njene delodajalce, financerje itd.
 
+Vrednotenje znanstvenih rezultatov daje prevelik poudarek številu člankov in številu citatov člankov.
 Pred kratkim je na spletnem seminarju znani statistik John Bailer dejal: kaj je mojih nekaj tisoč citatov v primerjavi z milijoni, ki uporabljajo Wickhamov Tidyverse.
 
 Kot odgovor na te izzive so se pojavili novi modeli objavljanja, kot je »objavi, preglej, izboljšaj« (PRC - publish, review, curate). Ta model obrne tradicionalni pristop pregleda in nato objave, tako da delo najprej objavi na spletu in ga nato podvrže strokovnemu pregledu. Namen tega pristopa je povečati preglednost in pospešiti razširjanje raziskav.
