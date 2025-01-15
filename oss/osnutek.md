@@ -49,7 +49,7 @@ Google je pokazal, da z ustrezno poizvedbo lahko hitro pridemo do ustreznih vseb
 
 Amazon je pokazal, da z opisi - podatki o posameznih rečeh iz dejanskega sveta lahko te reči vključimo (naredimo dostopne) v splet. Spletno rešitev lahko uprabimo tudi za organizacijo znanstvenih objav. Pri tem je spletni okvir presplošen. Smiselno se je omejiti na znanstvene objave. Za dostopnost posameznega dela je potrebno, da je vključeno v zbirko storitve. To dosežemo z digitalizacijo del, ki ima dve osnovni obliki:
 - polna: delo je že ustvarjeno v digitalni obliki ali je vanjo pretvorjeno, dodan je opis dela
-- delna: za delo ustvarimo le njegov opis, ki vsebuje tudi podatke o dostopu do dela samega
+- delna: za delo ustvarimo le njegov opis, ki vsebuje tudi podatke o dostopu do dela samega (avtorske pravice)
 
 Od izuma tiska sta bili glavni obliki znanstvenih objav članek in knjiga. Informacijska tehnologija (IT) je močno vplivala tudi na znanstvene objave.
 - ponudila je nove možnosti komuniciranja med znanstveniki (elektronska pošta, prenos datotek, podpora sodelovanju - skupna področja, na katerih uporabniki lahko objavljajo, popravljajo, komentirajo, itd.)
