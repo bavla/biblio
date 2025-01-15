@@ -19,7 +19,9 @@
 
 <img src="https://github.com/user-attachments/assets/2aa8b9aa-e4f4-4a55-b24e-a55c448c9cb8" width="600" />
 
-## Podvojitve števila del```
+## Podvojitve števila del
+
+```
 > W <- data.frame(year=as.integer(C$key[i]),count=C$count[i])
 > head(W)
 > nrow(W)
