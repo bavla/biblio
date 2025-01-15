@@ -51,6 +51,9 @@ Amazon je pokazal, da z opisi - podatki o posameznih rečeh iz dejanskega sveta 
 - polna: delo je že ustvarjeno v digitalni obliki ali je vanjo pretvorjeno, dodan je opis dela
 - delna: za delo ustvarimo le njegov opis, ki vsebuje tudi podatke o dostopu do dela samega (avtorske pravice)
 
+Opisi del vsebujejo različne enote (avtor, delo, vir, ustanova, država, itd.). Zaplete se pri identifikaciji teh enot pri sestavljanju opisa. Podatki so namreč lahko dvoumni (različne enote imajo lahko isto ime (niz znakov)) ali se pojavljajo sopomenke (isti enoti pripada več imen). Najbolje je problem identifikacije reševati pri vnosu podatkov v zbirko in za enote oporabljati enolične identifikatorje (ORCID, DOI, ISSN, ISBN, ISO alpha 2, itd.). Tako dobimo kakovostne podatke za informetrične analize. Stvar bi lahko precej olajšali sami avtorji del, če bi uporabili te enolične identifikatorje že pri pripravi del.
+
+
 Od izuma tiska sta bili glavni obliki znanstvenih objav članek in knjiga. Informacijska tehnologija (IT) je močno vplivala tudi na znanstvene objave.
 - ponudila je nove možnosti komuniciranja med znanstveniki (elektronska pošta, prenos datotek, podpora sodelovanju - skupna področja, na katerih uporabniki lahko objavljajo, popravljajo, komentirajo, itd.)
 - digitalna dela je enostavno podvojiti (težave z avtorskimi pravicami).
