@@ -74,6 +74,7 @@ function gradient
 
 ## Dvignjena logistična krivulja
 
+y0 + L/(1+exp(-k*(x-x0)))
 ```
 > plot(X,Y,xlim=c(1950,2050),ylim=c(0,21000000),pch=16)
 > i <- 47; x0 <- X[i]; y0 <- Y[1]; L <- 2*Y[i]-Y[1]; k <- 0.07; y <- 1950:2050 
