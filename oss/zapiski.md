@@ -101,6 +101,10 @@ function gradient
 ```
 <img src="https://github.com/user-attachments/assets/f87aab94-ccf9-4308-a1d5-2b9497f976b6" width="600" />
 
+### Logaritemska napaka
+
+Δ<sub>x</sub> = log(y<sub>x</sub>/f(x,p))   
+
 ```
 > plot(X,Y,xlim=c(1950,2060),ylim=c(0,21000000),pch=16)
 > i <- 47; x0 <- X[i]; y0 <- Y[1]; L <- 2*Y[i]-Y[1]; k <- 0.07; y <- 1950:2060 
