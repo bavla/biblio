@@ -44,6 +44,9 @@
 
 https://en.wikipedia.org/wiki/Logistic_function
 
+### Absolutna napaka
+
+Δ<sub>x</sub> = f(x,p) - y<sub>x</sub> 
 ```
 > wdir <- "C:/Users/vlado/docs/papers/2025/Biro/Projekt"
 > setwd(wdir)
