@@ -69,8 +69,32 @@ function gradient
      200       NA 
 > pr <- function(x){f(x,best$par)}
 > points(y,pr(y),col="red",pch=16,cex=0.5)
-
 ```
 <img src="https://github.com/user-attachments/assets/8d0e61f8-889a-4741-8dd7-ec7896ee367c" width="600" />
+
+## Dvignjena logistična krivulja
+
+```
+> plot(X,Y,xlim=c(1950,2050),ylim=c(0,21000000),pch=16)
+> i <- 47; x0 <- X[i]; y0 <- Y[1]; L <- 2*Y[i]-Y[1]; k <- 0.07; y <- 1950:2050 
+> # least squares
+> f <- function(x,p) {L <- p[1]; k <- p[2]; x0 <- p[3]; y0 <- p[4]; y0 + L/(1+exp(-k*(x-x0)))}
+> E <- function(p){d <- f(X,p) - Y; sum(d**2)}
+> # E <- function(p){d <- 1 - Y/f(X,p); sum(d**2)}
+> p0 <- c(L,k,x0,y0); best <- optim(p0,E)
+> E(p0)
+[1] 1.120447e+14
+> best
+$par
+[1] 1.935462e+07 1.048966e-01 2.017273e+03 1.032547e+06
+$value
+[1] 8.853627e+12
+$counts
+function gradient 
+     337       NA 
+> pr <- function(x){f(x,best$par)}
+> points(y,pr(y),col="red",pch=16,cex=0.5)
+```
+<img src="https://github.com/user-attachments/assets/f87aab94-ccf9-4308-a1d5-2b9497f976b6" width="600" />
 
 
