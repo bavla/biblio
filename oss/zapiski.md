@@ -101,7 +101,7 @@ function gradient
 ```
 <img src="https://github.com/user-attachments/assets/f87aab94-ccf9-4308-a1d5-2b9497f976b6" width="600" />
 
-### Logaritemska napaka
+### Logaritemska napaka, najmanjši kvadrati
 
 Δ<sub>x</sub> = log(y<sub>x</sub>/f(x,p))   
 
@@ -126,6 +126,33 @@ function gradient
 > points(y,pr(y),col="red",pch=16,cex=0.5)
 ```
 <img src="https://github.com/user-attachments/assets/74cf7e3e-843e-4f65-aedd-d3b5ca451317" width="600" />
+
+### Logaritemska napaka, vsota absolutnih napak
+
+```
+> plot(X,Y,xlim=c(1950,2060),ylim=c(0,21000000),pch=16)
+> i <- 47; x0 <- X[i]; y0 <- Y[1]; L <- 2*Y[i]-Y[1]; k <- 0.07; y <- 1950:2060 
+> # least squares
+> f <- function(x,p) p[4] + p[1]/(1+exp(-p[2]*(x-p[3])))
+> E <- function(p){d <- log(Y/f(X,p)); sum(abs(d))}
+> p0 <- c(L,k,x0,y0); best <- optim(p0,E)
+Warning message:
+In log(Y/f(X, p)) : NaNs produced
+> E(p0)
+[1] 23.30731
+> best
+$par
+[1] 1.940282e+07 1.166885e-01 2.015695e+03 9.552365e+05
+$value
+[1] 2.73447
+$counts
+function gradient 
+     367       NA 
+> pr <- function(x){f(x,best$par)}
+> points(y,pr(y),col="red",pch=16,cex=0.5)
+> 
+```
+<img src="https://github.com/user-attachments/assets/e0518eef-5b97-4e57-b695-af45125819a2" width="600" />
 
 
 
