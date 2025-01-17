@@ -207,6 +207,6 @@ function gradient
 ```
 <img src="https://github.com/user-attachments/assets/e3b704c2-7ac6-4c90-a375-a9879f4f8e99" width="600" />
 
-
+Število člankov na leto ima vsaj dva "generatorja": rast števila raziskovalcev in temeljitost beleženja objav. Pri zadnjih letih se postavi še vprašanje zapoznelosti beleženja.
 
 
