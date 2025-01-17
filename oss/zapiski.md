@@ -154,6 +154,59 @@ function gradient
 ```
 <img src="https://github.com/user-attachments/assets/e0518eef-5b97-4e57-b695-af45125819a2" width="600" />
 
+### Lokalni ekstremi
+
+Zgleda, da ima iskanje priležnic več lokalnih ekstremov. Parameter x0 se (skoraj) ne spreminja. Če ga sami spreminjamo v začetni rešitvi, dobimo npr. naslednje.
+
+```
+> p0 <- c(10000000,0.13,2008,950000)
+> plot(X,Y,xlim=c(1950,2060),ylim=c(0,15000000),pch=16)
+> best <- optim(p0,E)
+> E(p0)
+[1] 4.332392
+> best
+$par
+[1] 1.162367e+07 1.373500e-01 2.008000e+03 9.321085e+05
+$value
+[1] 2.764556
+$counts
+function gradient 
+     447       NA 
+> pr <- function(x){f(x,best$par)}
+> points(y,pr(y),col="red",pch=16,cex=0.5)
+ 
+> p0[3] <- 2007
+> best <- optim(p0,E)
+> E(p0)
+[1] 3.907996
+> best
+$par
+[1] 1.104687e+07 1.437737e-01 2.007000e+03 9.483508e+05
+$value
+[1] 3.042086
+$counts
+function gradient 
+     483       NA 
+> pr <- function(x){f(x,best$par)}
+> points(y,pr(y),col="blue",pch=16,cex=0.5)
+ 
+> p0[3] <- 2009
+> best <- optim(p0,E)
+> E(p0)
+[1] 5.742115
+> best
+$par
+[1] 1.242951e+07 1.329896e-01 2.009000e+03 9.204891e+05
+$value
+[1] 2.575939
+$counts
+function gradient 
+     471       NA 
+> pr <- function(x){f(x,best$par)}
+> points(y,pr(y),col="green",pch=16,cex=0.5)
+```
+<img src="https://github.com/user-attachments/assets/e3b704c2-7ac6-4c90-a375-a9879f4f8e99" width="600" />
+
 
 
 
