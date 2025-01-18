@@ -31,6 +31,8 @@
   29. [DurSM] Mediafix: Durability of storage media. [WWW](https://mediafix.co.uk/durability-of-storage-media)
   30. [aris] ARIS: Odprta znanost. [WWW](https://www.aris-rs.si/sl/dostop/predstavitev.asp)
   31. [OsCs] Chubin, D. E. (1985). Open science and closed science: Tradeoffs in a democracy. Science, Technology, & Human Values, 10(2), 73-80. [PDF](https://www.jstor.org/stable/pdf/689511.pdf)
+  32. Christian Matt, Christian Hoerndlein, Thomas Hess: Let the crowd be my peers? How researchers assess the prospects of social peer review. [PDF](https://link.springer.com/article/10.1007/s12525-017-0247-4?fromPaywallRec=false)
+
 
 
 
