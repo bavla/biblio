@@ -75,6 +75,11 @@ Standardizacija
 
 keywords localication, distinction
 
+Graf znanja je formalizem za predstavitev podatkov in znanja v obliki grafa. Formalno je graf znanja definiran kot označen usmerjen graf sestavljen iz množice trojic oblike (Subjekt,Lastnost,Objekt). Subjekt in Objekt predstavljata vozlišča grafa in trojice predstavljajo imenovane povezave grafa, ki definirajo relacije med vozlišči.
+
+Jezik za predstavitev grafov znanja RDF (Resource Description Framework) je bil predlagan v okviru razvoja Semantičnega spleta (Web 3.0). RDF omogoča enostavno predstavitev grafov s tekstovno datoteko. Vsaka vrstica datoteke vsebuje eno trojico. Na primer, vrstica "Cankar Kraj-rojstva Vrhnika." je izjava, ki pravi, da se je Cankar rodil v Vrhniki. Imeni Cankar in Vrhnika predstavljata vozlišča in celotna trojica predstavlja povezavo z oznako Kraj-rojstva.
+
+V zadnjem desetletju so grafi znanja en izmed najbolj uporabljenih medijev za predstavitev in izmenjavo podatkov in znanja v znanosti in industriji. V znanosti je RDF pogosto uporabljen za izmenjavo podatkov, kot so npr. rezultati eksperimentov. V računalništvu so grafi znanja medij za predstavitev znanja iz področja delovanja danega informacijskega sistema. Na primer, za potrebe pri izvajanju svojih informacijskih sistemov razvijajo in vzdržujejo grafe znanja vsa večja podjetja, kot so npr. Google, Microsoft, Amazon, LinkedIn, Facebook in druga.
 
 
 ## Stanje
@@ -144,6 +149,10 @@ Vrednotenje znanstvenih rezultatov daje prevelik poudarek številu člankov in �
 Pred kratkim je na spletnem seminarju znani statistik John Bailer dejal: kaj je mojih nekaj tisoč citatov v primerjavi z milijoni, ki uporabljajo Wickhamov Tidyverse.
 
 Kot odgovor na te izzive so se pojavili novi modeli objavljanja, kot je »objavi, preglej, izboljšaj« (PRC - publish, review, curate). Ta model obrne tradicionalni pristop pregleda in nato objave, tako da delo najprej objavi na spletu in ga nato podvrže strokovnemu pregledu. Namen tega pristopa je povečati preglednost in pospešiti razširjanje raziskav.
+
+Izdelava grafa znanja za podatkovno okolje OpenAlex. Graf znanja OpenAlex bo vseboval ontologijo, ki vključuje vrste člankov, znanstvena področja, instititucije, ter druge entitete povezane s članki. Konstrukcija grafa znanja OpenAlex je možna s povezovanjem na obstoječe grafe znanja, kot so na primer DBpedia, WikiData, Yago in drugi. Ti grafi znanja v večini predstavljajo splošno znanje o svetu (angl. common-sense knowledge).
+
+Novejši sistemi za analizo velikih podatkovnih zbirk, kot je npr. odprto-kodni sistem Apache Spark, omogočajo implementacijo kompleksnih analiz na podatkih, ki so bodisi v tekstovni obliki (JSON) ali v grafovski obliki. Analize se lahko izvajajo na osnovi interaktivnih poizvedb v SQL ali na osnovi programov v splošnih programskih jezikih kot so Java, Python in R.
 
 ### Cilji
 
