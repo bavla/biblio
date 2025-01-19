@@ -91,6 +91,10 @@ Zaradi hitre (eksponentne) rasti števila novih del postaja dosedanji pristop k 
 Glede na OpenAlex se je število objavljenih znanstvenih del podvojilo v 19 letih med 1971 (881943 del) in 1989 (1847109 del), nato v naslednjih 12 letih 
 2001 (3705036 del), nato že v 8 letih 2009 (7275504). Leta 2020 je bilo objavljenih 11017156 del. Podatki za zadnja leta so najbrž nepopolni. 
 
+[1] 1.859472e+07 1.064136e-01 2.016000e+03 7.980038e+05
+
+[1] 1.231032e+07 1.323116e-01 2.009000e+03 9.147931e+05
+
 Iz podatkov Scopus med letoma 1996 in 2011 izhaja, da je v tem obdobju objavilo vsaj  en članek 15 milijonov znanstvenikov, a le 150.608, manj kot 1%, vsako leto. Njihova imena so v 41% vseh člankov in med soavtorji 87% najbolj citiranih člankov.
 
 
