@@ -91,11 +91,12 @@ Zaradi hitre (eksponentne) rasti števila novih del postaja dosedanji pristop k 
 Glede na OpenAlex se je število objavljenih znanstvenih del podvojilo v 19 letih med 1971 (881943 del) in 1989 (1847109 del), nato v naslednjih 12 letih 
 2001 (3705036 del), nato že v 8 letih 2009 (7275504). Leta 2020 je bilo objavljenih 11017156 del. Podatki za zadnja leta so najbrž nepopolni. 
 
-f(x,L0,L1,x0,k) = L0 + L1/(1+exp(-k*(x-x0)))
+f(x,L0,L1,x0,k) = L0 + L1/(1+exp(-k*(x-x0))),  L = L0 + L1
 
-[1] L1 = 1.859472e+07 k = 1.064136e-01 x0 = 2016 L0 = 7.980038e+05
+modra:  L0 = 914 793.1  L1 = 12 310 320   k = 0.1323116  x0 = 2009   L = 13 225 113
 
-[1] L1 = 1.231032e+07 k = 1.323116e-01 x0 = 2009 L0 = 9.147931e+05
+rdeča:  L0 = 798 003.8  L1 = 18 594 720   k = 0.1064136  x0 = 2016   L = 19 392 724
+
 
 Iz podatkov Scopus med letoma 1996 in 2011 izhaja, da je v tem obdobju objavilo vsaj  en članek 15 milijonov znanstvenikov, a le 150.608, manj kot 1%, vsako leto. Njihova imena so v 41% vseh člankov in med soavtorji 87% najbolj citiranih člankov.
 
