@@ -37,9 +37,9 @@ Informetrija je preučevanje količinskih vidikov informacij. Je razširitev in 
 
 Računalnike lahko med seboj tudi podatkovno povežemo. Razvoj povezljivosti se je začel že leta 1970 (ARPANET) v širšo akademsko rabo pa je vstopil v drugi polovice osemdesetih let (MAIL, FTP, Telnet). Splošna povezanost računalnikov se je razmahnila v devetdesetih letih  v obliki spleta (World Wide Web (WWW), Tim Berners-Lee , 1990).
 
-Objava članka v reviji zahteva svoj čas - od nekaj tednov do nekaj let. Za pohitritev  raziskav so v drugi polovici prejšnjega stoletja avtorji pogosto članek natisnili v obliki poročila ali predobjave (preprint) in ga poslali svojim kolegom. Paul Ginsparg je avgusta 1991 ustvaril shrambo (repozitorij) za predobjave, poimenivano arXiv, na računalniku v Los Alamos National Laboratory (LANL), ki je bil dosegljiv z računalnikov vključenih v splet. arXiv je odprto dostopna shramba za predobjave ali poobjave sprejetih (nadzor brez recenzije) člankov v digitalni obliki (e-prints). Sprejema članke iz  matematike, fizike, astronomije, elektrotehnike, računalništva, kvantitativne biologije, statistike, matematičnih financ in ekonomije. Posnema ga več podobnih shramb: TechRxiv, ChemRxiv, bioRχiv, medRχiv, PsyArXiv, SocArXiv, HAL, RUL, zenodo, itd. Pojavile so se shrambe tudi za druge oblike podatkov
+Objava članka v reviji zahteva svoj čas - od nekaj tednov do nekaj let. Za pohitritev  raziskav so v drugi polovici prejšnjega stoletja avtorji pogosto članek natisnili v obliki poročila ali predobjave (preprint) in ga poslali svojim kolegom. Paul Ginsparg je avgusta 1991 ustvaril shrambo (repozitorij) za predobjave, poimenivano arXiv, na računalniku v Los Alamos National Laboratory (LANL), ki je bil dosegljiv z računalnikov vključenih v splet. arXiv je odprto dostopna shramba za predobjave ali poobjave sprejetih (nadzor brez recenzije) člankov v digitalni obliki (e-prints). Sprejema članke iz  matematike, fizike, astronomije, elektrotehnike, računalništva, kvantitativne biologije, statistike, matematičnih financ in ekonomije. Posnema ga več podobnih shramb: TechRxiv, ChemRxiv, bioRχiv, medRχiv, PsyArXiv, SocArXiv, HAL, RUL, zenodo, itd. Pojavile so se shrambe tudi za druge oblike podatkov:
 
-*** http://localhost:8800/doku.php?id=work:bib:rep
+
 
 Splet (WWW) sestavljajo strani z vsebino, ki so lahko med seboj povezane. Vsaka stran ima svoj naslov po katerem lahko dosežemo njeno vsebino. Spočetka je uporaba spleta temeljila na kazalih - straneh z zbirkami naslovov zanimivih strani (ponavadi na izbrano temo). ???primer Kmalu rešitev s kazali ni več dohajala (pokritost) hitre rasti spleta. Nadomestili so jo zbiralni programi, ki pregledujejo splet in dodajajo v svoj seznam še neznane strani. Na uporabnikovo zahtevo pa iz tega seznama vrnejo naslove nekaj zahtevi najbližjih strani (Lycos, Google). Pri izboljšavi teh iskalnikov sta imeli pomembno vlogo reklame ("brezplačnost" storitve) in zbiranje podatkov o uporabniku (odgovori in reklame glede na uporabnikova zanimanja).
 Web 2.0 je omogočil ustvarjanje spletnih vsebin tudi običajnim, računalniško nepodkovanim uporabnikom. Vseveč strani ni stalnih temveč se sproti ustvarijo na uporabnikovo zahtevo. [SemW]
@@ -51,8 +51,9 @@ Prav tako je na osnovi raziskovalnega projekta nastal Google. Google je pokazal,
 Amazon je pokazal, da z opisi - podatki o posameznih rečeh iz dejanskega sveta lahko te reči vključimo (naredimo dostopne) v splet. Spletno rešitev lahko uprabimo tudi za organizacijo znanstvenih objav. Pri tem je spletni okvir presplošen. Smiselno se je omejiti na znanstvene objave. Za dostopnost posameznega dela je potrebno, da je vključeno v zbirko storitve. To dosežemo z digitalizacijo del, ki ima dve osnovni obliki:
 - polna: delo je že ustvarjeno v digitalni obliki ali je vanjo pretvorjeno, dodan je opis dela
 - delna: za delo ustvarimo le njegov opis, ki vsebuje tudi podatke o dostopu do dela samega (avtorske pravice)
+Za razvoj digitalizacije zgodovinskih in kulturnih virov skrbi združenje TEI (Text Encoding Initiative). Za pripravo spletnih opisov del pa skrbi Dublin Core Metadata Initiative (DCMI). Na področju knjižničarstva pa imamo BIBFRAME: Bibliographic Framework Initiative.
 
-Opisi del vsebujejo različne enote (avtor, delo, vir, ustanova, država, itd.). Zaplete se pri identifikaciji teh enot pri sestavljanju opisa. Podatki so namreč lahko dvoumni (različne enote imajo lahko isto ime (niz znakov)) ali se pojavljajo sopomenke (isti enoti pripada več imen). Najbolje je problem identifikacije reševati pri vnosu podatkov v zbirko in za enote oporabljati enolične identifikatorje (ORCID, DOI, ISSN, ISBN, ISO alpha 2, itd.). Tako dobimo kakovostne podatke za informetrične analize. Stvar bi lahko precej olajšali sami avtorji del, če bi uporabili te enolične identifikatorje že pri pripravi del.
+Opisi del vsebujejo različne enote (avtor, delo, vir, ustanova, država, itd.). Zaplete se pri identifikaciji teh enot pri sestavljanju opisa. Podatki so namreč lahko dvoumni (različne enote imajo lahko isto ime (niz znakov)) ali se pojavljajo sopomenke (isti enoti pripada več imen). Najbolje je problem identifikacije reševati pri vnosu podatkov v zbirko in za enote oporabljati enolične identifikatorje (ORCID, DOI, ISSN, ISBN, ISO alpha 2, URL, URI, itd.). Tako dobimo kakovostne podatke za informetrične analize. Stvar bi lahko precej olajšali sami avtorji del, če bi uporabili te enolične identifikatorje že pri pripravi del.
 
 
 Od izuma tiska sta bili glavni obliki znanstvenih objav članek in knjiga. Informacijska tehnologija (IT) je močno vplivala tudi na znanstvene objave.
@@ -66,21 +67,6 @@ Ena od pomembnih značilnosti tiskanih del je njihova "zaključenost". IT jo v v
 
 Iz arheologije poznamo zapise vklesane v kamen, vtisnjene v glino, vrezane v les, zapisane na papirus, pergament ali papir, itd., ki so se v celoti ali okrnjeni ohranili skozi več stoletij ali celo tisočletij in preživeli civilizacije, ki so jih ustvarile. Z digitalnimi zapisi pa je težava - večina nosilcev zapisa (trakovi, diskete, diski, CD, DVD, itd.) ima zagotovljeno trajnost okrog 5 let [DurSM]. Izjema so plošče M-disc, ki naj bi vzdržale vsaj 1000 let [Mdisc]. Dodatna težava je dostop do starejših bralnih/pisalnih naprav. Za zagotavljanje obstojnosti zapisov jih je priporočljivo hraniti v več izvodih na različnih nosilcih in občasno prepisati na novejše nosilce. Zapisi so pripravljeni v različnih oblikah (formatih). Tudi oblike zapisov se spreminjajo. Za hrambo se je, če se le da, smiselno nasloniti na znakovne datoteke in uporabiti oblike zapisov, ki ohranjajo zgradbo podatkov (TeX, SGML, XML, JSON, itd.).
  
-Gradivo -> metapodatki (podatki o gradivu) + digitalni zapis gradiva
-
-Text Encoding Initiative
-
-Problem identifikacije
-Dublin Core
-pid - permanent ID
-
-Standardizacija http://localhost:8800/doku.php?id=work:bib:book:book:url:sta
-CRediT (Contributor Roles Taxonomy)
-Leiden Manifesto for Research Metrics
-San Francisco Declaration on Research Assessment (DORA)
-BIBFRAME: Bibliographic Framework Initiative;
-
-keywords localication, distinction
 
 Graf znanja je formalizem za predstavitev podatkov in znanja v obliki grafa. Formalno je graf znanja definiran kot označen usmerjen graf sestavljen iz množice trojic oblike (Subjekt,Lastnost,Objekt). Subjekt in Objekt predstavljata vozlišča grafa in trojice predstavljajo imenovane povezave grafa, ki definirajo relacije med vozlišči.
 
@@ -88,6 +74,7 @@ Jezik za predstavitev grafov znanja RDF (Resource Description Framework) je bil 
 
 V zadnjem desetletju so grafi znanja en izmed najbolj uporabljenih medijev za predstavitev in izmenjavo podatkov in znanja v znanosti in industriji. V znanosti je RDF pogosto uporabljen za izmenjavo podatkov, kot so npr. rezultati eksperimentov. V računalništvu so grafi znanja medij za predstavitev znanja iz področja delovanja danega informacijskega sistema. Na primer, za potrebe pri izvajanju svojih informacijskih sistemov razvijajo in vzdržujejo grafe znanja vsa večja podjetja, kot so npr. Google, Microsoft, Amazon, LinkedIn, Facebook in druga.
 
+??? keywords localication, distinction
 
 ## Stanje
 
@@ -118,7 +105,7 @@ Anomalije in goljufije  http://localhost:8800/doku.php?id=work:bib:book:book:url
 1. članki z zelo veliko soavtorji. Članek "COVIDSurg Collaborative and GlobalSurg Collaborative: Timing of surgery following SARS-CoV-2 infection: an international prospective cohort study. Anaesthesia 2021, 76, 748–758" ima 16162 soavtorjev.
 2. avtorji, ki so v prvih desetih mesecih v letu 2024 bili soavtorji zelo veliko člankov: Wiwanitkit, V. (492), Daungsupawong, H. (346), Bruze, M. (336), etc.
 3. dvig pomembnosti ustanov s "kupovanjem" vrhunskih znanstvenikov
-4. plenilske revije: revije z več deset tisoč letnimi objavami, tematski zvezki revij
+4. plenilske revije: revije z več deset tisoč letnimi objavami, tematski zvezki revij [Beall].
 
 
 
@@ -146,7 +133,7 @@ OpenAlex vsebuje podatke o večini del, ki jih najdemo v tržnih storitvah Web o
 
 Enovita storitev ali nadstoritev, ki poveže obstoječe storitve (standardizacija).
 
-Sklicevanja (članki, knjige, patenti, filmi, podatki, programi, spletne strani, ...) Marc Bertin
+Sklicevanja  Marc Bertin
 
 ## Projekt
 
@@ -162,8 +149,7 @@ Pričakovanja avtorja-znanstvenika
 To je mogoče doseči s shrambami del.
 Vrednotenje dela ni glavna avtorjeva skrb – pomembno je za njegove/njene delodajalce, financerje itd.
 
-Vrednotenje znanstvenih rezultatov daje prevelik poudarek številu člankov in številu citatov člankov.
-Pred kratkim je na spletnem seminarju znani statistik John Bailer dejal: kaj je mojih nekaj tisoč citatov v primerjavi z milijoni, ki uporabljajo Wickhamov Tidyverse.
+Vrednotenje znanstvenih rezultatov daje prevelik poudarek številu člankov in številu citatov člankov. Obstajajo še druge oblike del: knjige, patenti, načrti, filmi, podatki, programi, spletne strani, itd. Pred kratkim je na spletnem seminarju znani statistik John Bailer dejal: kaj je mojih nekaj tisoč citatov v primerjavi z milijoni, ki uporabljajo Wickhamov Tidyverse. Obstaja več gibanj in priporočil, ki poskušajo omogočiti in uveljaviti celovitejše vrednotenje znanstveno raziskovalnega dela, kot so ORCID, CRediT (Contributor Roles Taxonomy), Leiden Manifesto for Research Metrics, San Francisco Declaration on Research Assessment (DORA), The Vancouver Recommendations. Pomembna postaja možnost ponovitev poskusov in analiz.
 
 Kot odgovor na te izzive so se pojavili novi modeli objavljanja, kot je »objavi, preglej, izboljšaj« (PRC - publish, review, curate). Ta model obrne tradicionalni pristop pregleda in nato objave, tako da delo najprej objavi na spletu in ga nato podvrže strokovnemu pregledu. Namen tega pristopa je povečati preglednost in pospešiti razširjanje raziskav.
 
