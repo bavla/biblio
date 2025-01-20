@@ -42,7 +42,7 @@
 
 
 
-## Dodatek
+## Dodatek (ni za v prijavo)
 
    1. Derek J. de Solla Price [WWW](http://derekdesollaprice.org/): [Science since Babylon](http://derekdesollaprice.org/wp-content/uploads/2015/10/Science-Since-Babylon-opt.pdf), 1961; [Little Science, Big Science](https://www.andreasaltelli.eu/file/repository/Little_science_big_science_and_beyond.pdf), 1963
    2. Robert K. Merton: The Sociology of Science. 1973. Ch 13. The Normative Structure of Science. [PDF](https://law.unimelb.edu.au/__data/assets/pdf_file/0005/3609203/1c-Merton-The-Normative-Structure-of-Science.pdf)
