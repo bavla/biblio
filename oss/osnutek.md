@@ -42,8 +42,7 @@ Objava članka v reviji zahteva svoj čas - od nekaj tednov do nekaj let. Za poh
 Splet (WWW) sestavljajo strani z vsebino, ki so lahko med seboj povezane. Vsaka stran ima svoj naslov po katerem lahko dosežemo njeno vsebino. Spočetka je uporaba spleta temeljila na kazalih - straneh z zbirkami naslovov zanimivih strani (ponavadi na izbrano temo). ???primer Kmalu rešitev s kazali ni več dohajala (pokritost) hitre rasti spleta. Nadomestili so jo zbiralni programi, ki pregledujejo splet in dodajajo v svoj seznam še neznane strani. Na uporabnikovo zahtevo pa iz tega seznama vrnejo naslove nekaj zahtevi najbližjih strani (Lycos, Google). Pri izboljšavi teh iskalnikov sta imeli pomembno vlogo reklame ("brezplačnost" storitve) in zbiranje podatkov o uporabniku (odgovori in reklame glede na uporabnikova zanimanja).
 Web 2.0 je omogočil ustvarjanje spletnih vsebin tudi običajnim, računalniško nepodkovanim uporabnikom. Vseveč strani ni stalnih temveč se sproti ustvarijo na uporabnikovo zahtevo. [SemW]
 
-Za reševanje problemov na računalniku potrebujemo ustrezna orodja - programe. Večinoma jih moramo kupiti ali pa sami napisati. Konec šestdestih let je 	Niklaus Wirth razvil programski jezik Pascal. Kodo pascalskega prevajalnika je bilo mogoče dobiti brezplačno. To je eden zgodnejših primerov proste in odprte programske opreme. Odprtost je za uporabnika zelo pomembna, ker lahko (načeloma) preveri kaj program počne in tudi izve kako (učenje). Po potrebi lahko tak program tudi prilagodi svojim posebnim potrebam (jezik vmesnika, dodatne zmožnosti, itd.). Pojavilo se je več tovrstnih programov, kar se je v osemdesetih letih prelevilo v gibanje za prosto programsko opremo GNU in formaliziralo z Manifestom GNO (Richard Stallman, 1985). Proti koncu devetdesetih se je pojavilo sorodno odprto-kodno gibanje, ki vključuje tudi možnost trženja programov. Pri ameriških raziskovalnih projektih (NSF) je večkrat uveljavljeno načelo "kar je bilo razvito z javnimi sredstvi, naj bo tudi javno dostopno". Lep primer tega je razvoj prvega uspešnega slikovnega spletnega pregledovalnika Mosaic, ki je bil osnova tako za Netscape kot tudi za Microsoftov Internet Explorer.
-
+Za reševanje problemov na računalniku potrebujemo ustrezna orodja - programe. Večinoma jih moramo kupiti ali pa sami napisati. Konec šestdestih let je 	Niklaus Wirth razvil programski jezik Pascal. Kodo pascalskega prevajalnika je bilo mogoče dobiti brezplačno. To je eden zgodnejših primerov proste in odprte programske opreme. Odprtost je za uporabnika zelo pomembna, ker lahko (načeloma) preveri kaj program počne in tudi izve kako (učenje). Po potrebi lahko tak program tudi prilagodi svojim posebnim potrebam (jezik vmesnika, dodatne zmožnosti, itd.). Pojavilo se je več tovrstnih programov, kar se je v osemdesetih letih prelevilo v gibanje za prosto programsko opremo GNU in formaliziralo z Manifestom GNO (Richard Stallman, 1985). Proti koncu devetdesetih se je pojavilo sorodno odprto-kodno gibanje, ki vključuje tudi možnost trženja programov. Pri ameriških raziskovalnih projektih (NSF) je večkrat uveljavljeno načelo "kar je bilo razvito z javnimi sredstvi, naj bo tudi javno dostopno". To omogoča hiter prenos znanstvenih rezultatov v uporabo. Lep primer tega je razvoj prvega uspešnega slikovnega spletnega pregledovalnika Mosaic, ki je bil osnova tako za Netscape kot tudi za Microsoftov Internet Explorer.
 
 Prav tako je na osnovi raziskovalnega projekta nastal Google. Google je pokazal, da z ustrezno poizvedbo lahko hitro pridemo do ustreznih vsebin strani, ki jih je zbral na spletu. Odgovor dobimo v obliki seznama zadetkov - spletnih naslovov strani, ki ustrezajo poizvedbi. V zadnjem času nam z uporabo umetne inteligence ta seznam nadomesti s povzetkom, ki ga uporabnik lahko v pogovoru s storitvijo izpopolni.
 
@@ -67,11 +66,17 @@ Iz arheologije poznamo zapise vklesane v kamen, vtisnjene v glino, vrezane v les
  
 Gradivo -> metapodatki (podatki o gradivu) + digitalni zapis gradiva
 
+Text Encoding Initiative
+
 Problem identifikacije
 Dublin Core
 pid - permanent ID
 
-Standardizacija 
+Standardizacija http://localhost:8800/doku.php?id=work:bib:book:book:url:sta
+CRediT (Contributor Roles Taxonomy)
+Leiden Manifesto for Research Metrics
+San Francisco Declaration on Research Assessment (DORA)
+BIBFRAME: Bibliographic Framework Initiative;
 
 keywords localication, distinction
 
@@ -107,7 +112,7 @@ Iz podatkov Scopus med letoma 1996 in 2011 izhaja, da je v tem obdobju objavilo 
 
 
 
-Anomalije in goljufije
+Anomalije in goljufije  http://localhost:8800/doku.php?id=work:bib:book:book:url:scm
 1. članek s xxx soavtorji
 2. avtorji, ki so soavtorji pri več kot 300 delih v letu 2024
 3. dvig pomembnosti ustanov s "kupovanjem" vrhunskih znanstvenikov
