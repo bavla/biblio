@@ -38,7 +38,10 @@
   36. [Eref] Ronald Marquez: LinkedIn: What should #Editors do? [WWW](https://www.linkedin.com/posts/ronaldjmarquez_editors-activity-7261153839947419650-6wYA/)
   37. [PeerP] Neil Levy: Philosophy, Bullshit, and Peer Review. Cambridge (UK): Cambridge University Press; 2023 Dec. ISSN: 2398-0567; 2514-3832. [WWW](https://www.ncbi.nlm.nih.gov/books/NBK598245/), [PDF](https://www.ncbi.nlm.nih.gov/books/n/wt606122/pdf/)
   38. [PeerA] Mieke Bal: Let’s Abolish the Peer-Review System. 2018. [WWW](https://mediatheoryjournal.org/2018/09/03/mieke-bal-lets-abolish-the-peer-review-system/comment-page-1/)
-  39. 
+  39. [FAIR] Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). [DOI](https://doi.org/10.1038/sdata.2016.18), [WWW](https://www.nature.com/articles/sdata201618)
+  40. [goFAIR] FAIR Principles. [WWW](https://www.go-fair.org/fair-principles/)
+  41. 
+
 
 
 
