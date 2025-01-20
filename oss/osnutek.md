@@ -87,7 +87,7 @@ Glede na OpenAlex se je število objavljenih znanstvenih del podvojilo v 19 leti
 
 Seveda rast ni neomejena. Če privzamemo privzdignjeni logistični model (v začetnem delu je rast skoraj eksponentna)
 
-f(x,L0,L1,x0,k) = L0 + L1/(1+exp(-k*(x-x0))),  L = L0 + L1
+f(x;L0,L1,x0,k) = L0 + L1/(1+exp(-k*(x-x0))), &nbsp;&nbsp; L = L0 + L1
 
 dobimo kot lokalna ekstrema naslednji priležnici
 
