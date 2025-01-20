@@ -105,9 +105,7 @@ Anomalije in goljufije  http://localhost:8800/doku.php?id=work:bib:book:book:url
 1. članki z zelo veliko soavtorji. Članek "COVIDSurg Collaborative and GlobalSurg Collaborative: Timing of surgery following SARS-CoV-2 infection: an international prospective cohort study. Anaesthesia 2021, 76, 748–758" ima 16162 soavtorjev.
 2. avtorji, ki so v prvih desetih mesecih v letu 2024 bili soavtorji zelo veliko člankov: Wiwanitkit, V. (492), Daungsupawong, H. (346), Bruze, M. (336), etc.
 3. dvig pomembnosti ustanov s "kupovanjem" vrhunskih znanstvenikov
-4. plenilske revije: revije z več deset tisoč letnimi objavami, tematski zvezki revij [Beall].
-
-
+4. plenilske revije in konference  [Beall]: revije z več tisoč letnimi objavami (leta 2024: Scientific Reports (27528), Heliyon (16271), PLoS ONE (14912), IEEE Access (11726), itd.), tematski zvezki revij.
 
 Goodhart (grob osnutek)
 - Obstajajo indikacije, da pri informetričnem spremljanju objav prihaja do zamenjave ciljev: namesto kvalitete se nagrajujejo drugi kvantitativni parametri: npr. odmevnost objav ali celo odmevonst revij, v katerih se članki objavljajo. Uporabniki se temu prilagajajo.
