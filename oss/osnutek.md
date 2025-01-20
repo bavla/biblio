@@ -102,7 +102,7 @@ Anomalije in goljufije  [WPsm]
 1. članki z zelo veliko soavtorji. Članek "COVIDSurg Collaborative and GlobalSurg Collaborative: Timing of surgery following SARS-CoV-2 infection: an international prospective cohort study. Anaesthesia 2021, 76, 748–758" ima 16162 soavtorjev.
 2. avtorji, ki so v prvih desetih mesecih v letu 2024 bili soavtorji zelo veliko člankov: Wiwanitkit, V. (492), Daungsupawong, H. (346), Bruze, M. (336), etc.
 3. izrojenost recenziranja [PeerA, PeerP].
-4. dvig pomembnosti ustanov s "kupovanjem" vrhunskih znanstvenikov
+4. dvig pomembnosti ustanov s "kupovanjem" vrhunskih znanstvenikov [ElPais].
 5. plenilske revije in konference  [Beall]: revije z več tisoč letnimi objavami (leta 2024: Scientific Reports (27528), Heliyon (16271), PLoS ONE (14912), IEEE Access (11726), itd.), tematski zvezki revij [WPmj].
 6. zahteve recenzentov ali urednikov, da se v članek vključi sklice na nepotrebne vire [Eref].
 7. avtorske goljufije (plagiati, kupljeni članki, ChatGPT, izmišljeni/prirejeni podatki, itd.) [OAfraud].
