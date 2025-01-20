@@ -176,8 +176,6 @@ Razdeliti po sklopih
 
 se mi zdijo kar v redu. Morda so nekoliko preveč naslonjeni na PRC. Vgraditi je potrebno povezavo z odprto znanostjo.
 
-Pričakovani rezultati
-- Goodhart:  Članek na podlagi referata na IS 2024, članek o statistično-teoretičnih osnovah Goodhartovega zakona, prispevek za IS 2025
 
 Predlogi raziskovalnih vprašanj v zvezi z odprto znanostjo:
 
@@ -188,3 +186,6 @@ Predlogi raziskovalnih vprašanj v zvezi z odprto znanostjo:
   - Kako so različne vrste odprtega dostopa povezane s kakovostjo objav glede na izbrane kazalnike kakovosti?
   - Ali je možno objave v repozitorijih (v COBISS kategorija 2.20) povezati z objavami podatkov? Kakšen je delež objav, ki citirajo podatkovne zbirke podatkov?
 
+### Predvideni rezultati
+
+- Goodhart:  Članek na podlagi referata na IS 2024, članek o statistično-teoretičnih osnovah Goodhartovega zakona, prispevek za IS 2025
