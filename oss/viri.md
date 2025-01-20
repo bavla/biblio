@@ -40,7 +40,9 @@
   38. [PeerA] Mieke Bal: Let’s Abolish the Peer-Review System. 2018. [WWW](https://mediatheoryjournal.org/2018/09/03/mieke-bal-lets-abolish-the-peer-review-system/comment-page-1/)
   39. [FAIR] Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). [DOI](https://doi.org/10.1038/sdata.2016.18), [WWW](https://www.nature.com/articles/sdata201618)
   40. [goFAIR] FAIR Principles. [WWW](https://www.go-fair.org/fair-principles/)
-  41. 
+  41. [OAfraud] Adam Day, Ebru Cucen: Searching for Research Fraud in OpenAlex with Graph Data Science. 2022. [WWW](https://www.classcentral.com/course/youtube-searching-for-research-fraud-in-openalex-with-graph-data-science-adam-day-ebru-cucen-yow-2022-204262)
+  42. 
+
 
 
 
