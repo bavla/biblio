@@ -44,7 +44,7 @@
   42. [OAfraud] Adam Day, Ebru Cucen: Searching for Research Fraud in OpenAlex with Graph Data Science. 2022. [WWW](https://www.classcentral.com/course/youtube-searching-for-research-fraud-in-openalex-with-graph-data-science-adam-day-ebru-cucen-yow-2022-204262)
   43. [PRC] Corker, K. S., Waltman, L., & Coates, J. A. (2024). Understanding the Publish-Review-Curate (PRC) model of scholarly communication. [MetaArXiv](https://osf.io/preprints/metaarxiv/h7swt).
   44. [ElPais] Manuel Ansede: Dozens of the world’s most cited scientists stop falsely claiming to work in Saudi Arabia. El Pais, Dec 05, 2024. [WWW](https://english.elpais.com/science-tech/2024-12-05/dozens-of-the-worlds-most-cited-scientists-stop-falsely-claiming-to-work-in-saudi-arabia.html)
-  45. 
+  45. [CiteC]  Bertin, M., Atanassova, I. Linguistic perspectives in deciphering citation function classification. Scientometrics 129, 6301–6313 (2024). [DOI](https://doi.org/10.1007/s11192-024-05082-4)
 
 
 
