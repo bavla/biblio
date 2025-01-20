@@ -34,7 +34,8 @@
   32. [CPeer] Christian Matt, Christian Hoerndlein, Thomas Hess: Let the crowd be my peers? How researchers assess the prospects of social peer review. 2017. [PDF](https://link.springer.com/article/10.1007/s12525-017-0247-4?fromPaywallRec=false)
   33. [FPeer] Horbach, S.P.J.M.(.S., Halffman, W.(.W. The changing forms and expectations of peer review. Res Integr Peer Rev 3, 8 (2018). https://doi.org/10.1186/s41073-018-0051-5 . [PDF](https://link.springer.com/article/10.1186/s41073-018-0051-5?fromPaywallRec=false)
   34. [Beall] Beall's List of Potential Predatory Journals and Publishers. [WWW](https://beallslist.net/)
-  35. 
+  35. [Eref] Ronald Marquez: LinkedIn: What should #Editors do? [WWW](https://www.linkedin.com/posts/ronaldjmarquez_editors-activity-7261153839947419650-6wYA/)
+  36. 
 
 
 
