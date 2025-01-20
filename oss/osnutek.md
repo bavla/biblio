@@ -37,7 +37,9 @@ Informetrija je preučevanje količinskih vidikov informacij. Je razširitev in 
 
 Računalnike lahko med seboj tudi podatkovno povežemo. Razvoj povezljivosti se je začel že leta 1970 (ARPANET) v širšo akademsko rabo pa je vstopil v drugi polovice osemdesetih let (MAIL, FTP, Telnet). Splošna povezanost računalnikov se je razmahnila v devetdesetih letih  v obliki spleta (World Wide Web (WWW), Tim Berners-Lee , 1990).
 
-Objava članka v reviji zahteva svoj čas - od nekaj tednov do nekaj let. Za pohitritev  raziskav so v drugi polovici prejšnjega stoletja avtorji pogosto članek natisnili v obliki poročila ali predobjave (preprint) in ga poslali svojim kolegom. Paul Ginsparg je avgusta 1991 ustvaril shrambo (repozitorij) za predobjave, poimenivano arXiv, na računalniku v Los Alamos National Laboratory (LANL), ki je bil dosegljiv z računalnikov vključenih v splet. arXiv je odprto dostopna shramba za predobjave ali poobjave sprejetih (nadzor brez recenzije) člankov v digitalni obliki (e-prints). Sprejema članke iz  matematike, fizike, astronomije, elektrotehnike, računalništva, kvantitativne biologije, statistike, matematičnih financ in ekonomije. Posnema ga več podobnih shramb: TechRxiv, ChemRxiv, bioRχiv, medRχiv, PsyArXiv, SocArXiv, HAL, RUL, zenodo, itd.
+Objava članka v reviji zahteva svoj čas - od nekaj tednov do nekaj let. Za pohitritev  raziskav so v drugi polovici prejšnjega stoletja avtorji pogosto članek natisnili v obliki poročila ali predobjave (preprint) in ga poslali svojim kolegom. Paul Ginsparg je avgusta 1991 ustvaril shrambo (repozitorij) za predobjave, poimenivano arXiv, na računalniku v Los Alamos National Laboratory (LANL), ki je bil dosegljiv z računalnikov vključenih v splet. arXiv je odprto dostopna shramba za predobjave ali poobjave sprejetih (nadzor brez recenzije) člankov v digitalni obliki (e-prints). Sprejema članke iz  matematike, fizike, astronomije, elektrotehnike, računalništva, kvantitativne biologije, statistike, matematičnih financ in ekonomije. Posnema ga več podobnih shramb: TechRxiv, ChemRxiv, bioRχiv, medRχiv, PsyArXiv, SocArXiv, HAL, RUL, zenodo, itd. Pojavile so se shrambe tudi za druge oblike podatkov
+
+*** http://localhost:8800/doku.php?id=work:bib:rep
 
 Splet (WWW) sestavljajo strani z vsebino, ki so lahko med seboj povezane. Vsaka stran ima svoj naslov po katerem lahko dosežemo njeno vsebino. Spočetka je uporaba spleta temeljila na kazalih - straneh z zbirkami naslovov zanimivih strani (ponavadi na izbrano temo). ???primer Kmalu rešitev s kazali ni več dohajala (pokritost) hitre rasti spleta. Nadomestili so jo zbiralni programi, ki pregledujejo splet in dodajajo v svoj seznam še neznane strani. Na uporabnikovo zahtevo pa iz tega seznama vrnejo naslove nekaj zahtevi najbližjih strani (Lycos, Google). Pri izboljšavi teh iskalnikov sta imeli pomembno vlogo reklame ("brezplačnost" storitve) in zbiranje podatkov o uporabniku (odgovori in reklame glede na uporabnikova zanimanja).
 Web 2.0 je omogočil ustvarjanje spletnih vsebin tudi običajnim, računalniško nepodkovanim uporabnikom. Vseveč strani ni stalnih temveč se sproti ustvarijo na uporabnikovo zahtevo. [SemW]
@@ -113,11 +115,10 @@ Iz podatkov Scopus med letoma 1996 in 2011 izhaja, da je v tem obdobju objavilo 
 
 
 Anomalije in goljufije  http://localhost:8800/doku.php?id=work:bib:book:book:url:scm
-1. članek s xxx soavtorji
-2. avtorji, ki so soavtorji pri več kot 300 delih v letu 2024
+1. članki z zelo veliko soavtorji. Članek "COVIDSurg Collaborative and GlobalSurg Collaborative: Timing of surgery following SARS-CoV-2 infection: an international prospective cohort study. Anaesthesia 2021, 76, 748–758" ima 16162 soavtorjev.
+2. avtorji, ki so v prvih desetih mesecih v letu 2024 bili soavtorji zelo veliko člankov: Wiwanitkit, V. (492), Daungsupawong, H. (346), Bruze, M. (336), etc.
 3. dvig pomembnosti ustanov s "kupovanjem" vrhunskih znanstvenikov
-4. revije z več deset tisoč letnimi objavami
-5. tematski zvezki revij
+4. plenilske revije: revije z več deset tisoč letnimi objavami, tematski zvezki revij
 
 
 
