@@ -156,12 +156,13 @@ Novejši sistemi za analizo velikih podatkovnih zbirk, kot je npr. odprto-kodni 
 
 ### Cilji
 
+Tematski sklopi
   - OpenAlex (lokalni, razvoj podpore, povezljivost s slovenskimi bazami, študij grafovskih baz, metode uporabe)
   - odprto objavljanje (PRC, študij, spremljanje in vključevanje v dogajanja, AMC podpora urednikom, etična vprašanja)
   - podpora odprti znanosti (informetrične analize, teoretična in programska podpora)
   - razvoj in programska podpora metod za bibliometrične analize in storitve
 
-  - 
+Razdeliti po sklopih 
   - lokalni OpenAlex; izdelava programske podpore - KajDogaja? uporaba pri predavanjih iz podatkovnih baz (UP)
   - zbrati in dopolniti programsko podporo recenzijskega postopka pri odprti reviji Ars Mathematica Contemporanea (AMC) (izbira recenzentov, preverjanje jezika, plagiatorstva, ustreznosti ključnih besed, ustreznosti virov, itd.)
   - pregled stanja odprte znanosti v slovenskih knjižnicah; vključitev teh vsebin v izobraževanje knjižničarjev (UL FF)
