@@ -41,7 +41,10 @@
   39. [FAIR] Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). [DOI](https://doi.org/10.1038/sdata.2016.18), [WWW](https://www.nature.com/articles/sdata201618)
   40. [goFAIR] FAIR Principles. [WWW](https://www.go-fair.org/fair-principles/)
   41. [OAfraud] Adam Day, Ebru Cucen: Searching for Research Fraud in OpenAlex with Graph Data Science. 2022. [WWW](https://www.classcentral.com/course/youtube-searching-for-research-fraud-in-openalex-with-graph-data-science-adam-day-ebru-cucen-yow-2022-204262)
-  42. 
+  42. [PRC] Corker, K. S., Waltman, L., & Coates, J. A. (2024). Understanding the Publish-Review-Curate (PRC) model of scholarly communication.
+[MetaArXiv preprint](https://osf.io/preprints/metaarxiv/h7swt).
+
+
 
 
 
