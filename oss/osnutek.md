@@ -105,6 +105,7 @@ Anomalije in goljufije
 4. dvig pomembnosti ustanov s "kupovanjem" vrhunskih znanstvenikov
 5. plenilske revije in konference  [Beall]: revije z več tisoč letnimi objavami (leta 2024: Scientific Reports (27528), Heliyon (16271), PLoS ONE (14912), IEEE Access (11726), itd.), tematski zvezki revij [WPmj].
 6. zahteve recenzentov ali urednikov, da se v članek vključi sklice na nepotrebne vire [Eref].
+7. avtorske goljufije (plagiati, kupljeni članki, ChatGPT, itd.) [OAfraud].
 
 Goodhart (grob osnutek)
 - Obstajajo indikacije, da pri informetričnem spremljanju objav prihaja do zamenjave ciljev: namesto kvalitete se nagrajujejo drugi kvantitativni parametri: npr. odmevnost objav ali celo odmevonst revij, v katerih se članki objavljajo. Uporabniki se temu prilagajajo.
@@ -128,9 +129,8 @@ OpenAlex lahko uporabljamo preko spletnega uporabniškega vmesnika ali pa progra
 
 OpenAlex vsebuje podatke o večini del, ki jih najdemo v tržnih storitvah Web of Science in Scopus. Poleg tega pa še vrsto drugih del - na primer podatke o objavah v shrambi arXiv. To nam omogoča, da spremljamo, kaj so trenutne "vroče" teme v znanosti. Podatki iz tržnih storitev so omejeni na uveljavljene revije in vsebujejo časovni zamik povzročen s postopkom objave člankov.
 
-Enovita storitev ali nadstoritev, ki poveže obstoječe storitve (standardizacija).
+Za uporabo podatkov iz OpenAlexa je potrebno razviti ustrezno programsko podporo, ki zbere in pretvori želene podatke v obliko primerno za podatkovne (statistične, omrežne, AI) analize. Posebej pomembna je podpora čiščenju podatkov in preverjanju kakovosti. Včasih je potrebno podatke tudi izpopolniti - na primer določiti kategorijo sklicev
 
-Sklicevanja  Marc Bertin
 
 ## Projekt
 
@@ -148,7 +148,7 @@ Vrednotenje dela ni glavna avtorjeva skrb – pomembno je za njegove/njene delod
 
 Vrednotenje znanstvenih rezultatov daje prevelik poudarek številu člankov in številu citatov člankov. Obstajajo še druge oblike del: knjige, patenti, načrti, filmi, podatki, programi, spletne strani, itd. Pred kratkim je na spletnem seminarju znani statistik John Bailer dejal: kaj je mojih nekaj tisoč citatov v primerjavi z milijoni, ki uporabljajo Wickhamov Tidyverse. Obstaja več gibanj in priporočil, ki poskušajo omogočiti in uveljaviti celovitejše vrednotenje znanstveno raziskovalnega dela, kot so ORCID, CRediT (Contributor Roles Taxonomy), Leiden Manifesto for Research Metrics, San Francisco Declaration on Research Assessment (DORA), The Vancouver Recommendations. Pomembna postaja možnost ponovitev poskusov in analiz, za kar si prizadeva gibanje FAIR (Findability, Accessibility, Interoperability, and Reuse) [FAIR, goFAIR].
 
-Kot odgovor na te izzive so se pojavili novi modeli objavljanja, kot je »objavi, preglej, izboljšaj« (PRC - publish, review, curate). Ta model obrne tradicionalni pristop pregleda in nato objave, tako da delo najprej objavi na spletu in ga nato podvrže strokovnemu pregledu. Namen tega pristopa je povečati preglednost in pospešiti razširjanje raziskav.
+Kot odgovor na te izzive so se pojavili novi modeli objavljanja, kot je »objavi, preglej, izboljšaj« (PRC - publish, review, curate). Ta model obrne tradicionalni pristop pregleda in nato objave, tako da delo najprej objavi na spletu in ga nato podvrže strokovnemu pregledu. Namen tega pristopa je povečati preglednost in pospešiti razširjanje raziskav [PRC].
 
 Izdelava grafa znanja za podatkovno okolje OpenAlex. Graf znanja OpenAlex bo vseboval ontologijo, ki vključuje vrste člankov, znanstvena področja, instititucije, ter druge entitete povezane s članki. Konstrukcija grafa znanja OpenAlex je možna s povezovanjem na obstoječe grafe znanja, kot so na primer DBpedia, WikiData, Yago in drugi. Ti grafi znanja v večini predstavljajo splošno znanje o svetu (angl. common-sense knowledge).
 
