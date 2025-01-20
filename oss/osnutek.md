@@ -129,7 +129,7 @@ OpenAlex lahko uporabljamo preko spletnega uporabniškega vmesnika ali pa progra
 
 OpenAlex vsebuje podatke o večini del, ki jih najdemo v tržnih storitvah Web of Science in Scopus. Poleg tega pa še vrsto drugih del - na primer podatke o objavah v shrambi arXiv. To nam omogoča, da spremljamo, kaj so trenutne "vroče" teme v znanosti. Podatki iz tržnih storitev so omejeni na uveljavljene revije in vsebujejo časovni zamik povzročen s postopkom objave člankov.
 
-Za uporabo podatkov iz OpenAlexa je potrebno razviti ustrezno programsko podporo, ki zbere in pretvori želene podatke v obliko primerno za podatkovne (statistične, omrežne, AI) analize. Posebej pomembna je podpora čiščenju podatkov in preverjanju kakovosti. Včasih je potrebno podatke tudi izpopolniti - na primer določiti kategorijo sklicev
+Za uporabo podatkov iz OpenAlexa je potrebno razviti ustrezno programsko podporo, ki zbere in pretvori želene podatke v obliko primerno za podatkovne (statistične, omrežne, AI) analize. Posebej pomembna je podpora čiščenju podatkov in preverjanju kakovosti. Včasih je potrebno podatke tudi izpopolniti - na primer določiti kategorijo sklicev (agreement, comparison, defnition, diference, disagreement, hypothesis, method, position, result, similarity) [CiteC].
 
 
 ## Projekt
@@ -156,6 +156,12 @@ Novejši sistemi za analizo velikih podatkovnih zbirk, kot je npr. odprto-kodni 
 
 ### Cilji
 
+  - OpenAlex (lokalni, razvoj podpore, povezljivost s slovenskimi bazami, študij grafovskih baz, metode uporabe)
+  - odprto objavljanje (PRC, študij, spremljanje in vključevanje v dogajanja, AMC podpora urednikom, etična vprašanja)
+  - podpora odprti znanosti (informetrične analize, teoretična in programska podpora)
+  - razvoj in programska podpora metod za bibliometrične analize in storitve
+
+  - 
   - lokalni OpenAlex; izdelava programske podpore - KajDogaja? uporaba pri predavanjih iz podatkovnih baz (UP)
   - zbrati in dopolniti programsko podporo recenzijskega postopka pri odprti reviji Ars Mathematica Contemporanea (AMC) (izbira recenzentov, preverjanje jezika, plagiatorstva, ustreznosti ključnih besed, ustreznosti virov, itd.)
   - pregled stanja odprte znanosti v slovenskih knjižnicah; vključitev teh vsebin v izobraževanje knjižničarjev (UL FF)
