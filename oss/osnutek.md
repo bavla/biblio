@@ -91,8 +91,7 @@ f(x,L0,L1,x0,k) = L0 + L1/(1+exp(-k*(x-x0))),  L = L0 + L1
 
 dobimo kot lokalna ekstrema naslednji priležnici
 
-modra:  L0 = 914793.1,  L1 = 12310320,   k = 0.1323116,  x0 = 2009,   L = 13225113
-
+modra:  L0 = 914793.1,  L1 = 12310320,   k = 0.1323116,  x0 = 2009,   L = 13225113 <br />
 rdeča:  L0 = 798003.8,  L1 = 18594720,   k = 0.1064136,  x0 = 2016,   L = 19392724
 
 ki se precej dobro prilegata podatkom, a zaradi pomanjkljivih podatkov za zadnja leta, dajeta zelo različni napovedi.
