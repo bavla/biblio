@@ -35,7 +35,11 @@
   33. [FPeer] Horbach, S.P.J.M.(.S., Halffman, W.(.W. The changing forms and expectations of peer review. Res Integr Peer Rev 3, 8 (2018). https://doi.org/10.1186/s41073-018-0051-5 . [PDF](https://link.springer.com/article/10.1186/s41073-018-0051-5?fromPaywallRec=false)
   34. [Beall] Beall's List of Potential Predatory Journals and Publishers. [WWW](https://beallslist.net/)
   35. [Eref] Ronald Marquez: LinkedIn: What should #Editors do? [WWW](https://www.linkedin.com/posts/ronaldjmarquez_editors-activity-7261153839947419650-6wYA/)
-  36. 
+  36. [PeerP] Neil Levy: Philosophy, Bullshit, and Peer Review. Cambridge (UK): Cambridge University Press; 2023 Dec. ISSN: 2398-0567; 2514-3832. [WWW](https://www.ncbi.nlm.nih.gov/books/NBK598245/), [PDF](https://www.ncbi.nlm.nih.gov/books/n/wt606122/pdf/)
+  37. [PeerA] Mieke Bal: Let’s Abolish the Peer-Review System. 2018. [WWW](https://mediatheoryjournal.org/2018/09/03/mieke-bal-lets-abolish-the-peer-review-system/comment-page-1/)
+  38. 
+
+
 
 
 
