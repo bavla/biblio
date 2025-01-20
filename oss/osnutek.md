@@ -105,9 +105,9 @@ Anomalije in goljufije
 4. dvig pomembnosti ustanov s "kupovanjem" vrhunskih znanstvenikov
 5. plenilske revije in konference  [Beall]: revije z več tisoč letnimi objavami (leta 2024: Scientific Reports (27528), Heliyon (16271), PLoS ONE (14912), IEEE Access (11726), itd.), tematski zvezki revij [WPmj].
 6. zahteve recenzentov ali urednikov, da se v članek vključi sklice na nepotrebne vire [Eref].
-7. avtorske goljufije (plagiati, kupljeni članki, ChatGPT, itd.) [OAfraud].
+7. avtorske goljufije (plagiati, kupljeni članki, ChatGPT, izmišljeni/prirejeni podatki, itd.) [OAfraud].
 
-Goodhart (grob osnutek)
+Goodhart (grob osnutek) 
 - Obstajajo indikacije, da pri informetričnem spremljanju objav prihaja do zamenjave ciljev: namesto kvalitete se nagrajujejo drugi kvantitativni parametri: npr. odmevnost objav ali celo odmevonst revij, v katerih se članki objavljajo. Uporabniki se temu prilagajajo.
 - Zaradi tega se množijo založbe in revije, ki poskušajo na vse načine povečati popularnost objav, ne glede na kvaliteto. Za objavo v predatorskih revijah je pomembno imeti dostop do javnega denarja.
 - Prihaja do odtekanja javnega denarja v privatne žepe založniških multinacionalnih hiš.
