@@ -176,8 +176,42 @@ Razdeliti po sklopih
 
 se mi zdijo kar v redu. Morda so nekoliko preveč naslonjeni na PRC. Vgraditi je potrebno povezavo z odprto znanostjo.
 
+**Goodhart** Poglavije Goodhart (grob osnutek)
 
-Predlogi raziskovalnih vprašanj v zvezi z odprto znanostjo:
+Teze:
+  - Obstajajo indikacije, da pri informetričnem spremljanju objav prihaja do zamenjave ciljev: namesto kvalitete se nagrajujejo drugi kvantitativni parametri: npr. odmevnost objav ali celo odmevonst revij, v katerih se članki objavljajo. Uporabniki se temu prilagajajo.
+  - Zaradi tega se množijo založbe in revije, ki poskušajo na vse načine povečati popularnost objav, ne glede na kvaliteto. Za objavo v predatorskih revijah je pomembno imeti dostop do javnega denarja.
+  - Prihaja do odtekanja javnega denarja v privatne žepe založniških multinacionalnih hiš.
+  - Radikalno se menjajo modeli publiciranja od naročniškega do odprtodostopnih.
+  - Prevladujejo objave z APC in hibridni model publiciranja.
+
+Goodhart
+  - Formalni opis Goodhartovega zakona
+  - Uporaba Goodhartovega zakona v informetriji
+  - Razvoj metod za odkrivanje potecialno neetičnega vedenja pri znanstvenih objavah (avtorji, uredniki, recenzenti, založniki)
+  - Priprava priporočil za korekcijo stanja.
+
+Analize
+  - Poskušamo oceniti hitrost sprememb na polju znanstvenga publiciranja, povečanje številk v zadnjih letih (št. objav, št. revij, APC + naročnin).
+  - Razvoj FJN (Free Journal Network) Free journal network združuje nekatere revije diamantnega prostega dostopa.
+
+Hekerski napadi
+
+Pojav neetičnih objav in mehanizmi za njihovo izločanje.
+  - Problem napačne klasifikacije revij in raziskovalcev. Na več mestih se pojavlja za neko enoto več kot ena klasifikacija področja raziskav. (npr. SICRIS, SCIMAGO). Zaradi različne kulture citiranja, lahko pride do hudih napak pri rangiranju znotraj posameznega področja. Izdelali bomo orodja za iskanje taknšnih anomalij.
+  - Problem razločevanja potencialno predatorskih metod pri revijah z visokim faktorjem vpliva. Iz samega faktorja vpliva ni mogoče določiti ali je revija primerna za objavo. Določili bomo metode, ki bodo s pomočjo drugih podatkov identificirale potencialno sporne revije.
+  - Anketa ali več anket, s katerimi bomo dobili odziv znanstvenikov in drugih deležnikov na spremembe, ki jih prinaša odprta znanost.
+
+
+Pričakovani rezultati
+  - Članek na podlagi referata na IS 2024
+  - Članek o statistično-teoretičnih osnovah Goodhartovega zakona
+  - Prispevki za IS 2025,2026,2027
+  - Članek o rezultatih anket
+  - Članek o določanju potencialnih predatorjev.
+  - Članek o izboljšavi klasificiranj
+
+**Predlogi raziskovalnih vprašanj v zvezi z odprto znanostjo:**
 
   - Kakšno je ujemanje med podatki o pobulikacijah (in OA) med OpenAlex in podatki v COBISS? Kako bi se lahko izboljšalo kakovost obeh virov? Kakšne vrste podatkov manjkajo?
   - Ali se delež objav v OA povečuje in kako hitro? Ali so pri tem razlike med različnimi raziskovalnimi področji in razisovalnimi organizacijami (glede na vrsto, velikost in druge karakteristike, če so na voljo)?
