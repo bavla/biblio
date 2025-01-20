@@ -127,7 +127,7 @@ OpenAlex je popolnoma odprt katalog globalnega raziskovalnega sistema. Poimenova
 2. brezplačen dostop (skupna raba pridobljenih podatkov, prenos na uporabnikov računalnik)
 3. izboljšanje vsebine s sodelovanjem uporabnikov (uporabnik odda zahtevo za popravek)
 
-OpenAlex lahko uporabljamo preko spletnega uporabniškega vmesnika ali pa programsko s klici API. Za zahtevnejše obdelave je težava omejitev na največ sto tisoč klicev dnevno. Tej omejitvi se lahko izognemo z vzpostavitvijo kopije OpenAlexa na domačem računalniku.
+OpenAlex lahko uporabljamo preko spletnega uporabniškega vmesnika ali pa programsko s klici API. Za zahtevnejše obdelave je težava omejitev na največ sto tisoč klicev dnevno. Tej omejitvi se lahko izognemo z vzpostavitvijo kopije OpenAlexa na lokalnem računalniku.
 
 OpenAlex vsebuje podatke o večini del, ki jih najdemo v tržnih storitvah Web of Science in Scopus. Poleg tega pa še vrsto drugih del - na primer podatke o objavah v shrambi arXiv. To nam omogoča, da spremljamo, kaj so trenutne "vroče" teme v znanosti. Podatki iz tržnih storitev so omejeni na uveljavljene revije in vsebujejo časovni zamik povzročen s postopkom objave člankov.
 
