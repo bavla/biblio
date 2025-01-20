@@ -45,16 +45,8 @@
   43. [PRC] Corker, K. S., Waltman, L., & Coates, J. A. (2024). Understanding the Publish-Review-Curate (PRC) model of scholarly communication. [MetaArXiv](https://osf.io/preprints/metaarxiv/h7swt).
   44. [ElPais] Manuel Ansede: Dozens of the world’s most cited scientists stop falsely claiming to work in Saudi Arabia. El Pais, Dec 05, 2024. [WWW](https://english.elpais.com/science-tech/2024-12-05/dozens-of-the-worlds-most-cited-scientists-stop-falsely-claiming-to-work-in-saudi-arabia.html)
   45. [CiteC]  Bertin, M., Atanassova, I. Linguistic perspectives in deciphering citation function classification. Scientometrics 129, 6301–6313 (2024). [DOI](https://doi.org/10.1007/s11192-024-05082-4)
-
-
-
-
-
-
-
-
-
-
+  46. [GML] Hennessy, Christopher A.; Goodhart, Charles A. E.: Goodhart's law and machine learning: a structural perspective. Internat. Econom. Rev. 64 (2023), no. 3, 1075–1086. MR4624804.
+  47. [Gsc] Hardt, Moritz; Megiddo, Nimrod; Papadimitriou, Christos; Wootters, Mary: Strategic classification. Association for Computing Machinery (ACM), New York, 2016, 111–122. ISBN: 978-1-4503-4057-1. MR3629816.
 
 
 
@@ -68,6 +60,7 @@
 
 
  
+
 
 
 
