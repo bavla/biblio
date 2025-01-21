@@ -213,31 +213,46 @@ Pričakovani rezultati Goodhart
 
 ### Detailed description of the work programme (23.3)
 
-WP1: Project management
+**WP1: Project management**
+
 Task 1.1 Project administration and coordination
+
 Management activities will take place during the entire project and will include administrative work related to work performance, quality assurance, risk assessment and mitigation, compliance with the proposal and contractual obligations with the Slovenian Research and Innovation Agency. In parallel, coordination activities will include fostering agreement on responsibilities, scheduling and coordinating team meetings and internal briefing on outcomes of individual activities.
+
 Task 1.2 Data management
+
 A data management plan (DMP) will be prepared in the first six months of the project (D1.1.) following the FAIR principles of making data findable, accessible, interoperable, and reusable. The DMP will detail the purpose of data collection, relevance to the objectives of the project, specify the types and formats of data and metadata to be collected, the expected size, and how data will be curated and preserved.
 
-WP2: Bibliographic data
+**WP2: Bibliographic data**
+
 Task 2.1 Acquisition, cleaning and preparation bibliographic data (from OpenAlex and COBISS and administrative data from the University of Primorska and/or other institutions)?
+
 Task 2.2 Developoment of knowledge graph
+
 Task 2.3 Developoment of software for bibliographic analysis and services
+
 Task 2.3 Analysis of bibliographic data
+
 Task 2.5 Computation of measures of publication quality
+
 Task 2.6 Detection of non-ethical publication practices
 
-WP3: PRC publication model  data
+**WP3: PRC publication model  data**
+
 Task 3.1 Acquisition, cleaning and preparation on data on PRC (i.e. data on APCs, editorial process, open peer reviews, etc.)
+
 Task 3.2 Analysis of PRC data
 
-WP4 Survey data
+**WP4 Survey data**
+
 Task 3.1. Development of survey questionnaires
+
 Task 3.2 Survey of researchers (at the University of Priomorska/in all Slovenian research institutions?)
+
 Task 3.3 Survey of journal editors (for a sample of journals from all research field or for just one research field as a case study?)
+
 Task 3.4 Analysis of suvey data
 
-WP5: Exploitation and dissemination of results?
+**WP5: Exploitation and dissemination of results?**
+
 ...
-
-
