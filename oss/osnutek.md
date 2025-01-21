@@ -245,13 +245,15 @@ Task 3.2 Analysis of PRC data
 
 **WP4 Survey data**
 
-Task 3.1. Development of survey questionnaires
+Task 3.1 Review of previous survey data on publishing
 
-Task 3.2 Survey of researchers (at the University of Priomorska/in all Slovenian research institutions?)
+Task 3.2. Development of survey questionnaires
 
-Task 3.3 Survey of journal editors (for a sample of journals from all research field or for just one research field as a case study?)
+Task 3.3 Survey of researchers (at the University of Priomorska/in all Slovenian research institutions?)
 
-Task 3.4 Analysis of suvey data
+Task 3.4 Survey of journal editors (for a sample of journals from all research field or for just one research field as a case study?)
+
+Task 3.5 Analysis of suvey data
 
 **WP5: Exploitation and dissemination of results?**
 
