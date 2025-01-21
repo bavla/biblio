@@ -149,6 +149,8 @@ Vrednotenje dela ni glavna avtorjeva skrb – pomembno je za njegove/njene delod
 
 Vrednotenje znanstvenih rezultatov daje prevelik poudarek številu člankov in številu citatov člankov. Obstajajo še druge oblike del: knjige, patenti, načrti, filmi, podatki, programi, spletne strani, itd. Pred kratkim je na spletnem seminarju znani statistik John Bailer dejal: kaj je mojih nekaj tisoč citatov v primerjavi z milijoni, ki uporabljajo Wickhamov Tidyverse. Obstaja več gibanj in priporočil, ki poskušajo omogočiti in uveljaviti celovitejše vrednotenje znanstveno raziskovalnega dela, kot so ORCID, CRediT (Contributor Roles Taxonomy), Leiden Manifesto for Research Metrics, San Francisco Declaration on Research Assessment (DORA), The Vancouver Recommendations, Coalition for Advancing Research Assessment (CoARA). Pomembna postaja možnost ponovitev poskusov in analiz, za kar si prizadeva gibanje FAIR (Findability, Accessibility, Interoperability, and Reuse) [FAIR, goFAIR].
 
+Obstajajo indikacije, da pri informetričnem spremljanju objav prihaja do zamenjave ciljev: namesto kvalitete se nagrajujejo drugi kvantitativni parametri: npr. odmevnost objav ali celo odmevonst revij, v katerih se članki objavljajo. Uporabniki se temu prilagajajo. Zato se množijo založbe in revije, ki poskušajo na vse načine povečati popularnost objav, ne glede na kvaliteto. Za objavo v plenilskih revijah je pomembno imeti dostop do javnega denarja. Prihaja do odtekanja javnega denarja v privatne žepe založniških multinacionalnih hiš. Radikalno se menjajo modeli publiciranja od naročniškega do odprtodostopnih. Prevladujejo objave z APC in hibridni model publiciranja.
+
 Kot odgovor na te izzive so se pojavili novi modeli objavljanja, kot je »objavi, preglej, izboljšaj« (PRC - publish, review, curate). Ta model obrne tradicionalni pristop pregleda in nato objave, tako da delo najprej objavi na spletu in ga nato podvrže strokovnemu pregledu. Namen tega pristopa je povečati preglednost in pospešiti razširjanje raziskav [PRC].
 
 Izdelava grafa znanja za podatkovno okolje OpenAlex. Graf znanja OpenAlex bo vseboval ontologijo, ki vključuje vrste člankov, znanstvena področja, instititucije, ter druge entitete povezane s članki. Konstrukcija grafa znanja OpenAlex je možna s povezovanjem na obstoječe grafe znanja, kot so na primer DBpedia, WikiData, Yago in drugi. Ti grafi znanja v večini predstavljajo splošno znanje o svetu (angl. common-sense knowledge).
@@ -175,23 +177,6 @@ Razdeliti po sklopih
   - nadaljnji razvoj metod, ki temeljijo na bibliometričnih omrežjih, in višjestopenjskih bibliografskih storitev 
 
 
-se mi zdijo kar v redu. Morda so nekoliko preveč naslonjeni na PRC. Vgraditi je potrebno povezavo z odprto znanostjo.
-
-**Goodhart** Poglavije Goodhart (grob osnutek)
-
-Teze:
-  - Obstajajo indikacije, da pri informetričnem spremljanju objav prihaja do zamenjave ciljev: namesto kvalitete se nagrajujejo drugi kvantitativni parametri: npr. odmevnost objav ali celo odmevonst revij, v katerih se članki objavljajo. Uporabniki se temu prilagajajo.
-  - Zaradi tega se množijo založbe in revije, ki poskušajo na vse načine povečati popularnost objav, ne glede na kvaliteto. Za objavo v predatorskih revijah je pomembno imeti dostop do javnega denarja.
-  - Prihaja do odtekanja javnega denarja v privatne žepe založniških multinacionalnih hiš.
-  - Radikalno se menjajo modeli publiciranja od naročniškega do odprtodostopnih.
-  - Prevladujejo objave z APC in hibridni model publiciranja.
-
-Goodhart
-  - Formalni opis Goodhartovega zakona
-  - Uporaba Goodhartovega zakona v informetriji
-  - Razvoj metod za odkrivanje potecialno neetičnega vedenja pri znanstvenih objavah (avtorji, uredniki, recenzenti, založniki)
-  - Priprava priporočil za korekcijo stanja.
-
 Analize
   - Poskušamo oceniti hitrost sprememb na polju znanstvenga publiciranja, povečanje številk v zadnjih letih (št. objav, št. revij, APC + naročnin).
   - Razvoj FJN (Free Journal Network) Free journal network združuje nekatere revije diamantnega prostega dostopa.
@@ -199,18 +184,11 @@ Analize
 Hekerski napadi
 
 Pojav neetičnih objav in mehanizmi za njihovo izločanje.
-  - Problem napačne klasifikacije revij in raziskovalcev. Na več mestih se pojavlja za neko enoto več kot ena klasifikacija področja raziskav. (npr. SICRIS, SCIMAGO). Zaradi različne kulture citiranja, lahko pride do hudih napak pri rangiranju znotraj posameznega področja. Izdelali bomo orodja za iskanje taknšnih anomalij.
+  - Problem napačne klasifikacije revij in raziskovalcev. Na več mestih se pojavlja za neko enoto več kot ena klasifikacija področja raziskav. (npr. SICRIS, SCIMAGO). Zaradi različne kulture citiranja, lahko pride do hudih napak pri rangiranju znotraj posameznega področja. Izdelali bomo orodja za iskanje takšnih anomalij.
   - Problem razločevanja potencialno predatorskih metod pri revijah z visokim faktorjem vpliva. Iz samega faktorja vpliva ni mogoče določiti ali je revija primerna za objavo. Določili bomo metode, ki bodo s pomočjo drugih podatkov identificirale potencialno sporne revije.
   - Anketa ali več anket, s katerimi bomo dobili odziv znanstvenikov in drugih deležnikov na spremembe, ki jih prinaša odprta znanost.
 
 
-Pričakovani rezultati
-  - Članek na podlagi referata na IS 2024
-  - Članek o statistično-teoretičnih osnovah Goodhartovega zakona
-  - Prispevki za IS 2025,2026,2027
-  - Članek o rezultatih anket
-  - Članek o določanju potencialnih predatorjev.
-  - Članek o izboljšavi klasificiranj
 
 **Predlogi raziskovalnih vprašanj v zvezi z odprto znanostjo:**
 
@@ -223,4 +201,10 @@ Pričakovani rezultati
 
 ### Predvideni rezultati
 
-- Goodhart:  Članek na podlagi referata na IS 2024, članek o statistično-teoretičnih osnovah Goodhartovega zakona, prispevek za IS 2025
+Pričakovani rezultati Goodhart
+  - Članek na podlagi referata na IS 2024
+  - Članek o statistično-teoretičnih osnovah Goodhartovega zakona
+  - Prispevki za IS 2025,2026,2027
+  - Članek o rezultatih anket
+  - Članek o določanju potencialnih predatorjev.
+  - Članek o izboljšavi klasificiranj
