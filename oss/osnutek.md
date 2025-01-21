@@ -3,7 +3,7 @@
 
 Zaradi eksponentne rasti števila znanstvenih del tradicionalni načini znanstvenih objav ne ustrezajo več potrebam v več pogledih.
 Po eni strani so potrebna orodja, ki iz množice objav izberejo tiste, ki naj zanimajo. Po drugi strani pa
-se v razmišljanjih o znanstvenih objavah preveč naslanjamo na okvire, ki jih je postavil tisk. Ko objava zaživi na spletu, omogoča neposredne povezave na druge objave oz. podatke. Po drugi strani pa so lahko popravki in dopolnila časovno dinamični (Včasih je bil potreben poseben prispevek "Errata"). Seveda pa take novosti prinašajo nove izzive. Tudi sicer se je sistem znanstvenih objav izrodil. Zato kliče po temeljiti in dobro premišljeni prenovi.
+se v razmišljanjih o znanstvenih objavah preveč naslanjamo na okvire, ki jih je postavil tisk. Ko objava zaživi na spletu, omogoča neposredne povezave na druge objave oz. podatke. Po drugi strani pa so lahko popravki in dopolnila časovno dinamični (Včasih je bil potreben poseben prispevek "Errata"). Seveda pa take novosti prinašajo nove izzive. Tudi sicer se je sistem znanstvenih objav izrodil. Zato kliče po temeljiti in dobro premišljeni prenovi [CSsp].
 
 
 ## Razvoj hranjenja in posredovanja znanja
