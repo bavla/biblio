@@ -77,7 +77,7 @@ V zadnjem desetletju so grafi znanja en izmed najbolj uporabljenih medijev za pr
 
 ## Stanje
 
-Zaradi hitre (eksponentne) rasti števila novih del postaja dosedanji pristop k objavljanju neustrezen (rast števila revij, megarevije, plenilske revije, problem pridobivanja recenzentov, goljufije ipd.).
+Zaradi hitre (trenutno še eksponentne) rasti števila novih del postaja dosedanji pristop k objavljanju neustrezen (rast števila revij, megarevije, plenilske revije, problem pridobivanja recenzentov, goljufije ipd.).
 
 <img src="https://github.com/user-attachments/assets/cf0a4851-b251-4117-bd35-41daadf4aaf3" width="500" />
 
