@@ -47,6 +47,8 @@
   45. [CiteC]  Bertin, M., Atanassova, I. Linguistic perspectives in deciphering citation function classification. Scientometrics 129, 6301–6313 (2024). [DOI](https://doi.org/10.1007/s11192-024-05082-4)
   46. [GML] Hennessy, Christopher A.; Goodhart, Charles A. E.: Goodhart's law and machine learning: a structural perspective. Internat. Econom. Rev. 64 (2023), no. 3, 1075–1086. MR4624804.
   47. [Gsc] Hardt, Moritz; Megiddo, Nimrod; Papadimitriou, Christos; Wootters, Mary: Strategic classification. Association for Computing Machinery (ACM), New York, 2016, 111–122. ISBN: 978-1-4503-4057-1. MR3629816.
+  48. [CSsp] Geoffrey Boulton, Moumita Koley: More is not better: the developing crisis of scientific publishing. July 2, 2024. [WWW](https://council.science/blog/more-is-not-better-the-developing-crisis-of-scientific-publishing/)
+
 
 
 
