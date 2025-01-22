@@ -7,6 +7,8 @@
 - Iztok Savnik  https://cris.cobiss.net/ecris/si/sl/researcher/13410
 - Nino Bašić  https://cris.cobiss.net/ecris/si/sl/researcher/39184
 - Ana Slavec  https://cris.cobiss.net/ecris/si/sl/researcher/36410
+- Katarina Krapež  https://cris.cobiss.net/ecris/si/sl/researcher/21144
+
 - 
 ## Vlado
 
