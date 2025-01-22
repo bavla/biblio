@@ -12,12 +12,13 @@
 - 
 ## Vlado
 
+BATAGELJ, Vladimir. OpenAlex2Pajek - an R package for converting OpenAlex bibliographic data into Pajek networks. V: JAIN, Praveen Kumar (ur.), et al. Innovations in webometrics, informetrics, and scientometrics : AI-driven approaches and insights. Delhi: Bookwell, cop. 2024. Str. 66-77, ilustr. ISBN 978-93-86578-65-5. [COBISS.SI-ID 220027395]
 
 BATAGELJ, Vladimir. Weighted degrees and truncated derived bibliographic networks. Scientometrics. Aug. 2024, vol. 129, iss. 8, str. 4863–4883, graf. prikazi. ISSN 0138-9130. https://link.springer.com/article/10.1007/s11192-024-05092-2, DOI: 10.1007/s11192-024-05092-2. [COBISS.SI-ID 216973315], [JCR, SNIP, WoS, Scopus]
 
 MALTSEVA, Daria, BATAGELJ, Vladimir. iMetrics: the development of the discipline with many names. Scientometrics. Oct. 2020, iss. 1, vol. 125, str. 313-359, ilustr. ISSN 0138-9130. https://link.springer.com/article/10.1007/s11192-020-03604-4, DOI: 10.1007/s11192-020-03604-4. [COBISS.SI-ID 108839171], [JCR, SNIP, WoS do 5. 11. 2024: št. citatov (TC): 12, čistih citatov (CI): 10, čistih citatov na avtorja (CIAu): 5.00, Scopus do 26. 12. 2024: št. citatov (TC): 13, čistih citatov (CI): 11, čistih citatov na avtorja (CIAu): 5.50]
 
-BATAGELJ, Vladimir. On fractional approach to analysis of linked networks. Scientometrics. May 2020, vol. 123, iss. 2, str. 621-633. ISSN 0138-9130. https://doi.org/10.1007/s11192-020-03383-y, DOI: 10.1007/s11192-020-03383-y. [COBISS.SI-ID 18940505]
+BATAGELJ, Vladimir. On fractional approach to analysis of linked networks. Scientometrics. May 2020, vol. 123, iss. 2, str. 621-633. ISSN 0138-9130. https://doi.org/10.1007/s11192-020-03383-y, DOI: 10.1007/s11192-020-03383-y. [COBISS.SI-ID 18940505], [JCR, SNIP, WoS do 11. 11. 2024: št. citatov (TC): 20, čistih citatov (CI): 12, čistih citatov na avtorja (CIAu): 12.00, Scopus do 27. 12. 2024: št. citatov (TC): 22, čistih citatov (CI): 14, čistih citatov na avtorja (CIAu): 14.00]
 
 DOREIAN, Patrick (urednik), BATAGELJ, Vladimir (urednik), FERLIGOJ, Anuška (urednik). Advances in network clustering and blockmodeling. Hoboken (NJ): J. Wiley & Sons, cop. 2020. XVI, 409 str., ilustr. Wiley series in computational and quantitative social science. ISBN 978-1-119-22470-9, ISBN 1-119-22470-5. http://dx.doi.org/10.1002/9781119483298. [COBISS.SI-ID 1538533827]
 
