@@ -20,6 +20,8 @@ Digital forms  https://digitalforms.arrs.si/Identity/Account/Login?returnUrl=~/
 - 
 ## Vlado
 
+C:\Users\vlado\docs\papers\2022\projekt
+
 BATAGELJ, Vladimir. OpenAlex2Pajek - an R package for converting OpenAlex bibliographic data into Pajek networks. V: JAIN, Praveen Kumar (ur.), et al. Innovations in webometrics, informetrics, and scientometrics : AI-driven approaches and insights. Delhi: Bookwell, cop. 2024. Str. 66-77, ilustr. ISBN 978-93-86578-65-5. [COBISS.SI-ID 220027395]
 
 BATAGELJ, Vladimir. Weighted degrees and truncated derived bibliographic networks. Scientometrics. Aug. 2024, vol. 129, iss. 8, str. 4863–4883, graf. prikazi. ISSN 0138-9130. https://link.springer.com/article/10.1007/s11192-024-05092-2, DOI: 10.1007/s11192-024-05092-2. [COBISS.SI-ID 216973315], [JCR, SNIP, WoS, Scopus]
