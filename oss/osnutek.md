@@ -1,4 +1,4 @@
-# Informetrična podpora odprte znanosti in njena analiza
+
 # Informetrične analize in podpora odprte znanosti  
 **V pripravi !!!**
 
