@@ -4,6 +4,20 @@
 
 - Vladimir Batagelj  https://cris.cobiss.net/ecris/si/sl/researcher/4275
 - 
+## Vlado
+
+dodatni mednarodni projekti
+
+- Text, functional and other high-dimensional data in econometrics: New models, methods, applications (HiTEc)<br />https://www.cost.eu/actions/CA21163/<br />Start date - 10/10/2022<br />End date - 09/10/2026
+- European Cooperation for Statistics of Network Data Science (COSTNET)
+https://www.cost.eu/actions/CA15109/
+Start date - 11/05/2016
+End date - 10/11/2020
+- Geometric representations and symmetries of graphs, maps and other discrete structures and applications in science (GReGAS)
+http://www.gregas.eu/projects
+Start 2011
+End 2014
+
 
 ## Ana
 se pridružim preko telefona, saj bom ravno na poti iz Izole v Koper.
