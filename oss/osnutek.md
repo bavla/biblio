@@ -7,7 +7,7 @@ Zaradi eksponentne rasti števila znanstvenih del tradicionalni načini znanstve
 
 ## Razvoj hranjenja in posredovanja znanja
 
-Spočetka so ćloveške skupnosti nabirale in prenašale znanje iz roda v rod. Izuma risbe in na njem osnovane pisave (3500-3000 pr.n.š.) sta omogočila "skladiščenje" znanja in njegovo razširjanje v prostoru in času. Evklidovi Elementi predstavljajo prvi znani poizkus povzetja in na logiki temelječe ureditve nakopičenega geometrijskega znanja. Večina znanja sredozemskih in bližnjevzhodnih ljudstev  je bila zbrana v Aleksandrijski knjižnici.
+Spočetka so človeške skupnosti nabirale in prenašale znanje iz roda v rod. Izuma risbe in na njem osnovane pisave (3500-3000 pr.n.š.) sta omogočila "skladiščenje" znanja in njegovo razširjanje v prostoru in času. Evklidovi Elementi predstavljajo prvi znani poizkus povzetja in na logiki temelječe ureditve nakopičenega geometrijskega znanja. Večina znanja sredozemskih in bližnjevzhodnih ljudstev  je bila zbrana v Aleksandrijski knjižnici.
 
 Po propadu Rimskega cesarstva je v Evropi krščanstvo "cenzuriralo" antično  zapuščino. Dobršen del so ga ohranili Arabci in oplemenitili z znanjem Indije in osrednje Azije. Žal so marsikaj od zbranega uničili Mongoli ob zasedbi vzhodnih arabskih dežel (Bagdadska knjižnica).
 
