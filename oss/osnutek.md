@@ -7,33 +7,28 @@ Zaradi eksponentne rasti števila znanstvenih del tradicionalni načini znanstve
 
 ## Razvoj hranjenja in posredovanja znanja
 
-Spočetka so ćloveške skupnosti nabirale in prenašale znanje iz roda v rod. Izuma risbe in na njem osnovane pisave sta omogočila "skladiščenje" znanja in njegovo razširjanje v prostoru in času. Evklidovi Elementi predstavljajo prvi znani poizkus povzetja in na logiki temelječe ureditve nakopičenega geometrijskega znanja. Večina znanja sredozemskih in bližnjevzhodnih ljudstev  je bila zbrana v Aleksandrijski knjižnici.
+Spočetka so ćloveške skupnosti nabirale in prenašale znanje iz roda v rod. Izuma risbe in na njem osnovane pisave (3500-3000 pr.n.š.) sta omogočila "skladiščenje" znanja in njegovo razširjanje v prostoru in času. Evklidovi Elementi predstavljajo prvi znani poizkus povzetja in na logiki temelječe ureditve nakopičenega geometrijskega znanja. Večina znanja sredozemskih in bližnjevzhodnih ljudstev  je bila zbrana v Aleksandrijski knjižnici.
 
-Po propadu Rimskega cesarstva je v Evropi krščanstvo "cenzuriralo" antično  zapuščino. Dobršen del so ga ohranili Arabci in oplemenitili z znanjem Indije in osrednje Azije. Žal so marsikaj od zbranega uničili Mongoli ob zasedbi vzhodnih arabskih dežel (Bagdad).
+Po propadu Rimskega cesarstva je v Evropi krščanstvo "cenzuriralo" antično  zapuščino. Dobršen del so ga ohranili Arabci in oplemenitili z znanjem Indije in osrednje Azije. Žal so marsikaj od zbranega uničili Mongoli ob zasedbi vzhodnih arabskih dežel (Bagdadska knjižnica).
 
 Velik problem pri dostopnosti in obstojnosti nakopičenega znanja je bilo počasno in drago razmnoževanje - prepisi. Zato je zelo pomemben korak v razvoju hranjenja in razširjanja znanja izum tiska (Gutenberg, ~1450). Ta je močno pohitril in pocenil razmnoževanje zapisov in s tem omogočil veliko širšo dostopnost in večjo obstojnost znanja. Začeli so tiskati knjige in druge oblike zapisov (listki, časopisi, itd.). Pojavila so se znanstvena društva, ki so začela izdajati svoje revije (franc, ang). 
 
-V obdobju razsvetljenstva so v Franciji začeli izdajati Enciklopedijo, ki naj bi povzela vse človeško znanje in vedenje. Razširile so se tudi knjižnice in naraščalo je število del. Sčasoma je število del preraslo pomnilne zmožnosti  knjižničarjev. Za pregled v knjižnici zbranih del so pripravili seznam del -  pogosto v knjižni obliki. Težava te rešitve je bil vnos sprememb. Te so dopisovali na ustrezna mesta. 
+V obdobju razsvetljenstva so v Franciji začeli izdajati Enciklopedijo, ki naj bi povzela vse človeško znanje in vedenje. Razširile so se tudi knjižnice in naraščalo je število del. Sčasoma je število del preraslo pomnilne zmožnosti  knjižničarjev. Za pregled v knjižnici zbranih del so pripravili seznam del -  pogosto v knjižni obliki. Težava te rešitve je bil vnos sprememb. Te so dopisovali na ustrezna mesta. Kot ustreznejšo rešitev so začeli uporabljati  kartične kataloge (avtorski, stvarni) - zbirke kartic. Vsaka kartica je  vsebovala podatke o posamičnem delu. Kartice so bile gleda na izbrano urejenost (za hitro iskanje) shranjene v predalčke. Višek tega pristopa predstavlja katalog Mundaneum (Otlet & La Fontaine, Bruselj 1895-1939), ki je vseboval 18 milijonov kartic v 15 tisoč predalčkih s podatki o večini do takrat objavljenih del [WPmund].
 
-Kot ustreznejšo rešitev so začeli uporabljati  kartične kataloge (avtorski, stvarni) - zbirke kartic. Vsaka kartica je  vsebovala podatke o posamičnem delu. Kartice so bile gleda na izbrano urejenost (za hitro iskanje) shranjene v predalčke. Višek tega pristopa predstavlja katalog Mundaneum (Otlet & La Fontaine, Bruselj 1895-1939), ki je vseboval 18 milijonov kartic v 15 tisoč predalčkih s podatki o večini do takrat objavljenih del [WPmund].
-
-V svojem članku "As We May Think" (1945) je Vannevar Bush nakazal rešitev 
+V svojem članku "As We May Think" (1945) je Vannevar Bush nakazal rešitev (takrat temelječo na mikrofilmih)
 > “Consider a future device …  in which an individual stores all his books, records, and communications, and which is mechanized so that it may be consulted with exceeding speed and flexibility. It is an enlarged intimate supplement to his memory.” [AWMT] 
 
 ki se je začela uresničevati v osemdestih letih z osebnimi računalniki.
  
 Razvoj računalnikov se je začel pred drugo svetovno vojno (Zuse). V splošno rabo pa so začeli vstopati v 50. letih. Sprva so bili velike naprave nameščene v računalniških centrih. Njihova zmogljivost je hitro naraščala. V računalnikih so podatki shranjeni v digitalni obliki (zaporedja 0 in 1). Računalniki so združili medije (števila, besedila, (gibljive) slike, zvok, programe, itd.) v eni napravi, omogočili hranjenje in obdelavo velikih količin podatkov. Razmnoževanje podatkov v digitalni obliki je enostavno in poceni.
  
-
-Scientometrija je podpodročje informetrike, ki proučuje kvantitativne vidike znanstvene literature. Medtem ko se je sociologija znanosti osredotočala na vedenje znanstvenikov, se je scientometrija osredotočala na analizo publikacij.
-Sodobna scientometrija večinoma temelji na delu Dereka J. de Solla Pricea (Science since Babylon, 1961; Little Science, Big Science, 1963) in Eugena Garfielda. Slednji je ustanovil Inštitut za znanstvene informacije (Institute for Scientific Information (ISI), 1960; sedaj  Clarivate Analytics) in ustvaril Science Citation Index, ki je pogosto vir podatkov za scientometrične analize. Posebna akademska revija Scientometrics je bila ustanovljena leta 1978.
-Mednarodno združenje za scientometrijo in informetrijo ISSI je bilo ustanovljeno leta 1993 [WPim, WPsp].
-Pretirano zanašanje na scientometrijo pri vrednotenju znanstvenih del je podlaga za načelo "objavljaj ali izgini" ("publish or perish"), ki vodi v raziskave nizke kakovosti. To načelo je ena izmed pojavnih oblik Goodhartovega zakona: Ko mera postane cilj, preneha biti dobra mera [PBP].
-
+Scientometrija je podpodročje informetrike, ki proučuje kvantitativne vidike znanstvene literature. Medtem ko se je sociologija znanosti osredotočala na vedenje znanstvenikov, se je scientometrija osredotočala na analizo objav. Sodobna scientometrija večinoma temelji na delu Dereka J. de Solla Pricea (Science since Babylon, 1961; Little Science, Big Science, 1963) in Eugena Garfielda. Slednji je ustanovil Inštitut za znanstvene informacije (Institute for Scientific Information (ISI), 1960; sedaj  Clarivate Analytics) in ustvaril Science Citation Index, ki je pogosto vir podatkov za scientometrične analize. Posebna akademska revija Scientometrics je bila ustanovljena leta 1978. Mednarodno združenje za scientometrijo in informetrijo ISSI je bilo ustanovljeno leta 1993 [WPim, WPsp].
 
 Informetrija je preučevanje količinskih vidikov informacij. Je razširitev in izpopolnitev tradicionalne bibliometrije in scientometrije. Informetrija uporablja bibliometrične in scientometrične metode za preučevanje predvsem problemov upravljanja informacij o virih ter vrednotenja znanosti in tehnologije [WPim]. Obstaja še več drugih sorodnih področij, ki upoštevajo tudi drugi medije in oblike znanstvenih gradiv (zapiski, poročila, načrti, patenti, primerki, podatki, programi, posnetki, itd.) [iMet]. Odnose med njimi je na spodnji sliki povzel Alexander Doria
 
 <img src="https://github.com/user-attachments/assets/346a2f13-1eb1-407e-b28b-be8abd558167" width="450" />
+
+Pretirano zanašanje na informetrijo pri vrednotenju znanstvenih del je podlaga za načelo "objavljaj ali izgini" ("publish or perish"), ki vodi v raziskave nizke kakovosti. To načelo je ena izmed pojavnih oblik Goodhartovega zakona: Ko mera postane cilj, preneha biti dobra mera [PBP].
 
 Računalnike lahko med seboj tudi podatkovno povežemo. Razvoj povezljivosti se je začel že leta 1970 (ARPANET) v širšo akademsko rabo pa je vstopil v drugi polovice osemdesetih let (MAIL, FTP, Telnet). Splošna povezanost računalnikov se je razmahnila v devetdesetih letih  v obliki spleta (World Wide Web (WWW), Tim Berners-Lee , 1990).
 
