@@ -12,6 +12,21 @@
 - 
 ## Vlado
 
+
+BATAGELJ, Vladimir. Weighted degrees and truncated derived bibliographic networks. Scientometrics. Aug. 2024, vol. 129, iss. 8, str. 4863–4883, graf. prikazi. ISSN 0138-9130. https://link.springer.com/article/10.1007/s11192-024-05092-2, DOI: 10.1007/s11192-024-05092-2. [COBISS.SI-ID 216973315], [JCR, SNIP, WoS, Scopus]
+
+MALTSEVA, Daria, BATAGELJ, Vladimir. iMetrics: the development of the discipline with many names. Scientometrics. Oct. 2020, iss. 1, vol. 125, str. 313-359, ilustr. ISSN 0138-9130. https://link.springer.com/article/10.1007/s11192-020-03604-4, DOI: 10.1007/s11192-020-03604-4. [COBISS.SI-ID 108839171], [JCR, SNIP, WoS do 5. 11. 2024: št. citatov (TC): 12, čistih citatov (CI): 10, čistih citatov na avtorja (CIAu): 5.00, Scopus do 26. 12. 2024: št. citatov (TC): 13, čistih citatov (CI): 11, čistih citatov na avtorja (CIAu): 5.50]
+
+BATAGELJ, Vladimir. On fractional approach to analysis of linked networks. Scientometrics. May 2020, vol. 123, iss. 2, str. 621-633. ISSN 0138-9130. https://doi.org/10.1007/s11192-020-03383-y, DOI: 10.1007/s11192-020-03383-y. [COBISS.SI-ID 18940505]
+
+DOREIAN, Patrick (urednik), BATAGELJ, Vladimir (urednik), FERLIGOJ, Anuška (urednik). Advances in network clustering and blockmodeling. Hoboken (NJ): J. Wiley & Sons, cop. 2020. XVI, 409 str., ilustr. Wiley series in computational and quantitative social science. ISBN 978-1-119-22470-9, ISBN 1-119-22470-5. http://dx.doi.org/10.1002/9781119483298. [COBISS.SI-ID 1538533827]
+
+NOOY, Wouter de, MRVAR, Andrej, BATAGELJ, Vladimir. Exploratory social network analysis with Pajek. 3rd ed., revised and expanded ed. for updated software. Cambridge [etc.]: Cambridge University Press, 2018. XXX, 455 str., ilustr. Structural analysis in the social sciences, 46. ISBN 978-1-108-47414-6, ISBN 978-1-108-46227-3. DOI: 10.1017/9781108565691. [COBISS.SI-ID 2048531987]
+
+BATAGELJ, Vladimir, FERLIGOJ, Anuška, SQUAZZONI, Flaminio. The emergence of a field : a network analysis of research on peer review. Scientometrics. 2017, vol. 113, iss. 1, str. 503-532, ilustr. ISSN 0138-9130. DOI: 10.1007/s11192-017-2522-8. [COBISS.SI-ID 35190621], [JCR, SNIP, WoS do 11. 11. 2024: št. citatov (TC): 53, čistih citatov (CI): 46, čistih citatov na avtorja (CIAu): 15.33, Scopus do 19. 11. 2024: št. citatov (TC): 59, čistih citatov (CI): 52, čistih citatov na avtorja (CIAu): 17.33]
+
+BATAGELJ, Vladimir, CERINŠEK, Monika. On bibliographic networks. Scientometrics. 2013, vol. 96, iss. 3, str. 845-864. ISSN 0138-9130. http://dx.doi.org/10.1007/s11192-012-0940-1. [COBISS.SI-ID 16739929], [JCR, SNIP, WoS do 7. 12. 2024: št. citatov (TC): 120, čistih citatov (CI): 107, čistih citatov na avtorja (CIAu): 53.50, Scopus do 2. 1. 2025: št. citatov (TC): 139, čistih citatov (CI): 125, čistih citatov na avtorja (CIAu): 62.50]
+
 dodatni mednarodni projekti
 
 - Text, functional and other high-dimensional data in econometrics: New models, methods, applications (HiTEc)<br />https://www.cost.eu/actions/CA21163/<br />Start date - 10/10/2022<br />End date - 09/10/2026
