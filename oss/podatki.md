@@ -2,6 +2,12 @@
 
 Digital forms  https://digitalforms.arrs.si/Identity/Account/Login?returnUrl=~/
 
+23.1. Scientific background, problem identification and objective of the proposed research
+23.2. State-of-the-art in the proposed field of research and survey of the relevant literature
+23.3. Detailed description of the work programme
+23.4. Available research equipment over 5.000 €
+23.5. Project management: Detailed implementation plan and timetable
+
 ## Sicris
 
 - Vladimir Batagelj  https://cris.cobiss.net/ecris/si/sl/researcher/4275
