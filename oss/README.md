@@ -1,5 +1,5 @@
 
-<img src="AP2.jpg" width=600>
+<img src="AP2.jpg" width=800>
 
 # Open Science Support
 
