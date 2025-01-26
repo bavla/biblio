@@ -1,12 +1,5 @@
 # Abstract
 
-dopoldne sem se slišala s Katerino Krapež. Je pripravljena sodelovati, je pa danes na poti in se ne bo mogla udeležiti sestanka. Je pa na voljo v ponedeljek med 11:30 in 16:00. Na FIŠ lahko v kratkem času uredijo podpis izjave o sodelovanju.
-
-Jaz se danes lahko pridružim, ampak samo prvih 40 min.
-
-Tu pa je povezava do preglednice vsebinskih prekrivanj med področji klasifikacije ARIS in ERC: https://www.aris-rs.si/sl/progproj/rproj/razpisi/23/1/inc/Preglednica_prekrivanj_ARIS_ERC.xlsx
-
-V okviru ERC sta za nas relevantni naravoslovni področji PE1 Matematika in PE6 Računalništvo in informatika (obema je skupna povezava z ARIS področjem 1.07 Računsko intenzivne metode), od družboslovnih pa SH2 Institucije, upravljanje in pravni sistemi (ARIS 5.05 pravo) in SH5 Kulture in kulturna produkcija (ARIS 5.03 Sociologija in 5.14 Informacijska znanost in bibliotekarstvo).
 
 ## Abstract
 
