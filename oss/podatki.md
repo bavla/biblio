@@ -64,3 +64,12 @@ BANGERT, Daniel, DAVIDSON, Joy, DIGGS, Steve, GROOTVELD, Marjan, MUFTIĆ, Sanjin
 - KRAPEŽ, Katarina. Editors' responsibility for publishing high-quality research results : a worldwide study into current challenges in quality assessment processes. Lexonomica : revija za pravo in ekonomijo. [Tiskana izd.]. 2022, vol. 14, no. 1, str. 127-152, ilustr. ISSN 1855-7147. https://journals.um.si/index.php/lexonomica/article/view/2051/1752, Digitalna knjižnica Slovenije - dLib.si, DOI: 10.18690/lexonomica.14.1.127-152.2022. [COBISS.SI-ID 112635395]
 - KRAPEŽ, Katarina. Advancing self-evaluative and self-regulatory mechanisms of scholarly journals : editors’ perspectives on what needs to be improved in the editorial process. Publications / MDPI. [Online ed.]. 2022, vol. 10, iss. 1, str. 1-18, ilustr. ISSN 2304-6775. https://mdpi-res.com/d_attachment/publications/publications-10-00012/article_deploy/publications-10-00012.pdf, DOI: 10.3390/publications10010012. [COBISS.SI-ID 103145219]
 
+### Mail
+
+dopoldne sem se slišala s Katerino Krapež. Je pripravljena sodelovati, je pa danes na poti in se ne bo mogla udeležiti sestanka. Je pa na voljo v ponedeljek med 11:30 in 16:00. Na FIŠ lahko v kratkem času uredijo podpis izjave o sodelovanju.
+
+Jaz se danes lahko pridružim, ampak samo prvih 40 min.
+
+Tu pa je povezava do preglednice vsebinskih prekrivanj med področji klasifikacije ARIS in ERC: https://www.aris-rs.si/sl/progproj/rproj/razpisi/23/1/inc/Preglednica_prekrivanj_ARIS_ERC.xlsx
+
+V okviru ERC sta za nas relevantni naravoslovni področji PE1 Matematika in PE6 Računalništvo in informatika (obema je skupna povezava z ARIS področjem 1.07 Računsko intenzivne metode), od družboslovnih pa SH2 Institucije, upravljanje in pravni sistemi (ARIS 5.05 pravo) in SH5 Kulture in kulturna produkcija (ARIS 5.03 Sociologija in 5.14 Informacijska znanost in bibliotekarstvo).
