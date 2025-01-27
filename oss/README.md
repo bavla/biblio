@@ -5,7 +5,7 @@
 
   - [Razpis 2025](https://www.aris-rs.si/sl/progproj/rproj/razpisi/24/razp-proj-25.asp); [sprememba](https://www.aris-rs.si/sl/progproj/rproj/razpisi/25/razp-proj-25_sprem.asp)
   - [Projec description](project.pdf)
-  - [Application form]("ARRS Digital Forms.pdf")
+  - <a href="./ARRS Digital Forms.pdf">Application form</a>
   - [Podatki](podatki.md)
   - [Viri](viri.md)  - 
   - [Zapiski](zapiski.md)
