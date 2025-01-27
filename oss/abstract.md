@@ -9,8 +9,6 @@ The main goal of our research is to develop tools for support and analysis of im
 
 In particular, we observe that the ignorance of Goodhart's Law may have grave consequences in the field of scienific publishing.  
 
-----
-
 To this end we will study existing- and develop novel models for explaining Goodhart's Law. These models will help us detect and predict anamalous behaviour such as gaming of various stakeholders in the publishing process.
 
 The weakest point of OS seems to be the article processing charges (APC) mechanism with vouchers since it is prone to unethical behaviour of several stackholders. We plan to develop tools for automatic detectiton of suspicious players in such models.
