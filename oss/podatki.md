@@ -1,6 +1,5 @@
 # Podatki
 
-Digital forms  https://digitalforms.arrs.si/Identity/Account/Login?returnUrl=~/
 
 ## Mail 27.1.2025
 
