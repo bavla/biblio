@@ -73,3 +73,65 @@ Jaz se danes lahko pridružim, ampak samo prvih 40 min.
 Tu pa je povezava do preglednice vsebinskih prekrivanj med področji klasifikacije ARIS in ERC: https://www.aris-rs.si/sl/progproj/rproj/razpisi/23/1/inc/Preglednica_prekrivanj_ARIS_ERC.xlsx
 
 V okviru ERC sta za nas relevantni naravoslovni področji PE1 Matematika in PE6 Računalništvo in informatika (obema je skupna povezava z ARIS področjem 1.07 Računsko intenzivne metode), od družboslovnih pa SH2 Institucije, upravljanje in pravni sistemi (ARIS 5.05 pravo) in SH5 Kulture in kulturna produkcija (ARIS 5.03 Sociologija in 5.14 Informacijska znanost in bibliotekarstvo).
+
+## Ostanki
+
+
+OA analyses (Ana's list)
+
+- How does the data on publications (and OA) between OpenAlex and COBISS match? How could the quality of both sources be improved? What types of data are missing?
+
+- Is the share of publications in OA increasing and how fast? Are there differences between different research fields and organizations (according to type, size, and other characteristics, if available)?
+
+- How is the volume of different types of OA (diamond, gold, green) increasing and are there any differences between research fields or organizations?
+
+- What are the costs of publications in gold access? How do the costs differ between different research fields and organizations? (Data on APC are available via publishers' websites, e.g. for Elsevier at this link: \href{https://assets.ctfassets.net/o78em1y1w4i4/5ZH2ckERsr69JYpnMue94T/d5bd104ae8483ff0b6f641c8dc3fb574/article-publishing-charge.xlsx}{APC}
+
+- How are different types of open access related to the quality of publications according to selected quality indicators?
+
+- Is it possible to link publications in repositories (in COBISS category 2.20) to data publications? What is the proportion of publications that cite databases?
+
+
+local OpenAlex; creation of software support - KajDogaja? use in lectures from databases (UP)
+inclusion of these contents in the course of network analysis in the study of statistics (UL)
+
+ Development of software for bibliographic analysis and services
+
+- development and software support of methods for bibliometric analyses and services
+
+- further development of methods based on bibliometric networks and higher-level bibliographic services
+
+The emergence of unethical publications and mechanisms for their elimination.
+
+- possible implicit and explicit measures of article quality; Goodhart
+
+- open publishing (PRC, study, monitoring and involvement in developments, AMC support for editors, ethical issues)
+
+- overview of theoretical starting points and websites for experiments with the PRC approach (publish, review, curate); attempt to establish cooperation with the selected one(s).
+
+
+
+ trial use in AMC, ... standards ... OpenAlex, ArXiv, ...
+
+\subsubsection*{Expected results}
+
+Expected results Goodhart
+
+- Article based on the paper at IS 2024
+
+- Article on the statistical-theoretical foundations of Goodhart's law
+
+- Contributions to IS 2025,2026,2027
+
+- Article on the results of surveys
+
+- Article on determining potential predators.
+
+- Article on improving classifications
+
+- Contribution to Open Science Days 2026 and 2027 and to the Applied Statistics 2027 conference
+
+- Published research data in the FAIR repository
+
+
+
