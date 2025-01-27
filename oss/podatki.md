@@ -2,11 +2,20 @@
 
 Digital forms  https://digitalforms.arrs.si/Identity/Account/Login?returnUrl=~/
 
-23.1. Scientific background, problem identification and objective of the proposed research<br />
-23.2. State-of-the-art in the proposed field of research and survey of the relevant literature<br />
-23.3. Detailed description of the work programme<br />
-23.4. Available research equipment over 5.000 €<br />
-23.5. Project management: Detailed implementation plan and timetable
+## Mail
+
+Posnetek klepeta sem postavil na klepet27jan25.mp4 .
+
+Na https://github.com/bavla/biblio/blob/master/oss/ARRS%20Digital%20Forms.pdf je zadnja različica prijavnega obrazca.
+Izpiliti je potrebno še 9. Povzetek. Preverite, če kaj manjka, kar se vam zdi pomembno. Poleg tega preverite ali kaj manjka v 20. Dosežki.
+Dokončati je potrebno točko 25. Dopolnitev predloga. Tomo pripravi vsebino za točko 26. Pomen za razvoj. Razporeditev ur je v dodatku (zadnji strani).
+
+Opis projekta je na https://github.com/bavla/biblio/blob/master/oss/project.pdf . Prosim za pripombe na besedilo. Dokončno je potrebno razdelati WP-je (razdelek 23.3) - preverite ali so vključene vsebine, ki vas zanimajo. Dodajte še kako svojo referenco in stavek s sklicem nanjo. Pri posameznem WP-ju sta napisani imeni, ki naj pripravita končno različico besedila WP-ja.
+Točki 23.4 in 23.5 sem prestavil iz prijave projekta, ki ga trenutno izvajamo. Bi kdo kaj spremenil? Za časovnico smo imeli le dva stavka. Dodal sem še Ganttov diagram iz ene od različic.
+
+Prosil bi, da mi svoje prispevke pošljete do jutri (torek) do polnoči, da pripravim skoraj-končno različico za sredin klepet. 
+Ponovno se vidimo na Zoomu v sredo ob 15h.
+
 
 ## Sicris
 
