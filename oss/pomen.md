@@ -8,7 +8,7 @@ Bibliografska baza OpenAlex se po obsegu lahko kosa z največjimi bibliografskim
 
 Znano je, da se povsod, kjer prihaja do odločitev na podlagi rangiranja, lahko pojavijo anomalije in odprta znanost ni nobena izjema. To najbolje pojasnjuje Goodhartov zakon. Del našega projekta je namenjen tako teoretičnim osnovam kakor tudi praktičnim aplikacijam Goodhartovega zakona v odprti znanosti. Naša prizadevanja, da bi osveščali deležnike o škodljivosti ignoriranja Goodhartovega zakona ima velik pomen za razvoj odprte znanosti.
 
-Pomemben aspekt našega projekta je tudi pridobivanje povratnih informacij.V ta namen bomo izvedli ankete s katerimi bomo pridobili informacije, kako v praksi poteka prehod v odprto znanost. Tudi s tem bo mogoče izvesti pri vpeljavi odprte znanosti potrebne korekcije. Zato tudi ankete dajejo našemu projekti izjemen pomen za razvoj znanosti.
+Pomemben aspekt našega projekta je tudi pridobivanje povratnih informacij. V ta namen bomo izvedli ankete s katerimi bomo pridobili informacije, kako v praksi poteka prehod v odprto znanost. Tudi s tem bo mogoče izvesti pri vpeljavi odprte znanosti potrebne korekcije. Zato tudi ankete dajejo našemu projekti izjemen pomen za razvoj znanosti.
 
 
 
