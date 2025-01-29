@@ -87,6 +87,13 @@ Tu pa je povezava do preglednice vsebinskih prekrivanj med področji klasifikaci
 
 V okviru ERC sta za nas relevantni naravoslovni področji PE1 Matematika in PE6 Računalništvo in informatika (obema je skupna povezava z ARIS področjem 1.07 Računsko intenzivne metode), od družboslovnih pa SH2 Institucije, upravljanje in pravni sistemi (ARIS 5.05 pravo) in SH5 Kulture in kulturna produkcija (ARIS 5.03 Sociologija in 5.14 Informacijska znanost in bibliotekarstvo).
 
+### Katarina -> Ana
+
+Ana, pod T2 - bi vključili tudi monografije? Vljučitev zbirk podatkov ("data publications") se mi zdi odlična ideja. 
+
+Pod T4.3 in 4.4. (zlasti 4.4.): poleg vprašanja o adoption of OS in attitudes towards OS se mi zdi bistveno izpostaviti tudi vprašanje odnosa do komercialne naravnanosti založnikov (pri raziskovalcih) in, pri urednikih, vprašanje, do kolikšne mere so uredniki podprti pri svojem delu (glede na to, ali sodelujejo z revijo komercialnega ali nekomercialnega založnika, ki ponuja odprti dostop). Odprto publiciranje je na trgu povsem prepleteno z tematiko stroškov (APC-jev), torej kdo in kako bo plačal odprt dostop in ali imajo uredniki, ki delajo pri nekomercialnih založnikih, sploh kaj podpore pri svojem delu, kar pripelje nazaj do investicij založnika v storitve, ki jih nudi svoji uredniški ekipi in investicij založnika v informacijsko podporo.
+
+
 ## Ostanki
 
 
