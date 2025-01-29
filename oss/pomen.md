@@ -11,7 +11,7 @@ Znano je, da se povsod, kjer prihaja do odločitev na podlagi rangiranja, lahko 
 Pomemben vidik našega projekta je tudi pridobivanje povratnih informacij. V ta namen bomo izvedli ankete s katerimi bomo pridobili informacije, kako v praksi poteka prehod v odprto znanost. Tudi s tem bo mogoče izvesti pri vpeljavi odprte znanosti potrebne popravke. Zato tudi ankete dajejo našemu projektu izjemen pomen za razvoj znanosti.
 
 
-# Significance for the development of science or the profession
+# Relevance to the development of science or a scientific field
 
 The accelerated transition to open science is intensifying the problems that we have noticed during the transition from classic, paper publications to electronic ones. The number of publications per year is still growing exponentially, or is at the point where exponential growth turns into logistic. Therefore, managing numerous publications without modern bibliometric or informetric approaches is practically impossible. On the other hand, among research publications, their authors, reviewers, editors, publishers, etc., there is a relatively large proportion of those who use unethical practices to achieve their goals. Open science expands the network of permanently stored publications by also including the publication of used methods, methodologies and tools and the storage of input and output data in repositories. By making the entire research process open, an attempt is made to achieve reproducibility of results, which enables validation of the research. At the same time, open science encourages the reusability of research methods, tools and data, which enables upgrading of existing approaches and accelerates further research in the chosen field.
 
