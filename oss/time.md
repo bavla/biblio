@@ -1,5 +1,14 @@
 # Timeline
 
+## WP 2
+
+Tukaj so podatki o WP2.
+
+  - M2.1.1 local-OpenAlex (after 6 months) Local copy of the OpenAlex data providing basic access.
+  - M2.2.1 analysis-tool  (after 1st year) Data processing environment for analyzing OpenAlex data.
+  - M2.3.1 knowledge-graph (after 2nd year) KG implemented in RDF with the translation from the JSON representation.
+  - M2.3.2 final-KG (end of project) KG including higher levels of ontology and merged with DBpedia.
+
 ## WP 3
 
 T3.1. Theoretical development
