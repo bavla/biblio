@@ -1,5 +1,10 @@
 # Podatki
 
+- prijava zgleda mora biti tudi v slovenščini
+- pregled stanja prijave - WPji in 23.4, 23.5
+- soglasja
+- obrazec - pomen, slovenski daljši povzetek
+- oddaja
 
 ## Mail 27.1.2025
 
