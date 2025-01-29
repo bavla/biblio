@@ -3,9 +3,9 @@
 
 
 T2.1. OpenAlex
-  - M2.1.1 Local copy of the OpenAlex data providing basic access (1-6).
+  - M2.1.1 Local copy of the OpenAlex data providing basic access (1-6).<br />
 T2.2. Development of OpenAlex usage support
-  - M2.2.1 Development of data processing environment for analyzing OpenAlex data (7-36).
+  - M2.2.1 Development of data processing environment for analyzing OpenAlex data (7-36).<br />
 T2.3. Compilation of bibliographic data
   - M2.3.1 Building KG implemented in RDF with the translation from the JSON representation (12-30).
   - M2.3.2 Final KG including higher levels of ontology and merged with DBpedia (31-36).
@@ -13,11 +13,11 @@ T2.3. Compilation of bibliographic data
 T3.1. Theoretical development
   - M3.1.1. Work on detection of non-ethical practices (1-36).
   - M3.1.2. Providing theoretical support for other WPs (7-36).
-  - M3.1.3. Work on informetric network analysis algorithms (1-36). 
+  - M3.1.3. Work on informetric network analysis algorithms (1-36).<br /> 
 T3.2. Open publishing and PRC support
   - M3.2.1. Review of open publishing practices, standards and measuring (1-12).
   - M3.2.2. Review of non-ethical practices (1-12).
-  - M3.2.3. Development and implementation of algorithms for M3.2.1. and M3.2.2. (13-36).
+  - M3.2.3. Development and implementation of algorithms for M3.2.1. and M3.2.2. (13-36).<br />
 T3.3. Application of developed methods for other WPs (7-36).
 
 The results of reviews will be published in Slovenian professional journals and presented at seminars. Each year we expect to publish at least one scientific paper and present our results on at least one international conference.
