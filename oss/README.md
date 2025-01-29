@@ -7,6 +7,7 @@
   - [Digital forms](https://digitalforms.arrs.si/Identity/Account/Login?returnUrl=~/)
   - [Project description](project.pdf)
   - <a href="./ARRS Digital Forms.pdf">Application form</a>
+  - [Pomen](pomen.md)
   - [Podatki](podatki.md)
   - [Viri](viri.md) 
   - [Zapiski](zapiski.md)
