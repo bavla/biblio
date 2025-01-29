@@ -30,19 +30,19 @@ The results of reviews will be published in Slovenian professional journals and 
 
 
 T5.1. State of scientific publishing in Slovenia
-  - M5.1.1. Completing the data collection of stratified APC (1 year)
-  - M5.1.2. Completing the analysis (+1year)
-  - M5.1.3. Compiling and publishing Recommendations (+1 year)
+  - M5.1.1. Completing the data collection of stratified APC (1-12).
+  - M5.1.2. Completing the analysis (13-18).
+  - M5.1.3. Compiling and publishing Recommendations (19-30).
 
 T5.2. Problems in publishing
-  - M5.2.1. Delivering a presentation on the Goodhart Law on a conference.(1 year)
-  - M5.2.2. Submitting a scientific paper on the Goodhart Law (+ 1 year)
-  - M5.2.3. Completing an algorithm for detecting anomalies in scientific publications (+1 year)
+  - M5.2.1. Delivering a presentation on the Goodhart Law on a conference.(1-12).
+  - M5.2.2. Submitting a scientific paper on the Goodhart Law (13-24).
+  - M5.2.3. Completing a collection of algorithms for detecting anomalies in scientific publications (13-36).
 
 T5.3. Open publishing
-  - M5.3.1. Delivering a presentation on PRC models. (1 year)
-  - M5.3.2. Submitting a scientific paper on PRC models (+1 year)
-  - M5.3.3. Delivering a report on tests performed on AMC and ADAM (+1 year)
+  - M5.3.1. Delivering a presentation on PRC models. (1-12).
+  - M5.3.2. Submitting a scientific paper on PRC models (13-24).
+  - M5.3.3. Delivering a report on tests performed on AMC and ADAM (13-36).
 
 Opombe: 
   1. V T5.3. bi poleg AMC dodal še ADAM (The Art of Discrete and Applied Mathematics) 
