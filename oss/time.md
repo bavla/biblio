@@ -26,8 +26,21 @@ T3.3. Application of developed methods for other WPs (7-36).
 
 The results of reviews will be published in Slovenian professional journals and presented at seminars. Each year we expect to publish at least one scientific paper and present our results on at least one international conference.
 
+T4.1 Overview of the State of Open Science in Slovenia
+- M4.1.1 Review of policies (1-6)
 
+T4.2 Support and Monitoring of Open Science in Slovenia
+- M4.2.1 Analysis report and identification of case studies for T4.3 and T4.4 (6-12)
 
+T4.3 Survey on Scientific Publishers
+- M4.3.1 Review of previous research on publishers and questionnaire developoment (6-12)
+- M4.3.2 Data collection and preparation (12-18)
+- M4 3.3 Data analysis and repoting (18-24)
+
+T4.4 Survey on the Uptake of Open Science Practices and Attitudes Among Researchers
+- M4.3.1 Review of previous research on publishers and questionnaire developoment (12-18)
+- M4.3.2 Data collection and preparation (18-24)
+- M4 3.3 Data analysis and repoting (24-30)
 
 T5.1. State of scientific publishing in Slovenia
   - M5.1.1. Completing the data collection of stratified APC (1-12).
