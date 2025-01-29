@@ -29,17 +29,17 @@ The results of reviews will be published in Slovenian professional journals and 
 
 
 
-T5.1.
+T5.1. State of scientific publishing in Slovenia
   - M5.1.1. Completing the data collection of stratified APC (1 year)
   - M5.1.2. Completing the analysis (+1year)
   - M5.1.3. Compiling and publishing Recommendations (+1 year)
 
-T5.2.
+T5.2. Problems in publishing
   - M5.2.1. Delivering a presentation on the Goodhart Law on a conference.(1 year)
   - M5.2.2. Submitting a scientific paper on the Goodhart Law (+ 1 year)
   - M5.2.3. Completing an algorithm for detecting anomalies in scientific publications (+1 year)
 
-T5.3.
+T5.3. Open publishing
   - M5.3.1. Delivering a presentation on PRC models. (1 year)
   - M5.3.2. Submitting a scientific paper on PRC models (+1 year)
   - M5.3.3. Delivering a report on tests performed on AMC and ADAM (+1 year)
