@@ -1,5 +1,20 @@
 # Timeline
 
+## WP 3
+
+T3.1. Theoretical development
+  - M3.1.1. Work on detection of non-ethical practices (years 0-3)
+  - M3.1.2. Providing theoretical support for other WPs (year 0.5-3)
+  - M3.1.3. Work on informetric network analysis algorithms  (years 0-3)
+  
+T3.2. Open publishing and PRC support
+  - M3.2.1. Review of open publishing practices, standards and measuring (years 0-1)
+  - M3.2.2. Review of non-ethical practices (years 0-1)
+  - M3.2.3. Development and implementation of algorithms for M3.2.1. and M3.2.2. (years 1-3)
+  
+T3.3. Application of developed methods for other WPs (years 1-3)
+
+The results of reviews will be published in Slovenian professional journals and presented at seminars. Each year we expect to publish at least one scientific paper and present our results on at least one international conference.
 
 
 ## WP 5
