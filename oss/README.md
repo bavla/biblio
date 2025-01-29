@@ -8,7 +8,7 @@
   - [Project description](project.pdf)
   - <a href="./ARRS Digital Forms.pdf">Application form</a>
   - [Podatki](podatki.md)
-  - [Viri](viri.md)  - 
+  - [Viri](viri.md) 
   - [Zapiski](zapiski.md)
     
 URLji v datotekah PDF so aktivni, če jih prenesete na svoj računalnik. GitHubov prikazovalnik jih ne sproži.  
