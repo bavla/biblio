@@ -30,17 +30,17 @@ T4.1 Overview of the State of Open Science in Slovenia
 - M4.1.1 Review of policies (1-6)
 
 T4.2 Support and Monitoring of Open Science in Slovenia
-- M4.2.1 Analysis report and identification of case studies for T4.3 and T4.4 (6-12)
+- M4.2.1 Analysis report and identification of case studies for T4.3 and T4.4 (7-12)
 
 T4.3 Survey on Scientific Publishers
-- M4.3.1 Review of previous research on publishers and questionnaire developoment (6-12)
-- M4.3.2 Data collection and preparation (12-18)
-- M4 3.3 Data analysis and repoting (18-24)
+- M4.3.1 Review of previous research on publishers and questionnaire developoment (7-12)
+- M4.3.2 Data collection and preparation (13-18)
+- M4 3.3 Data analysis and repoting (19-24)
 
 T4.4 Survey on the Uptake of Open Science Practices and Attitudes Among Researchers
-- M4.3.1 Review of previous research on publishers and questionnaire developoment (12-18)
+- M4.3.1 Review of previous research on publishers and questionnaire developoment (13-18)
 - M4.3.2 Data collection and preparation (18-24)
-- M4 3.3 Data analysis and repoting (24-30)
+- M4 3.3 Data analysis and repoting (25-30)
 
 T5.1. State of scientific publishing in Slovenia
   - M5.1.1. Completing the data collection of stratified APC (1-12).
