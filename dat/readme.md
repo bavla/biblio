@@ -8,5 +8,8 @@
 1. [Sandi](https://github.com/bavla/biblio/tree/master/dat/sandi) - authorship network
 1. [Peere](https://github.com/bavla/biblio/tree/master/dat/peere) - networks on peer-review
 
+<hr>
+
+[Network data sets](https://github.com/bavla/Nets/tree/master/data/README.md)
 
 
