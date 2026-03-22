@@ -66,3 +66,9 @@ izhaja iz potreb izbranih končnih uporabnikov (študentov, upravljalcev revij, 
 znanstvenikov na določenih področjih itd.)
 
 [Podrobni opis projekta v angleščini](http://vladowiki.fmf.uni-lj.si/lib/exe/fetch.php?media=vlado:proj:j5-4596:docs:vsebina_projekta_eng.pdf)
+
+## Spremembe
+
+## Rezultati
+
+[Publications](.pub.md)
