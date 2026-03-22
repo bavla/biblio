@@ -71,4 +71,4 @@ znanstvenikov na določenih področjih itd.)
 
 ## Rezultati
 
-[Publications](.pub.md)
+[Publications](pub.md)
