@@ -1,19 +1,20 @@
 # Publications
 
-  - Batagelj, Vladimir. "Cores in multiway networks." Social Network Analysis and Mining 14, no. 1 (2024): 122.
-  - Batagelj, Vladimir. "On weighted two-mode network projections." Scientometrics 129, no. 6 (2024): 3565-3571.
-  - Batagelj, Vladimir. "Weighted degrees and truncated derived bibliographic networks." Scientometrics 129, no. 8 (2024): 4863-4883.
-  - Maltseva, Daria, and Vladimir Batagelj. "Citation and bibliographic coupling between authors in the field of social network analysis." Journal of Data and Information Science 9, no. 4 (2024): 110-154.
-  - Verde, Rosanna, Vladimir Batagelj, Paula Brito, A. Pedro Duarte Silva, Simona Korenjak-Černe, Jasminka Dobša, and Edwin Diday. "New skills in symbolic data analysis for official statistics." Statistical Journal of the IAOS 40, no. 3 (2024): 563-579.
+  - Batagelj, Vladimir. "Cores in multiway networks." Social Network Analysis and Mining 14, no. 1 (2024): 122. [COBISS.SI-ID 217014531]
+  - Batagelj, Vladimir. "On weighted two-mode network projections." Scientometrics 129, no. 6 (2024): 3565-3571. [COBISS.SI-ID 216955651]
+  - Batagelj, Vladimir. "Weighted degrees and truncated derived bibliographic networks." Scientometrics 129, no. 8 (2024): 4863-4883.  [COBISS.SI-ID 216973315]
+  - Maltseva, Daria, and Vladimir Batagelj. "Citation and bibliographic coupling between authors in the field of social network analysis." Journal of Data and Information Science 9, no. 4 (2024): 110-154.  [COBISS.SI-ID 217252611]
+  - Verde, Rosanna, Vladimir Batagelj, Paula Brito, A. Pedro Duarte Silva, Simona Korenjak-Černe, Jasminka Dobša, and Edwin Diday. "New skills in symbolic data analysis for official statistics." Statistical Journal of the IAOS 40, no. 3 (2024): 563-579.  [COBISS.SI-ID 206800899]
   - Batagelj, Vladimir, Jan Pisanski, and Tomaž Pisanski. "Higher-Order Bibliographic Services based on bibliographic networks." IS2024-SIKDD_2024, Ljubljana, October 7 2024, IJS (2024): 27-30.
   - Pisanski, Jan. The consistency of the research field data : a case study of library and information science in Slovenia. V: Slana Ozimič, Anka (ur.), et al. Kognitivna znanost:Informacijska družba, IS 2024 : zbornik 27. mednarodne multikonference: zvezek B : 10.oktober 2024, Ljubljana, Slovenia. Ljubljana: Institut "Jožef Stefan", 2024. Str. 24-26 [COBISS.SI-ID 225007619]
   - Pisanski, Tomaž, Vladimir Batagelj, and Jan Pisanski. "Open Science and Goodhart’s Law." IS2024-Cognitive Science, Ljubljana, October 11 2024, (2024): 20-23
+  - Ferligoj, Anuška, Batagelj, Vladimir. Analiza podatkov projekta Zvezoskop. Oštro. 21. feb. 2024, 1 spletni vir, ISSN 2670-7594. https://www.ostro.si/si/zgodbe/analiza-podatkov-projekta-zvezoskop. [COBISS.SI-ID 186331907]
   - Batagelj, V., Ferligoj, A., Doreian, P.: Network clustering. ID (stat08434). DOI: 10.1002/9781118445112.stat08434. Wiley StatsRef-Statistics Reference Online (2024).
   - Doreian, P., Ferligoj, A., Batagelj, V. Blockmodeling, positions and roles. V: Mclevey, John (ur.), Scott, John (ur.), Carrington, Peter J. (ur.). The Sage handbook of social network analysis. 2nd ed. London [etc.]: Sage, cop. 2024. Str. 404-416, ilustr. ISBN 978-1-5297-7961-5. [COBISS.SI-ID 182243075]
   - Batagelj, Vladimir. "OpenAlex2Pajek--an R Package for converting OpenAlex bibliographic data into Pajek networks." COLLNET 2024, Strasbourg, December 12-14. In Jain, Praveen Kumar (ed.), et al. Innovations in webometrics, informetrics, and scientometrics: AI-driven approaches and insights. Delhi: Bookwell, cop. (2025): 66--77. ISBN 978-93-86578-65-5. arXiv preprint arXiv:2501.06656.
   - Batagelj, Vladimir, Tomaž Pisanski, Iztok Savnik, Ana Slavec, and Nino Bašić. "Towards a Format for Describing Networks." 28th international multiconference IS 2025 6.-10. October 2025, Ljubljana, Slovenia; SiKDD 2025 Proceedings, pages 102-105 (2025).
-  - Ferligoj, Anuška, Vladimir Batagelj, Marjan Cugmas, and Franc Mali. "Bridging borders or widening gaps? The dynamics of European scientific collaboration networks." Scientometrics 130, no. 12 (2025): 7005-7030.
-  - Batagelj, Vladimir. "Bibliometric analysis of a scientific journal based on OpenAlex data." Advances in Methodology and Statistics 22, no. 2 (2025): 31-50.
+  - Ferligoj, Anuška, Vladimir Batagelj, Marjan Cugmas, and Franc Mali. "Bridging borders or widening gaps? The dynamics of European scientific collaboration networks." Scientometrics 130, no. 12 (2025): 7005-7030. [COBISS.SI-ID 260663299]
+  - Batagelj, Vladimir. "Bibliometric analysis of a scientific journal based on OpenAlex data." Advances in Methodology and Statistics 22, no. 2 (2025): 31-50. [COBISS.SI-ID 272388867]
   - Matveeva, Nataliya, Vladimir Batagelj, "Structures of Authors’ Collaboration at Young Universities". In Shushanik Sargsyan, Wolfgang Glänzel, Giovanni Abramo (eds.): Proceedings of 20th International Conference on Scientometrics & Informetrics - ISSI 2025, 23–27 June 2025, Yerevan, Armenia. Volume II (2025): 1630-1653.
   - Bašić, Nino, Gévay, Gábor, Pisanski, Tomaž. The Möbius–Kantor graph is a faithful unit-distance graph. The art of discrete and applied mathematics. 2025, vol. , no. , str. 1-6 [COBISS.SI-ID 258543107]
   - Berman, Leah, Gévay, Gábor, Pisanski, Tomaž. Polycyclic geometric realizations of the Gray configuration. The Australasian journal of combinatorics. 2025, vol. 93, pt. 1, str. 171-197 [COBISS.SI-ID 250814979]
