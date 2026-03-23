@@ -1,9 +1,9 @@
 # Publications
 
-  - Batagelj, Vladimir. "Cores in multiway networks." Social Network Analysis and Mining 14, no. 1 (2024): 122. [COBISS.SI-ID 217014531]
-  - Batagelj, Vladimir. "On weighted two-mode network projections." Scientometrics 129, no. 6 (2024): 3565-3571. [COBISS.SI-ID 216955651]
-  - Batagelj, Vladimir. "Weighted degrees and truncated derived bibliographic networks." Scientometrics 129, no. 8 (2024): 4863-4883.  [COBISS.SI-ID 216973315]
-  - Maltseva, Daria, and Vladimir Batagelj. "Citation and bibliographic coupling between authors in the field of social network analysis." Journal of Data and Information Science 9, no. 4 (2024): 110-154.  [COBISS.SI-ID 217252611]
+  1. Batagelj, Vladimir. "Cores in multiway networks." Social Network Analysis and Mining 14, no. 1 (2024): 122. [COBISS.SI-ID 217014531]
+  1. Batagelj, Vladimir. "On weighted two-mode network projections." Scientometrics 129, no. 6 (2024): 3565-3571. [COBISS.SI-ID 216955651]
+  1. Batagelj, Vladimir. "Weighted degrees and truncated derived bibliographic networks." Scientometrics 129, no. 8 (2024): 4863-4883.  [COBISS.SI-ID 216973315]
+  1. Maltseva, Daria, and Vladimir Batagelj. "Citation and bibliographic coupling between authors in the field of social network analysis." Journal of Data and Information Science 9, no. 4 (2024): 110-154.  [COBISS.SI-ID 217252611]
   - Verde, Rosanna, Vladimir Batagelj, Paula Brito, A. Pedro Duarte Silva, Simona Korenjak-Černe, Jasminka Dobša, and Edwin Diday. "New skills in symbolic data analysis for official statistics." Statistical Journal of the IAOS 40, no. 3 (2024): 563-579.  [COBISS.SI-ID 206800899]
   - Batagelj, Vladimir, Jan Pisanski, and Tomaž Pisanski. "Higher-Order Bibliographic Services based on bibliographic networks." IS2024-SIKDD_2024, Ljubljana, October 7 2024, IJS (2024): 27-30. [COBISS.SI-ID 217039619]
   - Pisanski, Jan. The consistency of the research field data : a case study of library and information science in Slovenia. V: Slana Ozimič, Anka (ur.), et al. Kognitivna znanost:Informacijska družba, IS 2024 : zbornik 27. mednarodne multikonference: zvezek B : 10.oktober 2024, Ljubljana, Slovenia. Ljubljana: Institut "Jožef Stefan", 2024. Str. 24-26 [COBISS.SI-ID 225007619]
