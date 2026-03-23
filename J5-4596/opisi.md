@@ -3,7 +3,11 @@
 
 Projektna spletna stran [https://github.com/bavla/biblio/blob/master/J5-4596/README.md](https://github.com/bavla/biblio/blob/master/J5-4596/README.md)
 
-O delu na projektu smo poročali na [Sredinem seminarju](https://www.fmf.uni-lj.si/sl/obvestila/agregator/152/seminar-sreda/). Naslednji seminarji se ukvarjajo s temami projekta J5-4596
+
+## WP1. Project management, coordination and dissemination
+
+### T1.1 – Coordination.
+O delu na projektu smo poročali in dogovarjali na [Sredinem seminarju](https://www.fmf.uni-lj.si/sl/obvestila/agregator/152/seminar-sreda/). Naslednji seminarji se ukvarjajo s temami projekta J5-4596
 
   * 2022: 1327, 1329, 1331, 1332;
   * 2023: 1333, 1336, 1337, 1338, 1339, 1340, 1341;
@@ -11,12 +15,6 @@ O delu na projektu smo poročali na [Sredinem seminarju](https://www.fmf.uni-lj.
   * 2025: 1358, 1359, 1363,	1365, 1366, 1367, 1369, 1371, 1375;
   * 2026: 1377, 1379.
 
-
-## WP1. Project management, coordination and dissemination
-
-### T1.1 – Coordination.
-There are 3 partners in the project which have already established
-long-term cooperation. We will monitor the work on the project on monthly seminars.
 
 ### T1.2 – Reporting. 
 Done on a yearly basis, as required by the financer (SRA/ARRS). Principal
