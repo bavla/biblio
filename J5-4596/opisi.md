@@ -1,8 +1,7 @@
 # Opisi
 
 
-Projektna spletna stran
-[https://github.com/bavla/biblio/blob/master/J5-4596](https://github.com/bavla/biblio/blob/master/J5-4596)
+Projektna spletna stran [https://github.com/bavla/biblio/blob/master/J5-4596/README.md](https://github.com/bavla/biblio/blob/master/J5-4596/README.md)
 
 O delu na projektu smo poročali na [Sredinem seminarju](https://www.fmf.uni-lj.si/sl/obvestila/agregator/152/seminar-sreda/). Naslednji seminarji se ukvarjajo s temami projekta J5-4596
 
