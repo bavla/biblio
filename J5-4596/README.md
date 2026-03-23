@@ -85,4 +85,4 @@ V predlogu projekta smo nameravali programsko podporo izvesti v programskem jezi
 
 Tu pride povzetek rezultatov.
 
-[Objave](pub.md) [Opisi](opisi.md)
+[Objave](pub.md) in [Opisi](opisi.md)
