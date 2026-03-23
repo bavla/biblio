@@ -71,4 +71,6 @@ znanstvenikov na določenih področjih itd.)
 
 ## Rezultati
 
-[Publications](pub.md)
+Tu pride povzetek rezultatov.
+
+[Objave](pub.md) [Opisi](opisi.md)
