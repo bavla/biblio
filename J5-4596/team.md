@@ -2,14 +2,14 @@
 
 ## Sodelavci z UP:
    * Vladimir Batagelj
-   * Krnc
-   * Požar
-   * Vičič
+   * Matjaž Krnc
+   * Rok Požar
+   * Jernej Vičič
    
 ## Sodelavci z IMFM:
-   * Tomaz Pisanski
-   * Nino Basic
-   * Alen Orbanic
+   * Tomaž Pisanski
+   * Nino Bašić
+   * Alen Orbanić
 
 ## Sodelavci s FF:
    * Jan Pisanski
