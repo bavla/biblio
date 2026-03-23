@@ -19,5 +19,8 @@
   - Bašić, Nino, Gévay, Gábor, Pisanski, Tomaž. The Möbius–Kantor graph is a faithful unit-distance graph. The art of discrete and applied mathematics. 2025, vol. , no. , str. 1-6 [COBISS.SI-ID 258543107]
   - Berman, Leah, Gévay, Gábor, Pisanski, Tomaž. Polycyclic geometric realizations of the Gray configuration. The Australasian journal of combinatorics. 2025, vol. 93, pt. 1, str. 171-197 [COBISS.SI-ID 250814979]
   - Bonvicini, Simona, Pisanski, Tomaž, Žitnik, Arjana. All generalized rose window graphs are hamiltonian. Graphs and combinatorics. Apr. 2026, vol. 42, iss. 2, [article no.] 27, 20 str. [COBISS.SI-ID 269644547]
-  - Pisanski, Tomaž. Zakaj elektronska knjiga?. V: Mulec, Janez. Življenjska pot matematika Iva Laha. Brezplačna elektronska izd. Koper: Založba Univerze na Primorskem, 2026. Str. 1-3. [COBISS.SI-ID 252742659]. 
+  - Pisanski, Tomaž. Zakaj elektronska knjiga?. V: Mulec, Janez. Življenjska pot matematika Iva Laha. Brezplačna elektronska izd. Koper: Založba Univerze na Primorskem, 2026. Str. 1-3. [COBISS.SI-ID 252742659].
+  - Bašić, Nino, Damnjanović, Ivan, Fowler, Patrick W. On the degrees of regular nut graphs and Cayley nut graphs. Ars mathematica contemporanea.  2026, vol. , no. , [article no.], str. 1-15, [COBISS.SI-ID 264594691]
+  - Bašić, Nino, Fowler, Patrick W., Mccarthy, Maxine M., Potočnik, Primož. Nut digraphs. Discrete applied mathematics. 2026, vol. 383, str. 203-226  [COBISS.SI-ID 264177411]
+  - Bašić, Nino, Damnjanović, Ivan. Nut graphs with a prescribed number of vertex and edge orbits. Journal of algebraic combinatorics. Jan. 2026, vol. 63, iss. 1, article no. 9, str. 1-12 [COBISS.SI-ID 264172035]
 
