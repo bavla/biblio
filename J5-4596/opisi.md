@@ -49,10 +49,9 @@ of keywords, keyword suggestions, journal suggestions, possible partners for res
 ## WP3. Methods and tools for the identification of units (entity resolution) replaced by 
 Development of support for obtaining networks from OpenAlex
 
-OpeAlex2Pajek GitHub
+V R-ju smo razvili knjižnico [OpeAlex2Pajek](https://github.com/bavla/OpenAlex/tree/main/OpenAlex2Pajek). Opisana je bila v članku []. In uporabljena za pridobivanje omrežij v člankih [] [] [] [].
 
-članek Collnet 2024
-OpenAlex tools collection
+Na straneh OpenAlex je vključena je v zbirko [OpenAlex tools collection] 
 
 ## WP4. Theoretical research in bibliographic network analysis
 
