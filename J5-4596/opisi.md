@@ -17,15 +17,12 @@ O delu na projektu smo poročali in dogovarjali na [Sredinem seminarju](https://
 
 
 ### T1.2 – Reporting. 
-Done on a yearly basis, as required by the financer (SRA/ARRS). Principal
-investigator will assign a member of the project to coordinate the collection of achievements
-in the reporting period, to prepare and submit the annual report. Financial reporting and funds
-monitoring will be performed by the accounting departments of the partners.
+Done on a yearly basis, as required by the financer (SRA/ARRS).  Financial reporting and funds
+monitoring was performed by the accounting departments of the partners.
 
 ### T1.3 – Dissemination. 
-The obtained results will be reported on international scientific
-conferences and published in scientific journals. The developed software, its documentation and
-example data sets will be made available on GitHub as open-source.
+The obtained results were reported on international scientific conferences and published in scientific journals. The developed software, its documentation and
+example data sets are made available on GitHub as open-source.
 
 ## WP2. Identification of higher order services and implementation of prototype solutions
 
