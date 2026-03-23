@@ -157,3 +157,6 @@ into development and structure of the field.
 
 Social networks [COBISS.SI-ID 217252611], Handball
 
+Smo člani združenja Network Analysis Software Collective (NASCol) https://www.nascol.net/ in sodelujemo pri pripravi “Guidelines for Reporting About Network Data” (GRAND) https://grand-statement.org/.
+Sodelujemo pri projektu COST HiTeC https://www.hitecaction.org/ .
+
