@@ -80,7 +80,7 @@ Multiway  - Cores in multiway networks [COBISS.SI-ID 217014531]
 ### T4.2 – Temporal versions of derived networks
 
 Časovna bibliografska omrežja se običajno ukvarjajo z leti. V projektu smo razvili metode časovne analize, ki uporabljajo časovno omrežje razslojeno na časovne rezine.
-
+Običajno so časovne rezine precej zapletena utežena omrežja. Ta poenostavimo tako, da jih nadomestimo s pripadajočimi skeleti izbrane vrste. V skeletu ohranimo le (glede na vprašanje) pomembne sestavine (vozlišča/povezave). Primeri skeletov so: vpeta drevesa, vozliščni/povezavni izrezi, k-naj povezave do sosedov, (posplošene) sredice.
 
 ### T4.3 – New temporal quantities describing temporal bibliographic networks
 
@@ -115,9 +115,14 @@ and analytic algorithms to support data cleaning in WP3. The tasks in this WP in
 
 Advanced algorithms will be implemented based on methods developed in WP4.
 
+Balassa normalization.
+
 ### T5.3 – Visualization methods. Integrations with selected Javascript/HTML/CSS visualization libraries.
 
 Visualization 3-way
+
+Balassa
+
 
 ### T5.4 – Testing, optimization and documenting the library.
 
