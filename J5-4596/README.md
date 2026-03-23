@@ -69,6 +69,18 @@ znanstvenikov na določenih področjih itd.)
 
 ## Spremembe
 
+Ob začetku izvajanja projekta je prišlo do dveh pomembnih dogodkov:
+- uveljavljati so se začela orodja umetne inteligence (ChatGPT, Claude, DeepSeek, itd.), ki jih lahko tudi uporabimo za iskanje odgovorov na nekatera bibliometrična vprašanja
+- delovati je začela odprta in prosto dostopna bibliografska podatkovna baza OpenAlex, ki je vnesla nove razsežnosti v dostopnost bibliografskih podatkov.
+
+Prvi cilj projekta (metode in algoritmi za kakovostno določitev bibliografskih enot) orodja umetne inteligence zelo dobro razrešujejo. Uporablja jih tudi OpenAlex. Še več, za razliko od drugih bibliografskih podatkovnih baz (Web of Science, Scopus, itd.) imajo v OpenAlexu vse bibliografske enote (dela, avtorji, ) identifikatorje, ki so javno dostopni. To bistveno olajša pripravo podatkov za analize. To, da je za identifikacijo poskrbljeno že v podatkovni bazi, je pravi pristop. Ker identifikacija ni vselej pravilna, je v delovanje baze potrebno vgraditi mehanizem za sodelovanje uporabnikov in odpravljanje odkritih napak. Zato smo prizadevanja usmerili v podporo uporabe bibliografske baze OpenAlex pri pridobivanju podatkov za analize.
+
+Pred tem smo kot vir podatkov v glavnem uporabljali tržno bibliografsko bazo Web of Science iz katere smo s pythonskim programom WoS2Pajek ustvarili ustrezna omrežja. Tržna narava baze postavlja omejitve na količino pridobljenih podatkov in na dostopnost ustvarjenih omrežij za druge raziskovalce. Razvili smo tudi programe za pridobivanje omrežij iz baz Scopus in ZBMath ter BibTeXovskih bibliografij. 
+ 
+Standardna shema analize je bila: (1) pridobi datoteko izbranih podatkov (iz izbrane bibliografske baze) (2) predelaj in prečisti podatke v ustrezna omrežja (3) analiziraj omrežja z uporabo programa Pajek in statističnih orodij. Naslonitev na OpenAlex omogoča združitev korakov (1) in (2). Korak (3) zahteva "programiranje" - izvedbo vprašanju ustreznih postopkov. 
+
+V predlogu projekta smo nameravali programsko podporo izvesti v programskem jeziku Julija, ki ustvarja hitrejšo prevedeno kodo. Po ponovnem premisleku se je izkazal za ustreznejši programski jezik R, ki je ustvarjen za podporo analize podatkov (statistike). Prednosti R-ja so izredno bogata zbirka knjižnic za najrazličneje probleme analize podatkov in veliko večja skupnost uporabnikov, ki ga dobro obvlada - je programski jezik privzet na podiplomskem študiju statistike. To omogoči tudi združiti vso analizo pod isto streho. Za predelavo izbranih bibliografskih podatkov iz OpenAlexa v pripadajoča omrežja smo razvili knjižnico OpenAlex2Pajek. Za izognitev preklapljanju med Pajkom in R-jem pa smo začeli z razvojem ustreznih Pajkovskih funkcij v R-ju zbranih v knjižnici Wnets. S tem bo v R-ju ustvarjeno enovito okolje v katerem bodo lahko uporabniki samostojno razvijali višje bibliografske storitve.
+ 
 ## Rezultati
 
 Tu pride povzetek rezultatov.
