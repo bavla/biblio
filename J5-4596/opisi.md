@@ -40,9 +40,9 @@ of keywords, keyword suggestions, journal suggestions, possible partners for res
 ) dobimo pogosto zadovoljive odgovore z uporabo orodij UI. Zato smo pozornost preusmerili na zahtevnejše analize podatkov iz bibliografskih podatkovnih baz:
 
   * soavtorstva med evropskimi državami skozi čas
-  *  analiza člankov objavljenih v izbrani reviji
-  *   analiza značilnosti novih univerz
-  *    analiza izmenjav Erasmus
+  * analiza člankov objavljenih v izbrani reviji
+  * analiza značilnosti novih univerz
+  * analiza izmenjav Erasmus
 
 
 
@@ -51,7 +51,6 @@ Development of support for obtaining networks from OpenAlex
 
 V R-ju smo razvili knjižnico [OpeAlex2Pajek](https://github.com/bavla/OpenAlex/tree/main/OpenAlex2Pajek). Opisana je bila v članku []. In uporabljena za pridobivanje omrežij v člankih [] [] [] [].
 
-Na straneh OpenAlex je vključena je v zbirko [OpenAlex tools collection] 
 
 ## WP4. Theoretical research in bibliographic network analysis
 
@@ -69,16 +68,27 @@ possibilities provided by these three approaches in the bibliographic network an
 The main tasks in this WP include:
 ### T4.1 – New derived networks based on normalization and multiplication; extension to weighted networks
 
-Truncated
+On weighted two-mode network projections [COBISS.SI-ID 216955651]
 
-Multiway
+Weighted degrees and truncated derived bibliographic networks [COBISS.SI-ID 216973315]
+
+
+Multiway  - Cores in multiway networks [COBISS.SI-ID 217014531]
 
 ### T4.2 – Temporal versions of derived networks
 
+Časovna bibliografska omrežja se običajno ukvarjajo z leti. V projektu smo razvili metode časovne analize, ki uporabljajo časovno omrežje razslojeno na časovne rezine.
+
+
 ### T4.3 – New temporal quantities describing temporal bibliographic networks
+
+Razvili smo tudi metode za analizo trajektorij. 
+
+Uporabili smo jih za analizo podobnosti slovenskih politikov Oštro.  [COBISS.SI-ID 186331907]
 
 ### T4.4 – Clustering in temporal networks
 
+[COBISS.SI-ID 197238275] [COBISS.SI-ID 182243075] konference
 
 ## WP5. Development of new methods for bibliographic network analysis in a new Julia package
 
@@ -94,16 +104,16 @@ rich network visualization methods leveraging modern Javascript/HTML/CSS based l
 (vis.js, vis-network, d3.js, NetworkD3). An important part of the library will be data structures
 and analytic algorithms to support data cleaning in WP3. The tasks in this WP include:
 
-### T5.1 – Implementation and optimization of basic data structures and algorithms
-from Nets and TQ in Julia. 
+### T5.1 – Implementation and optimization of basic data structures and algorithms from Nets and TQ in Julia. 
 
-netsweight, TQ.R
+[TQ](https://github.com/bavla/TQ)
+[netsWeight](https://github.com/bavla/Nets/tree/master/netsWeight) 
 
-### T5.2 – Implementation of advanced algorithms. Advanced algorithms will be implemented
-based on methods developed in WP4.
+### T5.2 – Implementation of advanced algorithms.
 
-### T5.3 – Visualization methods. Integrations with selected Javascript/HTML/CSS
-visualization libraries.
+Advanced algorithms will be implemented based on methods developed in WP4.
+
+### T5.3 – Visualization methods. Integrations with selected Javascript/HTML/CSS visualization libraries.
 
 Visualization 3-way
 
@@ -127,7 +137,16 @@ package will be divided into the following tasks.
 ### T6.1 – Bibliometric analysis in selected research fields with demonstration of the newly developed methods
 ### T6.2 – Applications for journal managers
 ### T6.3 – Applications for authors, researchers and students
+
+  * soavtorstva med evropskimi državami skozi čas  [COBISS.SI-ID 260663299]
+  * analiza člankov objavljenih v izbrani reviji  [COBISS.SI-ID 272388867]
+  * analiza značilnosti novih univerz  [COBISS.SI-ID 272423427]
+  * analiza izmenjav Erasmus [ArXiv ]
+
+
 To demonstrate the power of bibliographic (temporal) network analysis we will construct some
 collections of large networks on selected scientific fields and analyze them providing an insight
 into development and structure of the field.
+
+Social networks [COBISS.SI-ID 217252611], Handball
 
