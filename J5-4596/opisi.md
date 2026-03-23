@@ -46,7 +46,9 @@ of keywords, keyword suggestions, journal suggestions, possible partners for res
 
 
 
-## WP3. Methods and tools for the identification of units (entity resolution) replaced by 
+## WP3. Methods and tools for the identification of units (entity resolution) 
+
+replaced by 
 Development of support for obtaining networks from OpenAlex
 
 V R-ju smo razvili knjižnico [OpeAlex2Pajek](https://github.com/bavla/OpenAlex/tree/main/OpenAlex2Pajek). Opisana je bila v članku []. In uporabljena za pridobivanje omrežij v člankih [] [] [] [].
