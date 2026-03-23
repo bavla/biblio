@@ -84,7 +84,7 @@ Multiway  - Cores in multiway networks [COBISS.SI-ID 217014531]
 
 Razvili smo tudi metode za analizo trajektorij. 
 
-Uporabili smo jih za analizo podobnosti slovenskih politikov Oštro.  [COBISS.SI-ID 186331907]
+Uporabili smo jih za analizo podobnosti slovenskih politikov Oštro.  [COBISS.SI-ID 186331907] [COBISS.SI-ID 202923011]
 
 ### T4.4 – Clustering in temporal networks
 
