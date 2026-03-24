@@ -50,28 +50,30 @@ V R-ju smo razvili knjižnico OpeAlex2Pajek [1]. Opisana je bila v članku [2] i
 [3] BATAGELJ, Vladimir. OpenAlex2Pajek: an R-library for creating bibliometric networks. V: Applied Statistics 2024 : international conference : program and abstracts : September 23-25, 2024, Koper, Slovenia. [Ljubljana]: [Statistical Society of Slovenija], 2024. Str. 19. https://as.mf.uni-lj.si/uploads/pdf/as2024book.pdf. [COBISS.SI-ID 272600835]
 
 
-## WP4. Theoretical research in bibliographic network analysis
+## WP4. Teoretične raziskave v analizi bibliografskih omrežij
 
-An important tool in analysis of collections of linked networks (bibliographic networks are
-a special case) is network multiplication (Batagelj and Cerinšek, 2013) which enables us to
-compute derived networks. In order to consider each unit equally in the analysis of bibliographic
-networks, the fractional approach is used. Its theoretical background was proposed in our recent
-paper (Batagelj 2020). In papers Batagelj and Praprotnik (2016) and Batagelj and Maltseva
-(2020) we proposed a longitudinal approach to temporal network analysis and showed how it
-can be applied in analysis of temporal bibliographic networks. We will continue to explore the
-possibilities provided by these three approaches in the bibliographic network analysis. 
+Pomembno orodje pri analizi zbirk sklopljenih omrežij (bibliografska omrežja so poseben primer) je množenje omrežij (Batagelj in Cerinšek, 2013 [COBISS-ID: 16739929]), ki nam omogoča izračun izpeljanih omrežij. Da bi pri analizi bibliografskih omrežij enakovredno upoštevali vsako enoto, se uporablja deležni (fractional) pristop. Njegovo teoretično ozadje je bilo predlagano v našem članku (Batagelj, 2020 [COBISS-ID: 18940505]). V člankih Batagelj in Praprotnik (2016 [COBISS-ID: 525752089]) ter Batagelj in Maltseva (2020 [COBISS-ID: 18898009]) smo predlagali longitudinalni pristop k analizi časovnih omrežij in pokazali, kako ga je mogoče uporabiti pri analizi časovnih bibliografskih omrežij. 
 
-
-
-The main tasks in this WP include:
 ### T4.1 – New derived networks based on normalization and multiplication; extension to weighted networks
 
-On weighted two-mode network projections [COBISS.SI-ID 216955651]
-
-Weighted degrees and truncated derived bibliographic networks [COBISS.SI-ID 216973315]
 
 
-Multiway  - Cores in multiway networks [COBISS.SI-ID 217014531]
+[1] Batagelj, Vladimir. "On weighted two-mode network projections." Scientometrics 129, no. 6 (2024): 3565-3571. [COBISS.SI-ID 216955651]
+
+[2] Batagelj, Vladimir. "Weighted degrees and truncated derived bibliographic networks." Scientometrics 129, no. 8 (2024): 4863-4883.  [COBISS.SI-ID 216973315]
+
+[3] Batagelj, Vladimir. "Cores in multiway networks." Social Network Analysis and Mining 14, no. 1 (2024): 122. [COBISS.SI-ID 217014531]
+
+[4] Matveeva, Nataliya, Vladimir Batagelj, "Structures of Authors’ Collaboration at Young Universities". In Shushanik Sargsyan, Wolfgang Glänzel, Giovanni Abramo (eds.): Proceedings of 20th International Conference on Scientometrics & Informetrics - ISSI 2025, 23–27 June 2025, Yerevan, Armenia. Volume II (2025): 1630-1653. [COBISS.SI-ID 272423427]
+
+[5] BATAGELJ, Vladimir. Weighted degrees and truncated derived networks. V: HiTEc meeting & workshop on complex data in econometrics and statistics (HiTEc & CoDES 2024) : programme and abstracts : Cyprus University of Technology, Limassol, Cyprus, 23-24 March 2024. [S. l.: CMStatistics], 2024. Str. 9. https://www.cmstatistics.org/hiteccodes2024/docs/HITECCODES2024_BoA.pdf?20240305222439. [COBISS.SI-ID 272593667]
+      
+[6] BATAGELJ, Vladimir. Truncated two-mode network projections. V: Sunbelt Conference 2024 : 24-30 June 2024. Edinburgh: Heriot-Watt University. https://sunbelt2024.com/event-schedule/. [COBISS.SI-ID 272656643]
+
+[7] BATAGELJ, Vladimir. Analiza večsmernih omrežij. V: LIČEN, Mina (ur.), KASTRIN, Andrej (ur.). NetSlo ’25 : IX. srečanje raziskovalcev s področja analize omrežij : zbornik povzetkov prispevkov : Ljubljana, 23. januar 2025. Ljubljana: Statistično društvo Slovenije, 2025. Str. 9-10. ISBN 978-961-94283-7-5. https://netslo.mf.uni-lj.si/netslo25zbornik.pdf. [COBISS.SI-ID 272561155]
+
+[8] BATAGELJ, Vladimir. On the structure of the network of European airports and airlines. V: HiTEc meeting & workshop on complex data in econometrics and statistics, Limassol, Cyprus, 3-4 April 2023. [Brussels: COST], 2023. 1 spletni vir. http://www.cmstatistics.org/hiteccodes/fullprogramme.php. [COBISS.SI-ID 272689923]
+
 
 ### T4.2 – Temporal versions of derived networks
 
