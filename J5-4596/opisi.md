@@ -3,6 +3,10 @@
 
 Projektna spletna stran [https://github.com/bavla/biblio/blob/master/J5-4596/README.md](https://github.com/bavla/biblio/blob/master/J5-4596/README.md)
 
+[Obrazec](https://digitalforms.arrs.si/forms/group-list/rep?PageNumber=0&PageSize=25&SortDirection=0&FormStatus=99&ShowEnded=False&EntityType=99999&RO=2790&FormSignature=2&SearchSelectedGroup=)
+
+
+Napišite kratko vsebinsko poročilo, kjer boste predstavili raziskovalno hipotezo, opis raziskovanja, ugotovljene rezultate, uporabo rezultatov in sodelovanje s tujimi partnerji (mednarodno sodelovanje). Poročilo naj sledi v predlogu projekta zastavljenim ciljem (oz. nalogam), kjer o vsakem cilju poročate v ločenem razdelku. Razdelek naj se prične z oznako cilja, kot ste jo uporabili v predlogu, in eno-stavčnim opisom cilja. Sledijo naj eden do trije odstavki opisa rezultatov, kjer se pri vseh rezultatih skličete na reference (npr. [1] ali [1, 2]). Po odstavkih z opisom rezultatov za posamezen cilj v alinejah navedite reference za ta cilj (članki, referati, vabljena predavanja, patenti, ipd.). Alineje naj se pričnejo z ustrezno številko (npr. [1]). Rezultatov brez ustreznih referenc pri opisu rezultatov cilja ne navajajte. Če je le možno, navedbo posamezne reference zaključite z ustrezno šifro COBISS. Pri člankih je navedba šifre COBISS obvezna, navedite pa samo članke, kjer ste navedli podatke o sofinancerju (ARRS/ARIS) ali sofinancerjih ter številko ARIS projekta/programa, za katerega pišete poročilo. Celotni razdelek naj vsebuje največ 12.000 znakov, vključno s presledki (velikost pisave 11).
 
 ## WP1. Project management, coordination and dissemination
 
