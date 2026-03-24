@@ -44,7 +44,9 @@ Kot je bilo razloženo v Spremembah smo prvotni cilj "Metode in orodja za identi
 V R-ju smo razvili knjižnico OpeAlex2Pajek [1]. Opisana je bila v članku [2] in predstavljena na srečanjih []. In uporabljena za pridobivanje omrežij v člankih [] [] [] [].
 
 [1] OpeAlex2Pajek: https://github.com/bavla/OpenAlex/tree/main/OpenAlex2Pajek
+
 [2] Batagelj, Vladimir. "OpenAlex2Pajek--an R Package for converting OpenAlex bibliographic data into Pajek networks." COLLNET 2024, Strasbourg, December 12-14. In Jain, Praveen Kumar (ed.), et al. Innovations in webometrics, informetrics, and scientometrics: AI-driven approaches and insights. Delhi: Bookwell, cop. (2025): 66--77. ISBN 978-93-86578-65-5. arXiv preprint arXiv:2501.06656. [COBISS.SI-ID 220027395]
+
 [3] BATAGELJ, Vladimir. OpenAlex2Pajek: an R-library for creating bibliometric networks. V: Applied Statistics 2024 : international conference : program and abstracts : September 23-25, 2024, Koper, Slovenia. [Ljubljana]: [Statistical Society of Slovenija], 2024. Str. 19. https://as.mf.uni-lj.si/uploads/pdf/as2024book.pdf. [COBISS.SI-ID 272600835]
 
 
