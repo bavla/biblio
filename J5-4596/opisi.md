@@ -75,10 +75,15 @@ Pomembno orodje pri analizi zbirk sklopljenih omrežij (bibliografska omrežja s
 [8] BATAGELJ, Vladimir. On the structure of the network of European airports and airlines. V: HiTEc meeting & workshop on complex data in econometrics and statistics, Limassol, Cyprus, 3-4 April 2023. [Brussels: COST], 2023. 1 spletni vir. http://www.cmstatistics.org/hiteccodes/fullprogramme.php. [COBISS.SI-ID 272689923]
 
 
-### T4.2 – Temporal versions of derived networks
+### T4.2 – Časovne različice izpeljanih omrežij
 
 Časovna bibliografska omrežja se običajno ukvarjajo z leti. V projektu smo razvili metode časovne analize, ki uporabljajo časovno omrežje razslojeno na časovne rezine.
-Običajno so časovne rezine precej zapletena utežena omrežja. Ta poenostavimo tako, da jih nadomestimo s pripadajočimi skeleti izbrane vrste. V skeletu ohranimo le (glede na vprašanje) pomembne sestavine (vozlišča/povezave). Primeri skeletov so: vpeta drevesa, vozliščni/povezavni izrezi, k-naj povezave do sosedov, (posplošene) sredice.
+Običajno so časovne rezine precej zapletena utežena omrežja. Ta poenostavimo tako, da jih nadomestimo s pripadajočimi skeleti izbrane vrste. V skeletu ohranimo le (glede na vprašanje) pomembne sestavine (vozlišča/povezave). Primeri skeletov so: vpeta drevesa, vozliščni/povezavni izrezi, k-naj povezave do sosedov, (posplošene) sredice, otoki, itd.
+
+   1. BATAGELJ, Vladimir. Longitudinal approach to the analysis of temporal networks based on temporal quantities. V: Workshop Innovation in dynamic network modelling : Lugano, September 11-13, 2024. Lugano: Università della Svizzera Italiana, Institute of Computing; Torun: Bernoulli Society for Mathematical Statistics and Probability. 2024, 1 spletni vir. https://www.ci.inf.usi.ch/innodyn/. [COBISS.SI-ID 272640515]
+
+ARS
+COMPSTAT
 
 ### T4.3 – New temporal quantities describing temporal bibliographic networks
 
