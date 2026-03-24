@@ -12,7 +12,7 @@ Bibliografske storitve, kot so Web of Science/Knowledge, Scopus, CiteSeer, Zentr
 Math, Google Scholar, COBISS in druge, nudijo podatke o znanstvenih delih (članki, knjige,
 poročila, itd.). Posameznik jih običajno uporablja za iskanje del na izbrano tematiko,
 ustanove pa jih uporabljajo za ovrednotenje in načrtovanje raziskovalnega dela.
-Uporabljajo se tudi kot vir podatkov za bibliometrične in scientometrične raziskave. Ze te
+Uporabljajo se tudi kot vir podatkov za bibliometrične in scientometrične raziskave. Za te
 namene se podatki na izbrano tematiko pogosto pretvorijo v zbirko sklopljenih bibliografskih
 omrežij, ki povezujejo raznovrstne enote (dela, avtorje, urednike, revije, ključne besede,
 ustanove, države, jezike, itd.).
@@ -79,7 +79,7 @@ Pred tem smo kot vir podatkov v glavnem uporabljali tržno bibliografsko bazo We
  
 Standardna shema analize je bila: (1) pridobi datoteko izbranih podatkov (iz izbrane bibliografske baze) (2) predelaj in prečisti podatke v ustrezna omrežja (3) analiziraj omrežja z uporabo programa Pajek in statističnih orodij. Naslonitev na OpenAlex omogoča združitev korakov (1) in (2). Korak (3) zahteva "programiranje" - izvedbo vprašanju ustreznih postopkov. 
 
-V predlogu projekta smo nameravali programsko podporo izvesti v programskem jeziku Julija, ki ustvarja hitrejšo prevedeno kodo. Po ponovnem premisleku se je izkazal za ustreznejši programski jezik R, ki je ustvarjen za podporo analize podatkov (statistike). Prednosti R-ja so izredno bogata zbirka knjižnic za najrazličneje probleme analize podatkov in veliko večja skupnost uporabnikov, ki ga dobro obvlada - je programski jezik privzet na podiplomskem študiju statistike. To omogoči tudi združiti vso analizo pod isto streho. Za predelavo izbranih bibliografskih podatkov iz OpenAlexa v pripadajoča omrežja smo razvili knjižnico OpenAlex2Pajek. Za izognitev preklapljanju med Pajkom in R-jem pa smo začeli z razvojem ustreznih Pajkovskih funkcij v R-ju zbranih v knjižnici Wnets. S tem bo v R-ju ustvarjeno enovito okolje v katerem bodo lahko uporabniki samostojno razvijali višje bibliografske storitve.
+V predlogu projekta smo nameravali programsko podporo izvesti v programskem jeziku Julija, ki ustvarja hitrejšo prevedeno kodo. Po ponovnem premisleku se je izkazal za ustreznejši programski jezik R, ki je ustvarjen za podporo analize podatkov (statistike). Prednosti R-ja so izredno bogata zbirka knjižnic za najrazličneje probleme analize podatkov in veliko večja skupnost uporabnikov, ki ga dobro obvlada - je programski jezik privzet na podiplomskem študiju statistike. To omogoči tudi združiti vso analizo pod isto streho. Za predelavo izbranih bibliografskih podatkov iz OpenAlexa v pripadajoča omrežja smo razvili knjižnico OpenAlex2Pajek. Za izognitev preklapljanju med Pajkom in R-jem pa smo začeli z razvojem ustreznih Pajkovskih funkcij v R-ju zbranih v knjižnici netsWeight. S tem bo v R-ju ustvarjeno enovito okolje v katerem bodo lahko uporabniki samostojno razvijali višje bibliografske storitve.
  
 ## Rezultati
 
