@@ -8,9 +8,9 @@ Projektna spletna stran [https://github.com/bavla/biblio/blob/master/J5-4596/REA
 
 Napišite kratko vsebinsko poročilo, kjer boste predstavili raziskovalno hipotezo, opis raziskovanja, ugotovljene rezultate, uporabo rezultatov in sodelovanje s tujimi partnerji (mednarodno sodelovanje). Poročilo naj sledi v predlogu projekta zastavljenim ciljem (oz. nalogam), kjer o vsakem cilju poročate v ločenem razdelku. Razdelek naj se prične z oznako cilja, kot ste jo uporabili v predlogu, in eno-stavčnim opisom cilja. Sledijo naj eden do trije odstavki opisa rezultatov, kjer se pri vseh rezultatih skličete na reference (npr. [1] ali [1, 2]). Po odstavkih z opisom rezultatov za posamezen cilj v alinejah navedite reference za ta cilj (članki, referati, vabljena predavanja, patenti, ipd.). Alineje naj se pričnejo z ustrezno številko (npr. [1]). Rezultatov brez ustreznih referenc pri opisu rezultatov cilja ne navajajte. Če je le možno, navedbo posamezne reference zaključite z ustrezno šifro COBISS. Pri člankih je navedba šifre COBISS obvezna, navedite pa samo članke, kjer ste navedli podatke o sofinancerju (ARRS/ARIS) ali sofinancerjih ter številko ARIS projekta/programa, za katerega pišete poročilo. Celotni razdelek naj vsebuje največ 12.000 znakov, vključno s presledki (velikost pisave 11).
 
-## WP1. Project management, coordination and dissemination
+## WP1. Vodenje projekta, sodelovanje in objave
 
-### T1.1 – Coordination.
+### T1.1 – Sodelovanje.
 O delu na projektu smo poročali in se dogovarjali na [Sredinem seminarju](https://www.fmf.uni-lj.si/sl/obvestila/agregator/152/seminar-sreda/). Naslednji seminarji se ukvarjajo s temami projekta J5-4596
 
   * 2022: 1327, 1329, 1331, 1332;
@@ -20,42 +20,32 @@ O delu na projektu smo poročali in se dogovarjali na [Sredinem seminarju](https
   * 2026: 1377, 1379.
 
 
-### T1.2 – Reporting. 
-Done on a yearly basis, as required by the financer (SRA/ARRS).  Financial reporting and funds
-monitoring was performed by the accounting departments of the partners.
+### T1.2 – Poročanje. 
+Letna poročila (SRA/ARRS). Finančna poročila in nadzor so opravljale ustrezne službe partnerjev projekta.
 
-### T1.3 – Dissemination. 
-The obtained results were reported on international scientific conferences and published in scientific journals. The developed software, its documentation and
-example data sets are made available on GitHub as open-source.
 
-## WP2. Identification of higher order services and implementation of prototype solutions
+### T1.3 – Objave. 
+Pridobljeni rezultati so bili predstavljeni na mednarodnih znanstvenih konferencah in objavljeni v znanstvenih revijah in zbornikih konferenc. Razvita programska oprema, njena dokumentacija in primeri podatkov so na voljo na GitHubu kot odprtokodni viri. Posamezni rezultati so bili vključeni tudi v predavanja na univerzi.
 
-The main goal of the project is the identification of potential higher order services and development
-of some prototype solutions, based on investigation of actual needs and contexts
-of different interest groups. To support this goal we have to provide high quality data often
-obtained by combining data from different databases. We also have to develop new algorithms
-for some analytical problems.
+## WP2. Identifikacija višjenivojskih storitev
 
-Za preprostejša vprašanja (kje objaviti članek, pomembna dela ali avtorji na izbrano temo, itd.
-
-selecting appropriate reviewers, evaluation of reviewers, quality of data evaluation, automatic suggestion
-of keywords, keyword suggestions, journal suggestions, possible partners for research collaboration, papers to read for selected topics.
-
-) dobimo pogosto zadovoljive odgovore z uporabo orodij UI. Zato smo pozornost preusmerili na zahtevnejše analize podatkov iz bibliografskih podatkovnih baz:
+Za preprostejša vprašanja (kje objaviti članek, pomembna dela ali avtorji na izbrano temo, izbira ustreznih recenzentov, ocenjevanje recenzentov, predlaganje ključnih besed, možni partnerji za raziskovalno sodelovanje, itd.) dobimo pogosto zadovoljive odgovore z uporabo orodij UI. Zato smo pozornost preusmerili na zahtevnejše analize podatkov iz bibliografskih podatkovnih baz:
 
   * soavtorstva med evropskimi državami skozi čas
   * analiza člankov objavljenih v izbrani reviji
   * analiza značilnosti novih univerz
   * analiza izmenjav Erasmus
 
+Izvedbe teh storitev in dobljeni rezultati na izbranih omrežjih bodo opisani v naslednjih razdelkih.
 
+## WP3. Razvoj podpore za pridobivanje omrežij iz OpenAlexa
+Kot je bilo razloženo v Spremembah smo prvotni cilj "Metode in orodja za identifikacijo enot (določanje entitet)" zamenjali s podporo uporabe baze OpenAlex. 
 
-## WP3. Methods and tools for the identification of units (entity resolution) 
+V R-ju smo razvili knjižnico OpeAlex2Pajek [1]. Opisana je bila v članku [2] in predstavljena na srečanjih []. In uporabljena za pridobivanje omrežij v člankih [] [] [] [].
 
-replaced by 
-Development of support for obtaining networks from OpenAlex
-
-V R-ju smo razvili knjižnico [OpeAlex2Pajek](https://github.com/bavla/OpenAlex/tree/main/OpenAlex2Pajek). Opisana je bila v članku []. In uporabljena za pridobivanje omrežij v člankih [] [] [] [].
+[1] OpeAlex2Pajek: https://github.com/bavla/OpenAlex/tree/main/OpenAlex2Pajek
+[2] Batagelj, Vladimir. "OpenAlex2Pajek--an R Package for converting OpenAlex bibliographic data into Pajek networks." COLLNET 2024, Strasbourg, December 12-14. In Jain, Praveen Kumar (ed.), et al. Innovations in webometrics, informetrics, and scientometrics: AI-driven approaches and insights. Delhi: Bookwell, cop. (2025): 66--77. ISBN 978-93-86578-65-5. arXiv preprint arXiv:2501.06656. [COBISS.SI-ID 220027395]
+[3] BATAGELJ, Vladimir. OpenAlex2Pajek: an R-library for creating bibliometric networks. V: Applied Statistics 2024 : international conference : program and abstracts : September 23-25, 2024, Koper, Slovenia. [Ljubljana]: [Statistical Society of Slovenija], 2024. Str. 19. https://as.mf.uni-lj.si/uploads/pdf/as2024book.pdf. [COBISS.SI-ID 272600835]
 
 
 ## WP4. Theoretical research in bibliographic network analysis
