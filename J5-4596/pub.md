@@ -24,3 +24,4 @@
   1. Bašić, Nino, Fowler, Patrick W., Mccarthy, Maxine M., Potočnik, Primož. Nut digraphs. Discrete applied mathematics. 2026, vol. 383, str. 203-226  [COBISS.SI-ID 264177411]
   1. Bašić, Nino, Damnjanović, Ivan. Nut graphs with a prescribed number of vertex and edge orbits. Journal of algebraic combinatorics. Jan. 2026, vol. 63, iss. 1, article no. 9, str. 1-12 [COBISS.SI-ID 264172035]
 
+
