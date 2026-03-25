@@ -95,6 +95,10 @@ Uporabili smo jih za analizo podobnosti slovenskih politikov Oštro.  [COBISS.SI
 
 [COBISS.SI-ID 197238275] [COBISS.SI-ID 182243075] konference
 
+
+Ogrodje omrežja je graf. Objavili smo nekaj člankov iz teorije grafov
+
+
 ## WP5. Development of new methods for bibliographic network analysis in a new Julia package
 
 preklopili na R
