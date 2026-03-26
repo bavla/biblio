@@ -54,7 +54,7 @@ V R-ju smo razvili knjižnico OpeAlex2Pajek [1]. Opisana je bila v članku [2] i
 
 Pomembno orodje pri analizi zbirk sklopljenih omrežij (bibliografska omrežja so poseben primer) je množenje omrežij (Batagelj in Cerinšek, 2013 [COBISS-ID: 16739929]), ki nam omogoča izračun izpeljanih omrežij. Da bi pri analizi bibliografskih omrežij enakovredno upoštevali vsako enoto, se uporablja deležni (fractional) pristop. Njegovo teoretično ozadje je bilo predlagano v našem članku (Batagelj, 2020 [COBISS-ID: 18940505]). V člankih Batagelj in Praprotnik (2016 [COBISS-ID: 525752089]) ter Batagelj in Maltseva (2020 [COBISS-ID: 18898009]) smo predlagali longitudinalni pristop k analizi časovnih omrežij in pokazali, kako ga je mogoče uporabiti pri analizi časovnih bibliografskih omrežij. 
 
-### T4.1 – New derived networks based on normalization and multiplication; extension to weighted networks
+### T4.1 – Nova izpeljana omrežja, ki temeljijo na normalizaciji in množenju; razširitev na utežena omrežja
 
 
 
