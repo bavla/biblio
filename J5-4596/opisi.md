@@ -134,58 +134,40 @@ Ogrodje omrežja je graf. Sodelovali smo pri nekaj člankih iz teorije grafov
 
   1. Pisanski, Tomaž. Zakaj elektronska knjiga?. V: Mulec, Janez. Življenjska pot matematika Iva Laha. Brezplačna elektronska izd. Koper: Založba Univerze na Primorskem, 2026. Str. 1-3. [COBISS.SI-ID 252742659].
 
-## WP5. Development of new methods for bibliographic network analysis in a new Julia package
+## WP5. Razvoj novih metod za analizo bibliografskih omrežij v R-ju
 
-preklopili na R
+Spočetka smo nameravali analizo bibliografskih omrežij podpreti v programskem jeziku Julia, a smo po ponovnem premisleku spoznali, da je ustreznejši programski jezik R.
 
-Bibliographic networks can be large (some hundred thousands or even millions of nodes). The
-developed software support should provide solutions that can deal also with such data efficiently
-– in a range of some seconds or minutes. The core of this WP will be implementation of the new
-library in the Julia programming language, that is interoperable with Python, R and Pajek.
-The library will be based on experiences gained from Python libraries Nets, TQ and Biblio.
-We will also develop direct data imports/exports from JSON based formats and direct and
-rich network visualization methods leveraging modern Javascript/HTML/CSS based libraries
-(vis.js, vis-network, d3.js, NetworkD3). An important part of the library will be data structures
-and analytic algorithms to support data cleaning in WP3. The tasks in this WP include:
 
-### T5.1 – Implementation and optimization of basic data structures and algorithms from Nets and TQ in Julia. 
+### T5.1 – Implementacija in optimizacija osnovnih podatkovnih struktur in algoritmov iz Nets in TQ
 
 [TQ](https://github.com/bavla/TQ)
 [netsWeight](https://github.com/bavla/Nets/tree/master/netsWeight) 
 
-### T5.2 – Implementation of advanced algorithms.
+### T5.2 – Implementacija algoritmov iz WP4.
 
 Advanced algorithms will be implemented based on methods developed in WP4.
 
-Balassa normalization.
+Salton, Balassa normalization, neighbors
 
-### T5.3 – Visualization methods. Integrations with selected Javascript/HTML/CSS visualization libraries.
+### T5.3 – Prikazi
 
 Visualization 3-way
 
 Balassa
 
 
-### T5.4 – Testing, optimization and documenting the library.
+### T5.4 – Testiranje, optimizacija in dokumentiranje knjižnic.
 
 
-## WP6. Demonstration of applications
+## WP6. Uporabe
 
 nekatere primere prepustimo UI.
 
-The prototype demonstrations will be developed with selected end users, considering their
-needs and use cases. We will work with editors of selected journals (e.g. Ars Mathematica
-Contemporanea, Acta Chimica Slovenica). The use cases we may consider include: selecting
-appropriate reviewers, evaluation of reviewers, quality of data evaluation, automatic suggestion
-of keywords, etc. We will also consider use cases from the “consumer” side, namely authors,
-researchers and students. This may include keyword suggestions, journal suggestions, possible
-partners for research collaboration, papers to read for selected topics. Demonstrations will be
-focused on selected research fields (e.g. mathematics, social network analysis, etc.). The work
-package will be divided into the following tasks.
 
-### T6.1 – Bibliometric analysis in selected research fields with demonstration of the newly developed methods
-### T6.2 – Applications for journal managers
-### T6.3 – Applications for authors, researchers and students
+### T6.1 – Bibliometrična analiza izbranih raziskovalnih področjih z uporabo novo razvitih metod
+### T6.2 – Uporabe za urednike revij
+### T6.3 – Uporabe za avtorje, raziskovalce in študente
 
   * soavtorstva med evropskimi državami skozi čas  [COBISS.SI-ID 260663299]
   * analiza člankov objavljenih v izbrani reviji  [COBISS.SI-ID 272388867]
@@ -193,9 +175,6 @@ package will be divided into the following tasks.
   * analiza izmenjav Erasmus [ArXiv ]
 
 
-To demonstrate the power of bibliographic (temporal) network analysis we will construct some
-collections of large networks on selected scientific fields and analyze them providing an insight
-into development and structure of the field.
 
 Social networks [COBISS.SI-ID 217252611], Handball
 
