@@ -90,13 +90,30 @@ COMPSTAT
 Razvili smo tudi metode za analizo trajektorij. 
 
 Uporabili smo jih za analizo podobnosti slovenskih politikov Oštro.  [COBISS.SI-ID 186331907] [COBISS.SI-ID 202923011]
+  1. Ferligoj, Anuška, Batagelj, Vladimir. Analiza podatkov projekta Zvezoskop. Oštro. 21. feb. 2024, 1 spletni vir, ISSN 2670-7594. https://www.ostro.si/si/zgodbe/analiza-podatkov-projekta-zvezoskop. [COBISS.SI-ID 186331907]
 
 ### T4.4 – Clustering in temporal networks
 
 [COBISS.SI-ID 197238275] [COBISS.SI-ID 182243075] konference
+  1. Batagelj, V., Ferligoj, A., Doreian, P.: Network clustering. ID (stat08434). DOI: 10.1002/9781118445112.stat08434. Wiley StatsRef-Statistics Reference Online (2024). [COBISS.SI-ID 197238275]
+  1. Doreian, P., Ferligoj, A., Batagelj, V. Blockmodeling, positions and roles. V: Mclevey, John (ur.), Scott, John (ur.), Carrington, Peter J. (ur.). The Sage handbook of social network analysis. 2nd ed. London [etc.]: Sage, cop. 2024. Str. 404-416, ilustr. ISBN 978-1-5297-7961-5. [COBISS.SI-ID 182243075]
+
+### T4.5 - Drugo
 
 
 Ogrodje omrežja je graf. Sodelovali smo pri nekaj člankih iz teorije grafov
+
+[1] Batagelj, Vladimir, Jan Pisanski, and Tomaž Pisanski. "Higher-Order Bibliographic Services based on bibliographic networks." IS2024-SIKDD_2024, Ljubljana, October 7 2024, IJS (2024): 27-30. [COBISS.SI-ID 217039619]
+
+[2] Pisanski, Jan. The consistency of the research field data : a case study of library and information science in Slovenia. V: Slana Ozimič, Anka (ur.), et al. Kognitivna znanost:Informacijska družba, IS 2024 : zbornik 27. mednarodne multikonference: zvezek B : 10.oktober 2024, Ljubljana, Slovenia. Ljubljana: Institut "Jožef Stefan", 2024. Str. 24-26 [COBISS.SI-ID 225007619]
+
+[3] Pisanski, Tomaž, Vladimir Batagelj, and Jan Pisanski. "Open Science and Goodhart’s Law." IS2024-Cognitive Science, Ljubljana, October 11 2024, (2024): 20-23 [COBISS.SI-ID 215870723]
+
+[4] Verde, Rosanna, Vladimir Batagelj, Paula Brito, A. Pedro Duarte Silva, Simona Korenjak-Černe, Jasminka Dobša, and Edwin Diday. "New skills in symbolic data analysis for official statistics." Statistical Journal of the IAOS 40, no. 3 (2024): 563-579.  [COBISS.SI-ID 206800899]
+
+[5] Batagelj, Vladimir, Tomaž Pisanski, Iztok Savnik, Ana Slavec, and Nino Bašić. "Towards a Format for Describing Networks." 28th international multiconference IS 2025 6.-10. October 2025, Ljubljana, Slovenia; SiKDD 2025 Proceedings, pages 102-105 (2025). [COBISS.SI-ID 272464131]
+
+
 
 [1] POŽAR, Rok, MARTIN, Tim, GIORDANI, Bruno, KAVCIC, Voyko. Enhanced functional brain network integration in mild cognitive impairment during cognitive task performance : a compensatory mechanism or a result of neural disinhibition?. The European journal of neuroscience. 2024, vol. 60, iss. 7, str. 5569-5580,  DOI: 10.1111/ejn.16511. [COBISS.SI-ID 205199107]
 
@@ -166,8 +183,16 @@ nekatere primere prepustimo UI.
 
 
 ### T6.1 – Bibliometrična analiza izbranih raziskovalnih področjih z uporabo novo razvitih metod
+
+  1. Maltseva, Daria, and Vladimir Batagelj. "Citation and bibliographic coupling between authors in the field of social network analysis." Journal of Data and Information Science 9, no. 4 (2024): 110-154.  [COBISS.SI-ID 217252611]
+
 ### T6.2 – Uporabe za urednike revij
-### T6.3 – Uporabe za avtorje, raziskovalce in študente
+  1. Batagelj, Vladimir. "Bibliometric analysis of a scientific journal based on OpenAlex data." Advances in Methodology and Statistics 22, no. 2 (2025): 31-50. [COBISS.SI-ID 272388867]
+### T6.3 – Uporabe za druge vrste uporabnikov
+
+  1. Ferligoj, Anuška, Vladimir Batagelj, Marjan Cugmas, and Franc Mali. "Bridging borders or widening gaps? The dynamics of European scientific collaboration networks." Scientometrics 130, no. 12 (2025): 7005-7030. [COBISS.SI-ID 260663299]
+
+  1. Matveeva, Nataliya, Vladimir Batagelj, "Structures of Authors’ Collaboration at Young Universities". In Shushanik Sargsyan, Wolfgang Glänzel, Giovanni Abramo (eds.): Proceedings of 20th International 
 
   * soavtorstva med evropskimi državami skozi čas  [COBISS.SI-ID 260663299]
   * analiza člankov objavljenih v izbrani reviji  [COBISS.SI-ID 272388867]
@@ -180,4 +205,7 @@ Social networks [COBISS.SI-ID 217252611], Handball
 
 Smo člani (program Pajek) združenja Network Analysis Software Collective (NASCol) https://www.nascol.net/ . Sodelujemo pri pripravi “Guidelines for Reporting About Network Data” (GRAND) https://grand-statement.org/.
 Sodelujemo pri projektu COST HiTeC https://www.hitecaction.org/ .
+
+
+
 
