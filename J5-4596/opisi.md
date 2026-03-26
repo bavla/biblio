@@ -78,6 +78,10 @@ Konf
    1. BATAGELJ, Vladimir. Weighted degrees and truncated derived networks. V: HiTEc meeting & workshop on complex data in econometrics and statistics (HiTEc & CoDES 2024) : programme and abstracts : Cyprus University of Technology, Limassol, Cyprus, 23-24 March 2024. [S. l.: CMStatistics], 2024. Str. 9. https://www.cmstatistics.org/hiteccodes2024/docs/HITECCODES2024_BoA.pdf?20240305222439. [COBISS.SI-ID 272593667]
    1. BATAGELJ, Vladimir. Truncated two-mode network projections. V: Sunbelt Conference 2024 : 24-30 June 2024. Edinburgh: Heriot-Watt University. https://sunbelt2024.com/event-schedule/. [COBISS.SI-ID 272656643]
 
+29. BATAGELJ, Vladimir. Cores in multiway networks. V: CUGMAS, Marjan (ur.), KRONEGGER, Luka (ur.). 7th European Conference on Social Networks : abstracts & program. Ljubljana: Faculty of Social Sciences, 2023. Str. 24. ISBN 978-961-295-059-0. https://eusn2023.org/wp-content/uploads/2023/09/Book_AbstractsEUSN23.pdf. [COBISS.SI-ID 272891395]
+
+33. BATAGELJ, Vladimir. Introduction to the analysis of multiway networks. V: HiTEc Spring Course, Limassol, Cyprus, 3-4 April 2023. [Brussels: COST], 2023. 1 spletni vir. https://www.hitecaction.org/limassol2023course.php. [COBISS.SI-ID 272929027]
+
 
 ### T4.2 – Časovne različice izpeljanih omrežij
 
@@ -88,6 +92,9 @@ Običajno so časovne rezine precej zapletena utežena omrežja. Ta poenostavimo
 
 ARS
 COMPSTAT
+
+Konf
+28. BATAGELJ, Vladimir. Analysis of weighted temporal networks represented by time slices. V: 25th International Conference on Computational Statistics (COMPSTAT 2023), 22-25 August, London, UK : [list of abstracts]. [London: CMStatistics], 2023. 1 spletni vir. https://www.cmstatistics.org/RegistrationsV2/COMPSTAT2023/fullprogramme.php. [COBISS.SI-ID 272974083]
 
    1. BATAGELJ, Vladimir. Longitudinal approach to the analysis of temporal networks based on temporal quantities. V: Workshop Innovation in dynamic network modelling : Lugano, September 11-13, 2024. Lugano: Università della Svizzera Italiana, Institute of Computing; Torun: Bernoulli Society for Mathematical Statistics and Probability. 2024, 1 spletni vir. https://www.ci.inf.usi.ch/innodyn/. [COBISS.SI-ID 272640515]
 
@@ -106,6 +113,9 @@ Konf
 [COBISS.SI-ID 197238275] [COBISS.SI-ID 182243075] konference
   1. Batagelj, V., Ferligoj, A., Doreian, P.: Network clustering. ID (stat08434). DOI: 10.1002/9781118445112.stat08434. Wiley StatsRef-Statistics Reference Online (2024). [COBISS.SI-ID 197238275]
   1. Doreian, P., Ferligoj, A., Batagelj, V. Blockmodeling, positions and roles. V: Mclevey, John (ur.), Scott, John (ur.), Carrington, Peter J. (ur.). The Sage handbook of social network analysis. 2nd ed. London [etc.]: Sage, cop. 2024. Str. 404-416, ilustr. ISBN 978-1-5297-7961-5. [COBISS.SI-ID 182243075]
+
+Konf
+34. BATAGELJ, Vladimir. Clustering of mixed symbolic data based on cluster leaders. V: Symbolic Data Analysis Workshop - SDA 2023 : 2-4 November 2023, Conservatoire National des Arts et Métiers, Paris, France : programme and abstracts. Paris: [s. n.], 2023. Str. 17-18. https://f77f0061-b0c9-4a9a-9115-83cc01e7dfae.filesusr.com/ugd/233129_298b1763ade545acb86169e24a921778.pdf. [COBISS.SI-ID 272869379]
 
 ### T4.5 - Drugo
 
@@ -162,7 +172,9 @@ Ogrodje omrežja je graf. Sodelovali smo pri nekaj člankih iz teorije grafov
 
 Konf
 
-   1. BATAGELJ, Vladimir. File representations of symbolic data for Open Science. V: DOBŠA, Jasminka (ur.), BUHIN PANDUR, Maja (ur.). 10th Workshop on Symbolic Data Analysis - SDA 2025, Varaždin, 9th - 11th June 2025 : programme and abstracts. Zagreb: University of Zagreb, Faculty of Organization and Informatics, 2025. Str. 23-24, ilustr. ISBN 978-953-6071-84-5. https://lana.foi.hr/sda_2025/data/uploads/SDA2025-Book%20of%20Abstracts.pdf. [COBISS.SI-ID 272442627]
+   1. BATAGELJ, Vladimir. File representations of symbolic data for Open Science. V: DOBŠA, Jasminka (ur.), BUHIN PANDUR, Maja (ur.). 10th Workshop on Symbolic Data Analysis - SDA 2025, Varaždin, 9th - 11th June 2025 : programme and abstracts. Zagreb: University of Zagreb, Faculty of Organization and Informatics, 2025. Str. 23-24,  [COBISS.SI-ID 272442627]
+   2. BATAGELJ, Vladimir. Exactly mergeable summaries. V: Conference on New Techniques and Technologies for Statistics, Brussels, 7-9 March 2023. Luxembourg: Eurostat, 2023. Str. 191.  [COBISS.SI-ID 272922371]
+
 
 ## WP5. Razvoj novih metod za analizo bibliografskih omrežij v R-ju
 
@@ -187,6 +199,10 @@ Salton, Balassa normalization, neighbors
 Visualization 3-way
 
 Balassa
+
+Konf
+
+30. BATAGELJ, Vladimir. 3D visualization of multiway networks. V: KASTRIN, Andrej (ur.), LUSA, Lara (ur.). Applied statistics 2023 : international conference : program and abstracts : September 24-26, 2023, Koper, Slovenia. Ljubljana: Statistical Society of Slovenia, 2023. Str. 58. https://www.dlib.si/details/URN:NBN:SI:DOC-2CXQPK7A. [COBISS.SI-ID 272881411]
 
 
 ### T5.4 – Testiranje, optimizacija in dokumentiranje knjižnic.
@@ -236,6 +252,42 @@ Social networks [COBISS.SI-ID 217252611], Handball
 
 Smo člani (program Pajek) združenja Network Analysis Software Collective (NASCol) https://www.nascol.net/ . Sodelujemo pri pripravi “Guidelines for Reporting About Network Data” (GRAND) https://grand-statement.org/.
 Sodelujemo pri projektu COST HiTeC https://www.hitecaction.org/ .
+
+
+EFOS Pozvano predavanje prof. dr. sc. Ferligoj i prof. dr. sc. Batagelja, Osijek, 2 September 2023. Vladimir Batagelj: Introduction to bibliographic network analysis. slides
+
+23rd EYSM 23rd European Young Statisticians Meeting, virtually in Ljubljana, Slovenia, 11-15 September 2023. Batagelj, V.: Analysis of bibliographic networks. slides
+
+Spinaker Summer School, Krakow, Poland, 3-14. July 2023. Vladimir Batagelj: Network Analysis in Complex Environment - Analysis of weighted networks.
+
+Sunbelt 2023 Online Workshop, Zoom, June 24, 2023. Vladimir Batagelj: MWnets - an R package for the analysis of multiway networks.
+
+Lecture at University of Trieste, Zoom, 30 May 2023. Vladimir Batagelj: Introduction to the analysis of multiway networks.
+Lecture at FRI, Ljubljana, 25 May 2023. Vladimir Batagelj: Introduction to the analysis of multiway networks.
+
+HiTEc Spring Course, 3-5 April 2023, Poseidonia Beach Hotel, Limassol, Cyprus. Vladimir Batagelj, Introduction to the analysis of multiway networks slides.
+
+SKOČAJ, Danijel, STRNAD, Damjan, ROBNIK ŠIKONJA, Marko, BATAGELJ, Vladimir, BRATKO, Ivan, DIVJAK, Matjaž, ROGELJ, Peter, BIZJAK, Marko, SLIVNIK, Boštjan, FAJFAR, Tanja. Terminološki slovar s področja umetne inteligence. Kamnik: Amebis, 2023. 1 spletni vir. Termania. ISBN 978-961-6474-74-0. https://www.termania.net/slovarji/601/Terminoloski_slovar_s_podrocja_umetne_inteligence. [COBISS.SI-ID 187719939]
+
+Workshop: Innovation in dynamic network modeling, September 11-13, 2024, Università della Svizzera Italiana, Lugano. Vladimir Batagelj, Longitudinal approach to the analysis of temporal networks based on temporal quantities. slides
+
+Workshop: Innovation in dynamic network modeling, September 11-13, 2024, Università della Svizzera Italiana, Lugano. Anuška Ferligoj, Vladimir Batagelj, Marjan Cugmas, Franc Mali: Analysis of the temporal sequence of co-authorship networks between European countries in the years 1990-2023 from OpenAlex. slides
+
+20th International Conference Applied Statistics 2024, 23–25. September 2024. Koper/Capodistria, Slovenia. Vladimir Batagelj, OpenAlex2Pajek – an R-library for creating bibliometric networks. slides
+
+COLLNET 2024, Strasbourg, December 12-14, Proceedings p. 66-77. Batagelj, V.: OpenAlex2Pajek – an R Package for converting OpenAlex bibliographic data into Pajek networks. slides; paper
+
+Drilling into Erasmus learning mobility flows between countries 2014-2024 arXiv  https://arxiv.org/abs/2505.00889
+
+OZUP – Odprta Znanost na Univerzi na Primorskem, Zoom, 17. april 2025. Vladimir Batagelj: OpenAlex - katalog odprtih raziskovalnih objav. slides; video
+
+Sunbelt 2025, Paris, June 23-29, 2025. Vladimir Batagelj: Workshop: Analysis of weighted networks. Tuesday, June 24 9:00 am – 4:30 pm. Sciences Po Paris, Room 1ST-C.S14. Program, Github.
+
+Sunbelt 2025, Paris, June 23-29, 2025. Vladimir Batagelj: Salton cosine index in network analysis. Saturday, June 28, 2025. Slides
+
+Konferenca slovenskih matematikov 2025, September 12-13, 2025 / UP FAMNIT, Koper. Vladimir Batagelj: Slovenian mathematicians / analysis of bibliographic networks from OpenAlex. Abstract, Slides.
+
+ARS'25 Tenth International Workshop on Social Network Analysis, 30-31 October 2025, Naples (Italy); Vladimir Batagelj: Exploring World Trade Networks; Anuška Ferligoj, Vladimir Batagelj, Marjan Cugmas, Franc Mali: Closer together or further apart? The Dynamics of European Scientific Collaboration Networks
 
 
 
