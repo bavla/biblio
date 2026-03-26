@@ -74,6 +74,10 @@ Pomembno orodje pri analizi zbirk sklopljenih omrežij (bibliografska omrežja s
 
 [8] BATAGELJ, Vladimir. On the structure of the network of European airports and airlines. V: HiTEc meeting & workshop on complex data in econometrics and statistics, Limassol, Cyprus, 3-4 April 2023. [Brussels: COST], 2023. 1 spletni vir. http://www.cmstatistics.org/hiteccodes/fullprogramme.php. [COBISS.SI-ID 272689923]
 
+Konf
+   1. BATAGELJ, Vladimir. Weighted degrees and truncated derived networks. V: HiTEc meeting & workshop on complex data in econometrics and statistics (HiTEc & CoDES 2024) : programme and abstracts : Cyprus University of Technology, Limassol, Cyprus, 23-24 March 2024. [S. l.: CMStatistics], 2024. Str. 9. https://www.cmstatistics.org/hiteccodes2024/docs/HITECCODES2024_BoA.pdf?20240305222439. [COBISS.SI-ID 272593667]
+   1. BATAGELJ, Vladimir. Truncated two-mode network projections. V: Sunbelt Conference 2024 : 24-30 June 2024. Edinburgh: Heriot-Watt University. https://sunbelt2024.com/event-schedule/. [COBISS.SI-ID 272656643]
+
 
 ### T4.2 – Časovne različice izpeljanih omrežij
 
@@ -85,12 +89,17 @@ Običajno so časovne rezine precej zapletena utežena omrežja. Ta poenostavimo
 ARS
 COMPSTAT
 
+   1. BATAGELJ, Vladimir. Longitudinal approach to the analysis of temporal networks based on temporal quantities. V: Workshop Innovation in dynamic network modelling : Lugano, September 11-13, 2024. Lugano: Università della Svizzera Italiana, Institute of Computing; Torun: Bernoulli Society for Mathematical Statistics and Probability. 2024, 1 spletni vir. https://www.ci.inf.usi.ch/innodyn/. [COBISS.SI-ID 272640515]
+
 ### T4.3 – New temporal quantities describing temporal bibliographic networks
 
 Razvili smo tudi metode za analizo trajektorij. 
 
 Uporabili smo jih za analizo podobnosti slovenskih politikov Oštro.  [COBISS.SI-ID 186331907] [COBISS.SI-ID 202923011]
   1. Ferligoj, Anuška, Batagelj, Vladimir. Analiza podatkov projekta Zvezoskop. Oštro. 21. feb. 2024, 1 spletni vir, ISSN 2670-7594. https://www.ostro.si/si/zgodbe/analiza-podatkov-projekta-zvezoskop. [COBISS.SI-ID 186331907]
+
+Konf
+   1. BATAGELJ, Vladimir, FERLIGOJ, Anuška. Network analysis approach to the analysis of event sequences. V: Book of abstracts : Data Science, Classification and Artificial Intelligence for Modeling Decision Making : Recent Advances in Statistical Computing and Data Science. 18th Conference of the International Federation of Classification Societies, San Jose, Costa Rica, 15-19 July 2024. [S. l.]: University of Costa Rica, 2024. Str. 49. https://ifcs.ucr.ac.cr/images/IFCS/Documents/Program/IFCS-2024_abst-2024-07-17.pdf. [COBISS.SI-ID 202923011]
 
 ### T4.4 – Clustering in temporal networks
 
@@ -151,6 +160,10 @@ Ogrodje omrežja je graf. Sodelovali smo pri nekaj člankih iz teorije grafov
 
   1. Pisanski, Tomaž. Zakaj elektronska knjiga?. V: Mulec, Janez. Življenjska pot matematika Iva Laha. Brezplačna elektronska izd. Koper: Založba Univerze na Primorskem, 2026. Str. 1-3. [COBISS.SI-ID 252742659].
 
+Konf
+
+   1. BATAGELJ, Vladimir. File representations of symbolic data for Open Science. V: DOBŠA, Jasminka (ur.), BUHIN PANDUR, Maja (ur.). 10th Workshop on Symbolic Data Analysis - SDA 2025, Varaždin, 9th - 11th June 2025 : programme and abstracts. Zagreb: University of Zagreb, Faculty of Organization and Informatics, 2025. Str. 23-24, ilustr. ISBN 978-953-6071-84-5. https://lana.foi.hr/sda_2025/data/uploads/SDA2025-Book%20of%20Abstracts.pdf. [COBISS.SI-ID 272442627]
+
 ## WP5. Razvoj novih metod za analizo bibliografskih omrežij v R-ju
 
 Spočetka smo nameravali analizo bibliografskih omrežij podpreti v programskem jeziku Julia, a smo po ponovnem premisleku spoznali, da je ustreznejši programski jezik R.
@@ -160,6 +173,8 @@ Spočetka smo nameravali analizo bibliografskih omrežij podpreti v programskem 
 
 [TQ](https://github.com/bavla/TQ)
 [netsWeight](https://github.com/bavla/Nets/tree/master/netsWeight) 
+
+   1. BATAGELJ, Vladimir. OpenAlex2Pajek : an R-library for creating bibliometric networks. V: Applied Statistics 2024 : international conference : program and abstracts : September 23-25, 2024, Koper, Slovenia. [Ljubljana]: [Statistical Society of Slovenija], 2024. Str. 19. https://as.mf.uni-lj.si/uploads/pdf/as2024book.pdf. [COBISS.SI-ID 272600835]
 
 ### T5.2 – Implementacija algoritmov iz WP4.
 
@@ -186,18 +201,34 @@ nekatere primere prepustimo UI.
 
   1. Maltseva, Daria, and Vladimir Batagelj. "Citation and bibliographic coupling between authors in the field of social network analysis." Journal of Data and Information Science 9, no. 4 (2024): 110-154.  [COBISS.SI-ID 217252611]
 
+Konf
+   1. BATAGELJ, Vladimir. Slovenian mathematicians / analysis of bibliographic networks from OpenAlex. V: Konferenca slovenskih matematikov 2025 : UP FAMNIT, 12. in 13. september 2025 : zbornik povzetkov. Ljubljana: Društvo matematikov, fizikov in astronomov Slovenije, 2025. Str. 1. https://conferences.matheo.si/event/45/attachments/199/640/Koper-4.pdf. [COBISS.SI-ID 249294595]
+1.12 Objavljeni povzetek znanstvenega prispevka na konferenci
+
 ### T6.2 – Uporabe za urednike revij
   1. Batagelj, Vladimir. "Bibliometric analysis of a scientific journal based on OpenAlex data." Advances in Methodology and Statistics 22, no. 2 (2025): 31-50. [COBISS.SI-ID 272388867]
+
+   1. BATAGELJ, Vladimir. Bibliometric analysis of a scientific journal based on OpenAlex data. V: KASTRIN, Andrej (ur.), LUSA, Lara (ur.). 21st Applied Statistics 2025 : international conference : book of abstracts : September 21–23, 2025, Koper, Slovenia. Electronic version. Ljubljana: Statistical Society of Slovenia, 2025. Str. 78. ISBN 978-961-94283-8-2. https://as.mf.uni-lj.si/uploads/pdf/as2025book.pdf. [COBISS.SI-ID 272454147]
+
 ### T6.3 – Uporabe za druge vrste uporabnikov
 
   1. Ferligoj, Anuška, Vladimir Batagelj, Marjan Cugmas, and Franc Mali. "Bridging borders or widening gaps? The dynamics of European scientific collaboration networks." Scientometrics 130, no. 12 (2025): 7005-7030. [COBISS.SI-ID 260663299]
 
   1. Matveeva, Nataliya, Vladimir Batagelj, "Structures of Authors’ Collaboration at Young Universities". In Shushanik Sargsyan, Wolfgang Glänzel, Giovanni Abramo (eds.): Proceedings of 20th International 
 
+Konf
+   1. FERLIGOJ, Anuška, BATAGELJ, Vladimir, CUGMAS, Marjan, MALI, Franc. Closer together or further apart? : the dynamics of European scientific collaboration networks. V: ARS'25 : Tenth International Workshop on Social Network Analysis : Thursday, 30 October 2025 - Friday, 31 October 2025, Naples (Italy) : programme. [S. l.: s. n., 2025]. Str. 20. https://indico.unina.it/event/103/timetable/?layout=room#all, https://indico.unina.it/event/103/contributions/2716/. [COBISS.SI-ID 255901955]
+   1. BATAGELJ, Vladimir. Drilling into Erasmus learning mobility flows between countries 2014-2024. V: HiTEc meeting & workshop on complex data in econometrics and statistics (HiTEc & CoDES 2025) : programme and abstracts : Cyprus University of Technology, Limassol, Cyprus, 8-9 July 2025. [S. l.: CMStatistics], 2025. Str. 2. https://www.cmstatistics.org/hiteccodes2025/docs/HITECCODES2025_BoA.pdf?20250608213724. [COBISS.SI-ID 272450307]
+
   * soavtorstva med evropskimi državami skozi čas  [COBISS.SI-ID 260663299]
   * analiza člankov objavljenih v izbrani reviji  [COBISS.SI-ID 272388867]
   * analiza značilnosti novih univerz  [COBISS.SI-ID 272423427]
   * analiza izmenjav Erasmus [ArXiv ]
+
+Konf
+   1. BATAGELJ, Vladimir. On the structure of the network of European airports and airlines. V: HiTEc meeting & workshop on complex data in econometrics and statistics, Limassol, Cyprus, 3-4 April 2023. [Brussels: COST], 2023. 1 spletni vir. http://www.cmstatistics.org/hiteccodes/fullprogramme.php. [COBISS.SI-ID 272689923]
+   1. FERLIGOJ, Anuška, BATAGELJ, Vladimir, CUGMAS, Marjan, MALI, Franc. Analysis of the temporal sequence of co-authorship networks between European countries in the years 1990-2023 from OpenAlex. V: Workshop Innovation in dynamic network modelling : Lugano, September 11-13, 2024. Lugano: Università della Svizzera Italiana, Institute of Computing; Torun: Bernoulli Society for Mathematical Statistics and Probability. 2024, 1 spletni vir. https://www.ci.inf.usi.ch/innodyn/. [COBISS.SI-ID 208059907]
+
 
 
 
