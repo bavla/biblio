@@ -96,7 +96,29 @@ Uporabili smo jih za analizo podobnosti slovenskih politikov Oštro.  [COBISS.SI
 [COBISS.SI-ID 197238275] [COBISS.SI-ID 182243075] konference
 
 
-Ogrodje omrežja je graf. Objavili smo nekaj člankov iz teorije grafov
+Ogrodje omrežja je graf. Sodelovali smo pri nekaj člankih iz teorije grafov
+
+[1] POŽAR, Rok, MARTIN, Tim, GIORDANI, Bruno, KAVCIC, Voyko. Enhanced functional brain network integration in mild cognitive impairment during cognitive task performance : a compensatory mechanism or a result of neural disinhibition?. The European journal of neuroscience. 2024, vol. 60, iss. 7, str. 5569-5580,  DOI: 10.1111/ejn.16511. [COBISS.SI-ID 205199107]
+
+[2] POŽAR, Rok. Fast computation of the centralizer of a permutation group in the symmetric group. Journal of symbolic computation. jul./avg. 2024, vol. 123, art. 102287, str. 1-14.  DOI: 10.1016/j.jsc.2023.102287. [COBISS.SI-ID 181181699]
+
+[3] ZUGAN, Dani, POŽAR, Rok, BRODNIK, Andrej. Floyd–Warshall algorithm for sparse graphs. Algorithms. Dec. 2015, vol. 18, iss. 12, [article no.] 766, str. 1-13, DOI: 10.3390/a18120766. [COBISS.SI-ID 262471683]
+
+[4] POŽAR, Rok, MARTIN, Tim, KERLIN, Mary Katherine, MCCOLLIGAN, Aidan, GIORDANI, Bruno, KAVCIC, Voyko. Baseline resting-state network integration modulates task performance and aftereffect. Sensors. Jan.-1 2026, vol. 26, iss. 1, [article no.] 41, str. 1-12, DOI: 10.3390/s26010041. [COBISS.SI-ID 266590979]
+
+[5] MALNIČ, Aleksander, POŽAR, Rok. On reduced Hamilton walks. Applied mathematics and computation. [Print ed.]. 1 Feb. 2026, vol. 510, art. 129695, str. 1-11,  DOI: 10.1016/j.amc.2025.129695. [COBISS.SI-ID 248238083]
+
+[6] HILAIRE, Claire, KRNC, Matjaž, MILANIČ, Martin, RAYMOND, Jean-Florent. Linear colorings of graphs. European journal of combinatorics. May 2026, vol. 135, [article no.] 104374, str. 1-22.  DOI: 10.1016/j.ejc.2026.104374. [COBISS.SI-ID 272926979]
+
+[7] GURVICH, Vladimir, KRNC, Matjaž, MILANIČ, Martin, VYALYI, Mikhail N. Avoidability beyond paths. The Electronic journal of combinatorics. [Online ed.]. 2025, vol. 32, iss. 2, article no. p2.27, str. 1-39 DOI: 10.37236/13023. [COBISS.SI-ID 237137667]
+
+[8] GURVICH, Vladimir, KRNC, Matjaž, VYALYI, Mikhail N. Growing trees and amoebas’ replications. Results in mathematics. 2025, vol. 80, article no. 117, str. 1-17, DOI: 10.1007/s00025-025-02421-6. [COBISS.SI-ID 237096963]
+
+[9] GOTTLIEB, Eric, KRNC, Matjaž, MURŠIČ, Peter. Sprague–Grundy values and complexity for LCTR. Discrete applied mathematics. [Print ed.]. mar. 2024, vol. 346, str. 154-169, DOI: 10.1016/j.dam.2023.11.036. [COBISS.SI-ID 178885891]
+
+[10] CHIARELLI, Nina, KRNC, Matjaž, MILANIČ, Martin, PFERSCHY, Ulrich, SCHAUER, Joachim. Fair allocation algorithms for indivisible items under structured conflict constraints. Computational & Applied Mathematics. Oct. 2023, vol. 42, iss. 7, [article no.] 302, 21 str. DOI: 10.1007/s40314-023-02437-0. [COBISS.SI-ID 164733443]
+
+[11] CHIARELLI, Nina, KRNC, Matjaž, MILANIČ, Martin, PFERSCHY, Ulrich, PIVAČ, Nevena, SCHAUER, Joachim. Fair allocation of indivisible items with conflict graphs. Algorithmica. May 2023, vol. 85, iss. 5, str. 1459-1489.  DOI: 10.1007/s00453-022-01079-8. [COBISS.SI-ID 134381827]
 
 
 ## WP5. Development of new methods for bibliographic network analysis in a new Julia package
