@@ -54,6 +54,18 @@ V predlogu projekta smo nameravali programsko podporo izvesti v programskem jezi
  
 ## Rezultati
 
-Tu pride povzetek rezultatov.
+Bibliografski podatki zbrani v bibliografskih bazah omogočajo odgovore na veliko več vprašanj kot pa jih ponujajo vmesniki do storitev teh baz. Osnovni cilj projekta je omogočiti izvedbo analiz, ki omogočajo dobiti te odgovore - višjestopenjske bibliografske storitve.
+
+Pred začetkom projekta smo kot vir podatkov v glavnem uporabljali tržno bibliografsko bazo Web of Science, iz katere smo s pythonskim programom WoS2Pajek ustvarili ustrezna omrežja. V projektu smo se usmerili na razvoj metod za analizo bibliografskih omrežij in izgradnjo programske podpore za pridobivanje omrežij iz baze OpenAlex in analizo bibliografskih omrežij. Pri programiranju le-te smo se odločili za programski jezik R, ki je ustvarjen za podporo analize podatkov (statistike) in ga obvlada večje število uporabnikov. To omogoči tudi združiti vso analizo pod isto streho. Za predelavo izbranih bibliografskih podatkov iz OpenAlexa v pripadajoča omrežja smo razvili knjižnico OpenAlex2Pajek. Za izognitev preklapljanju med Pajkom in R-jem pa smo začeli z razvojem ustreznih Pajkovskih funkcij v R-ju zbranih v knjižnici netsWeight. Obe knjižnici sestavljata enovito okolje, v katerem bodo lahko uporabniki samostojno razvijali višje bibliografske storitve.
+
+Izpeljana omrežja so utežena. V teoretičnem delu projekta smo nadaljevali z razvojem postopkov, ki temeljijo na izpeljanih omrežjih, in razdelali vprašanje neupoštevanja povezav z zelo majhno utežjo. Za vpogled v utežena omrežja jih poenostavimo tako, da jih oklestimo - nadomestimo s pripadajočimi skeleti izbrane vrste. Razvili smo metode časovne analize, ki uporabljajo časovno omrežje razslojeno na časovne rezine - stanja omrežja v izbranih časovnih intervalih. Posamezno rezino analiziramo z metodami analize uteženih omrežij in dobljene rezultate združimo v časovno zaporedje. Pri razumevanju in tolmačenju rezultatov so nam v veliko pomoč ustrezni slikovni prikazi. Za posebej uporabna sta se izkazala pristop 1-sosedov in pri manjših omrežjih (npr. države sveta) Balasseva normalizacija uteži.
+
+Dodatno smo razvili tudi postopke za analizo enot, ki temeljijo na opisih enot s trajektorijami - zaporedji dogodkov. Pojem omrežja smo posplošili na večsmerna omrežja. Za opis omrežij z lastnostmi opisanimi s strukturiranimi vrednostmi smo predlagali obliko zapisa netsJSON, ki jo vgrajujemo v naše programske rešitve.
+
+Rezultati bibliografskih analiz se uporabljajo tudi pri vrednotenjih dela posameznikov, skupin in ustanov. Pri tem se pogosto začuti delovanje Goodhartovega zakona - Ko mera postane cilj, preneha biti dobra mera. Razmišljali smo o njegovi vlogi v odprti znanosti.
+
+Razvite metode in knjižnici smo preizkusili z analizami bibliografskih omrežij na izbrane teme.
+
+Razvita programska oprema, njena dokumentacija in primeri podatkov so na voljo na GitHubu kot odprtokodni viri.
 
 [Objave](pub.md), [Predstavitve](meet.md) in [Opisi](opisi.md)
