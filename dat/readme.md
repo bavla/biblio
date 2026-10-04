@@ -7,7 +7,7 @@
 1. Year.clu - publication year vector for centrality literature
 1. [Sandi](https://github.com/bavla/biblio/tree/master/dat/sandi) - authorship network
 1. [Peere](https://github.com/bavla/biblio/tree/master/dat/peere) - networks on peer-review
-1. [SN5-2008.ZIP](./SN5-2008.zip) - collection of bibliographic networks for Viszards' session in 2008.
+1. [SN5-2008.ZIP](./SN5-2008.zip) - collection of bibliographic networks on SNA till 2007 for Viszards' session in 2008.
 <hr>
 
 [Network data sets](https://github.com/bavla/Nets/tree/master/data/README.md)
